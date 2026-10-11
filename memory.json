@@ -1,20 +1,41 @@
 {
   "leads": [
     {
+      "source": "github_bounty",
+      "title": "feat(scout): resilient Algora source adapter with discontinued-source detection ",
+      "url": "https://github.com/Nexussyn/ai-growth-platform/pull/40",
+      "value": 15,
+      "desc": "## Summary\r\n\r\nImplements the Algora source adapter for `runtime-opportunity-scout` with one material finding: **Algora's public bounty API no longer exists.**\r\n\r\nVerification (2026-10-05, live):\r\n- `GET https://algora.io/api/bounties?status=open&limit=50` \u2192 HTTP 200, `content-type: text/html; charse"
+    },
+    {
+      "source": "github_bounty",
+      "title": "add: audio note recording bounty",
+      "url": "https://github.com/warpspeedopen-source/warpspeed-bounties/pull/201",
+      "value": 5,
+      "desc": "This pull request adds an audio note recording bounty to the open bounties list and includes contributing guidelines for the 'Audio Note Recording' feature. Please review the updated BOUNTIES.md and CONTRIBUTING.md files and submit a pull request to merge.\n\n---\nResolves #9\n\n**Algora Bounty Claim / P"
+    },
+    {
+      "source": "github_bounty",
+      "title": "feat: Add tracking for SN bounty 1586028",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/pull/1265",
+      "value": 15,
+      "desc": "## Summary\nThis PR adds the newly detected Stacker News bounty (ID: 1586028, 'Write my bio') to the local ledger tracking system.\n\n## Changes\n- Created `data/ledger/2026-10-01_summary.json` to record the bounty signal detected by the radar.\n\n## Verification\n- Verified the bounty ID 1586028 matches t"
+    },
+    {
       "source": "article",
-      "title": "Come ho automatizzato scraping con Python",
+      "title": "Come ho automatizzato deploy con Python",
       "value": 3,
       "url": "",
       "desc": "Articolo tecnico per Dev.to con possibile bounty"
     },
     {
       "source": "article",
-      "title": "5 tool free per freelance",
+      "title": "5 tool free per indie hacker",
       "value": 2,
       "url": "",
       "desc": "Lista tool - monetizzabile con affiliazioni"
     }
   ],
-  "last_run": "2026-10-11T08:33:41.630098",
+  "last_run": "2026-10-11T08:37:22.842318",
   "history": []
 }
