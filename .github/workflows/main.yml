@@ -16,11 +16,24 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install requests
-      - run: python main.py
+      
+      - name: Debug secrets
+        run: |
+          if [ -z "${{ secrets.TELEGRAM_BOT_TOKEN }}" ]; then echo "TOKEN MANCANTE"; else echo "TOKEN OK esiste"; fi
+          if [ -z "${{ secrets.TELEGRAM_CHAT_ID }}" ]; then echo "CHAT_ID MANCANTE"; else echo "CHAT_ID OK esiste"; fi
+      
+      - name: Test Telegram diretto da Actions
+        run: |
+          curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage?chat_id=${{ secrets.TELEGRAM_CHAT_ID }}&text=[STRIPPED 68 bytes]"
+
+      - name: Run main
+        run: python main.py
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      - run: |
+
+      - name: Push changes
+        run: |
           echo "__pycache__/" >> .gitignore
           echo "*.pyc" >> .gitignore
           git config user.name "accountant"
