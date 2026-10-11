@@ -1,0 +1,30 @@
+{
+  "project": "quota-protocol",
+  "cycle": 1,
+  "quota": 10,
+  "currency": "USD",
+  "days_left": 30,
+  "days_total": 30,
+  "rules": {
+    "allowed_businesses": [
+      "github_bounty",
+      "articles",
+      "any_legal_business"
+    ],
+    "forbidden": [
+      "spam",
+      "scam",
+      "illegal",
+      "nsfw"
+    ],
+    "requires_approval": [
+      "publish_article",
+      "open_pr",
+      "publish_video",
+      "spend_real_money",
+      "post_social"
+    ]
+  },
+  "termination": "Se balance < quota a fine ciclo, reset wallet e memory",
+  "owner_approval": "telegram"
+}
