@@ -1,91 +1,113 @@
-import os, requests, json, glob, shutil
+import os
+import requests
+import glob
+import shutil
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "").strip()
 OFFSET_FILE = ".telegram_offset"
 
 def tg_send(text, keyboard=None):
+    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
     if keyboard:
-        payload["reply_markup"] = keyboard # IMPORTANTE: dict, non stringa
+        payload["reply_markup"] = keyboard
     try:
-        r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", json=payload, timeout=15)
-        print(r.text[:600])
+        r = requests.post(url, json=payload, timeout=15)
+        print(f"TG SENT: {r.status_code} {r.text[:400]}")
     except Exception as e:
-        print(f"TG send error: {e}")
+        print(f"TG ERROR: {e}")
 
-def tg_answer_callback(cb_id, text="Fatto!"):
+def tg_answer(cb_id, text="Ricevuto!"):
     try:
         requests.post(f"https://api.telegram.org/bot{TOKEN}/answerCallbackQuery",
                       json={"callback_query_id": cb_id, "text": text}, timeout=10)
-    except: pass
+    except Exception as e:
+        print(f"Answer error: {e}")
 
 def get_offset():
-    try: return int(open(OFFSET_FILE).read().strip())
-    except: return 0
-def save_offset(o): open(OFFSET_FILE,"w").write(str(o))
+    try:
+        return int(open(OFFSET_FILE, "r").read().strip())
+    except:
+        return 0
+
+def save_offset(o):
+    open(OFFSET_FILE, "w").write(str(o))
 
 def handle_approvals():
     offset = get_offset()
+    print(f"Checking updates from offset {offset}")
     try:
+        # resetta webhook così i bottoni funzionano
+        requests.get(f"https://api.telegram.org/bot{TOKEN}/deleteWebhook", timeout=5)
+
         r = requests.get(f"https://api.telegram.org/bot{TOKEN}/getUpdates",
-                         params={"offset": offset, "timeout": 5}, timeout=15).json()
+                         params={"offset": offset, "timeout": 0}, timeout=15).json()
+
         max_id = offset
         for upd in r.get("result", []):
             max_id = max(max_id, upd["update_id"] + 1)
 
-            # 1. Click sui bottoni
+            # CLICK SU BOTTONE
             if "callback_query" in upd:
                 cb = upd["callback_query"]
-                data = cb.get("data","") # formato: approva|drafts/file.md
+                data = cb.get("data", "")
                 cb_id = cb.get("id")
-                print(f"Callback ricevuto: {data}")
+                print(f"BOTTONE CLICCATO: {data}")
                 if "|" in data:
-                    action, fpath = data.split("|",1)
+                    action, fpath = data.split("|", 1)
                     fpath = fpath.strip()
                     if action == "approva" and os.path.exists(fpath):
                         os.makedirs("published", exist_ok=True)
                         shutil.move(fpath, os.path.join("published", os.path.basename(fpath)))
-                        tg_answer_callback(cb_id, "✅ Approvato!")
-                        tg_send(f"✅ <b>APPROVATO</b>\n<code>{fpath}</code> → <b>published/</b>")
+                        tg_answer(cb_id, "✅ Approvato!")
+                        tg_send(f"✅ <b>APPROVATO</b>\n\n<code>{fpath}</code>\n→ <b>published/</b>")
                     elif action == "rifiuta" and os.path.exists(fpath):
                         os.makedirs("rejected", exist_ok=True)
                         shutil.move(fpath, os.path.join("rejected", os.path.basename(fpath)))
-                        tg_answer_callback(cb_id, "❌ Rifiutato")
-                        tg_send(f"❌ <b>RIFIUTATO</b>\n<code>{fpath}</code>")
-                    else:
-                        tg_answer_callback(cb_id, "File non trovato")
+                        tg_answer(cb_id, "❌ Rifiutato")
+                        tg_send(f"❌ <b>RIFIUTATO</b>\n\n<code>{fpath}</code>")
 
-            # 2. Comandi scritti /approva /rifiuta (fallback)
-            elif "message" in upd:
-                txt = upd["message"].get("text","").strip()
+            # COMANDO SCRITTO /approva
+            elif "message" in upd and "text" in upd["message"]:
+                txt = upd["message"]["text"].strip()
+                print(f"MESSAGGIO: {txt}")
                 if txt.startswith("/approva"):
-                    fpath = txt.split(" ",1)[1].strip() if " " in txt else ""
-                    if os.path.exists(fpath):
-                        os.makedirs("published", exist_ok=True)
-                        shutil.move(fpath, os.path.join("published", os.path.basename(fpath)))
-                        tg_send(f"✅ <b>APPROVATO</b> (da comando)\n<code>{fpath}</code>")
+                    parts = txt.split(" ", 1)
+                    if len(parts) == 2:
+                        fpath = parts[1].strip()
+                        if os.path.exists(fpath):
+                            os.makedirs("published", exist_ok=True)
+                            shutil.move(fpath, os.path.join("published", os.path.basename(fpath)))
+                            tg_send(f"✅ <b>APPROVATO</b>\n<code>{fpath}</code>")
+
                 elif txt.startswith("/rifiuta"):
-                    fpath = txt.split(" ",1)[1].strip() if " " in txt else ""
-                    if os.path.exists(fpath):
-                        os.makedirs("rejected", exist_ok=True)
-                        shutil.move(fpath, os.path.join("rejected", os.path.basename(fpath)))
-                        tg_send(f"❌ <b>RIFIUTATO</b> (da comando)\n<code>{fpath}</code>")
+                    parts = txt.split(" ", 1)
+                    if len(parts) == 2:
+                        fpath = parts[1].strip()
+                        if os.path.exists(fpath):
+                            os.makedirs("rejected", exist_ok=True)
+                            shutil.move(fpath, os.path.join("rejected", os.path.basename(fpath)))
+                            tg_send(f"❌ <b>RIFIUTATO</b>\n<code>{fpath}</code>")
 
         save_offset(max_id)
+        print(f"New offset saved: {max_id}")
     except Exception as e:
-        print(f"handle_approvals error: {e}")
+        print(f"handle_approvals ERROR: {e}")
 
-# 1. Processa click precedenti
+# 1. Gestisce click vecchi
 handle_approvals()
 
-# 2. Manda nuova richiesta con bottoni belli
+# 2. Manda nuova richiesta
 drafts = sorted(glob.glob("drafts/*.md"))
 if drafts:
     last = drafts[-1]
-    content = open(last, encoding="utf-8", errors="ignore").read()
+    try:
+        content = open(last, encoding="utf-8", errors="ignore").read()
+    except:
+        content = ""
     title = content.splitlines()[0][:150] if content else last
-    preview = content[:700] + ("..." if len(content)>700 else "")
+    preview = content[:700]
 
     keyboard = {
         "inline_keyboard": [
@@ -106,10 +128,10 @@ if drafts:
 <b>Anteprima:</b>
 <pre>{preview}</pre>
 <b>━━━━━━━━━━━━━━</b>
-
-Per vedere tutto: 【entity-GitHub¦canonical_name=GitHub】 → drafts/
 """
 
     tg_send(msg, keyboard=keyboard)
 else:
     tg_send("✅ <b>Quota Protocol LIVE</b>\nNessuna bozza nuova.")
+
+print("main.py finito")
