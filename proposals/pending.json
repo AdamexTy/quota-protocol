@@ -8,5 +8,15 @@
     "value_usd": 50,
     "draft_path": "/home/runner/work/quota-protocol/quota-protocol/drafts/github_bounty-9756.md",
     "status": "pending"
+  },
+  {
+    "id": "prop-1791707621",
+    "created_at": "2026-10-11T08:33:41.630922",
+    "action_type": "publish_article",
+    "title": "5 tool free per freelance",
+    "description": "Lead da article: \nValore stimato $2",
+    "value_usd": 2,
+    "draft_path": "/home/runner/work/quota-protocol/quota-protocol/drafts/article-6423.md",
+    "status": "pending"
   }
 ]
