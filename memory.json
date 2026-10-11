@@ -1,0 +1,40 @@
+{
+  "leads": [
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] bounty",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1556",
+      "value": 15,
+      "desc": "### \u8d4f\u91d1\u5e73\u53f0 / Platform\nGitHub\n\n### \u539f\u59cb\u94fe\u63a5 / Source URL\nhttps://github.com/OmniBlocks/Boxy-gh/issues/140\n\n### \u6f0f\u6d1e\u63cf\u8ff0 / Description\nbounty\n\nbounty for $10000000000000000000000000000000000000000000000000000000000000000000000000000000000 in bitcoin if you fix evil thing\n\n### \u79ef\u5206\u5e01\u5956\u52b1 / Coin Reward\n124999999999999"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] Bounty",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1573",
+      "value": 15,
+      "desc": "### \u8d4f\u91d1\u5e73\u53f0 / Platform\nGitHub\n\n### \u539f\u59cb\u94fe\u63a5 / Source URL\nhttps://github.com/OmniBlocks/Boxy-gh/issues/143\n\n### \u6f0f\u6d1e\u63cf\u8ff0 / Description\nBounty\n\nI will pay $100 for whoever can implement a feature in Boxy's code review bot that pre-emptively closes the PRs of people who aren't in the organization and aren't expli"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] Reverse bounty",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558",
+      "value": 50,
+      "desc": "### \u8d4f\u91d1\u5e73\u53f0 / Platform\nGitHub\n\n### \u539f\u59cb\u94fe\u63a5 / Source URL\nhttps://github.com/OmniBlocks/monorepo/issues/795\n\n### \u6f0f\u6d1e\u63cf\u8ff0 / Description\nReverse bounty\n\nHello! I am looking to pay a bounty of great magnitude* to whoever can complete the following tasks by April 1st, 2027:\n* Write a blog post detailing how you we"
+    },
+    {
+      "source": "article",
+      "title": "Come ho automatizzato scraping con Python",
+      "value": 3,
+      "url": "",
+      "desc": "Articolo tecnico per Dev.to con possibile bounty"
+    },
+    {
+      "source": "article",
+      "title": "5 tool free per freelance",
+      "value": 2,
+      "url": "",
+      "desc": "Lista tool - monetizzabile con affiliazioni"
+    }
+  ],
+  "last_run": "2026-10-11T08:30:55.296606"
+}

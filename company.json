@@ -3,7 +3,7 @@
   "cycle": 1,
   "quota": 10,
   "currency": "USD",
-  "days_left": 30,
+  "days_left": 29,
   "days_total": 30,
   "rules": {
     "allowed_businesses": [

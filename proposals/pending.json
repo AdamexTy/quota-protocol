@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "prop-1791707455",
+    "created_at": "2026-10-11T08:30:55.297229",
+    "action_type": "open_pr",
+    "title": "[Bounty] Reverse bounty",
+    "description": "Lead da github_bounty: https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558\nValore stimato $50",
+    "value_usd": 50,
+    "draft_path": "/home/runner/work/quota-protocol/quota-protocol/drafts/github_bounty-9756.md",
+    "status": "pending"
+  }
+]
