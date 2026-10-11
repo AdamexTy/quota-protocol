@@ -17,20 +17,6 @@ jobs:
           python-version: "3.11"
       - run: pip install requests
 
-      - name: Test Telegram via Python
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          python -c "
-          import os, requests
-          t = os.getenv('TELEGRAM_BOT_TOKEN','').strip()
-          c = os.getenv('TELEGRAM_CHAT_ID','').strip()
-          print(f'Token len: {len(t)} Chat len: {len(c)}')
-          r = requests.get(f'https://api.telegram.org/bot{t}/sendMessage', params={'chat_id': c, 'text': 'Test da Actions via python - ora funziona'})
-          print(r.text)
-          "
-
       - name: Run main
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -41,6 +27,7 @@ jobs:
         run: |
           echo "__pycache__/" >> .gitignore
           echo "*.pyc" >> .gitignore
+          echo ".telegram_offset" >> .gitignore
           git config user.name "accountant"
           git config user.email "accountant@quota.protocol"
           git add -A
