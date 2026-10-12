@@ -5,6 +5,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: quota
+  cancel-in-progress: false
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -13,16 +16,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install requests
+          cache: pip
+      - run: pip install -r requirements.txt
       - name: Run main
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python main.py
       - name: Push changes
+        if: always()
         run: |
           git config user.name "accountant"
           git config user.email "accountant@quota.protocol"
           git add -A
-          git diff --staged --quiet || git commit -m "daily cycle - approved"
-          git push
+          git diff --staged --quiet || (git commit -m "daily cycle" && git pull --rebase && git push)

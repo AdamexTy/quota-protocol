@@ -55,6 +55,14 @@ Starts simulated ($0 fake), evolves to real USDC via OpenClaw wallet.
 3. Enable GitHub Actions - daily run at 9AM
 4. Local: `pip install -r requirements.txt && python main.py`
 
+### Come gira
+
+Ogni run (GitHub Actions, una volta al giorno): applica i comandi Telegram arrivati, l'ACCOUNTANT conta il giorno, l'HUNTER cerca lead, il WORKER prepara una bozza in `drafts/` e crea una proposta (max 3 in attesa). Ricevi il riepilogo su Telegram.
+
+Comandi (solo dalla tua chat): `/stato`, `/approva <id>`, `/rifiuta <id>`, `/incassa <importo>`.
+Il balance cambia **solo** con `/incassa`, quando hai ricevuto davvero un pagamento. Approvare non accredita nulla.
+I comandi vengono letti al run successivo (o lancia il workflow a mano da Actions).
+
 ### Project Status
 
 Cycle 1 - Quota $10 - Experimental

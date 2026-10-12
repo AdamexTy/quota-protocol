@@ -6,7 +6,7 @@
     "title": "[Bounty] Reverse bounty",
     "description": "Lead da github_bounty: https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558\nValore stimato $50",
     "value_usd": 50,
-    "draft_path": "/home/runner/work/quota-protocol/quota-protocol/drafts/github_bounty-9756.md",
+    "draft_path": "drafts/github_bounty-9756.md",
     "status": "pending"
   },
   {
@@ -16,7 +16,7 @@
     "title": "5 tool free per freelance",
     "description": "Lead da article: \nValore stimato $2",
     "value_usd": 2,
-    "draft_path": "/home/runner/work/quota-protocol/quota-protocol/drafts/article-6423.md",
+    "draft_path": "drafts/article-6423.md",
     "status": "pending"
   },
   {
@@ -26,7 +26,7 @@
     "title": "5 tool free per indie hacker",
     "description": "Lead da article: \nValore stimato $2",
     "value_usd": 2,
-    "draft_path": "/home/runner/work/quota-protocol/quota-protocol/drafts/article-9986.md",
+    "draft_path": "drafts/article-9986.md",
     "status": "pending"
   }
 ]

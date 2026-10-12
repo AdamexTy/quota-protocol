@@ -1,41 +1,44 @@
-
-import pathlib, json, random
+import random
+from agents.common import BASE, load
 from agents.approval import create_proposal
-BASE = pathlib.Path(__file__).parent.parent
 
 """
-WORKER - Esegue i lead del HUNTER, ma non pubblica senza approvazione.
+WORKER - prepara una bozza per il lead migliore e chiede approvazione. Non pubblica mai da solo.
 """
+
+PROPOSALS = BASE / "proposals"
+MAX_PENDING = 3
+
 
 def run():
-    mem_file = BASE / "memory.json"
-    if not mem_file.exists():
-        print("WORKER: nessuna memoria, hunter deve girare prima")
+    pending = load(PROPOSALS / "pending.json", [])
+    if len(pending) >= MAX_PENDING:
+        print(f"WORKER: {len(pending)} proposte in attesa, aspetto le tue decisioni")
         return
-    memory = json.loads(mem_file.read_text())
-    leads = memory.get("leads", [])
+    seen = {p["title"] for f in ("pending", "approved", "rejected")
+            for p in load(PROPOSALS / f"{f}.json", [])}
+    leads = [l for l in load(BASE / "memory.json", {}).get("leads", []) if l["title"] not in seen]
     if not leads:
-        print("WORKER: nessun lead")
+        print("WORKER: nessun lead nuovo")
         return
-    lead = random.choice(leads)
+    lead = max(leads, key=lambda l: l["value"])
     print(f"WORKER: lavoro su {lead['title']}")
 
-    # Simula lavoro: crea bozza
     drafts = BASE / "drafts"
     drafts.mkdir(exist_ok=True)
-    draft_path = drafts / f"{lead['source']}-{random.randint(1000,9999)}.md"
-    draft_path.write_text(f"# {lead['title']}\n\nSource: {lead.get('url','')}\n\n{lead.get('desc','')}\n\nBOZZA generata da WORKER")
+    draft = drafts / f"{lead['source']}-{random.randint(1000, 9999)}.md"
+    draft.write_text(f"# {lead['title']}\n\nSource: {lead.get('url', '')}\n\n{lead.get('desc', '')}\n\n"
+                     "BOZZA generata da WORKER (da completare)\n", encoding="utf-8")
 
-    # Crea proposta che richiede approvazione
     action = "open_pr" if lead["source"] == "github_bounty" else "publish_article"
-    pid = create_proposal(
+    create_proposal(
         action_type=action,
         title=lead["title"],
-        description=f"Lead da {lead['source']}: {lead.get('url','')}\nValore stimato ${lead['value']}",
+        description=f"Lead da {lead['source']}: {lead.get('url', '')}\nValore stimato ${lead['value']}",
         value_usd=lead["value"],
-        draft_path=str(draft_path)
+        draft_path=str(draft.relative_to(BASE)),
     )
-    print(f"WORKER: proposta {pid} creata, attendo approvazione")
+
 
 if __name__ == "__main__":
     run()

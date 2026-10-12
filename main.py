@@ -1,82 +1,26 @@
-import os, requests, glob, shutil, re
+from agents import accountant, hunter, telegram_bot, worker
+from agents.common import BASE, load, send
 
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
-CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "").strip()
 
-def tg_send(text):
-    payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
-    try:
-        r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", json=payload, timeout=15)
-        print(f"TG: {r.status_code}")
-    except Exception as e:
-        print(f"TG ERROR: {e}")
+def main():
+    telegram_bot.process_updates()   # applica /approva /rifiuta /incassa arrivati dall'ultimo run
+    accountant.run()
+    hunter.run()
+    worker.run()
 
-# Pulisci webhook vecchio
-try:
-    requests.get(f"https://api.telegram.org/bot{TOKEN}/deleteWebhook", timeout=5)
-except:
-    pass
-
-drafts = sorted(glob.glob("drafts/*.md"))
-published = sorted(glob.glob("published/*.md"))
-
-if drafts:
-    for draft in drafts:
-        try:
-            content = open(draft, encoding="utf-8", errors="ignore").read()
-        except:
-            content = ""
-        
-        title = content.splitlines()[0].replace("#","").strip()[:120] if content else os.path.basename(draft)
-        reward_match = re.findall(r'\$ ?(\d+[\.,]?\d*)', content)
-        reward = reward_match[0] if reward_match else "??"
-        url_match = re.findall(r'https?://[^\s\)]+', content)
-        url = url_match[0] if url_match else ""
-
-        msg = f"""🔍 <b>Ho trovato questa task e la sto facendo</b>
-
-📄 <b>{title}</b>
-💰 Reward: <b>${reward}</b>
-🔗 {url[:80]}
-
-File: <code>{draft}</code>
-Status: in lavorazione...
-"""
-        tg_send(msg)
-
-        os.makedirs("published", exist_ok=True)
-        dest = f"published/{os.path.basename(draft)}"
-        shutil.move(draft, dest)
-
-        msg_done = f"""✅ <b>Ho completato questa task e mi ha dato ${reward}!</b>
-
-📄 <b>{title}</b>
-💵 Pagamento: <b>${reward}</b>
-📁 <code>{dest}</code>
-
-Bounty chiusa, passo alla prossima.
-"""
-        tg_send(msg_done)
-
-else:
-    if not published:
-        tg_send("🤖 <b>Quota Protocol LIVE</b>\n\nSto scansionando GitHub per nuove bounty...\nNessuna task attiva al momento.")
+    company = load(BASE / "company.json", {})
+    wallet = load(BASE / "wallet.json", {})
+    pending = load(BASE / "proposals" / "pending.json", [])
+    lines = [f"Quota Protocol | Ciclo {company.get('cycle')} | Quota ${company.get('quota')} | "
+             f"Balance ${wallet.get('balance')} | Giorni {company.get('days_left')}"]
+    if pending:
+        lines.append("\nIn attesa di approvazione:")
+        for p in pending:
+            lines.append(f"- {p['title']} (~${p['value_usd']})\n  /approva {p['id']}  /rifiuta {p['id']}")
     else:
-        last = published[-1]
-        try:
-            content = open(last, encoding="utf-8", errors="ignore").read()
-            title = content.splitlines()[0].replace("#","").strip()[:120]
-            reward_match = re.findall(r'\$ ?(\d+[\.,]?\d*)', content)
-            reward = reward_match[0] if reward_match else "??"
-        except:
-            title = os.path.basename(last)
-            reward = "??"
+        lines.append("Nessuna proposta in attesa.")
+    send("\n".join(lines))
 
-        tg_send(f"""✅ <b>Ho completato questa task e mi ha dato ${reward}!</b>
 
-📄 {title}
-📁 <code>{last}</code>
-
-Pronto per la prossima bounty.""")
-
-print("main.py finito - nuovo stile task")
+if __name__ == "__main__":
+    main()
