@@ -2,40 +2,124 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "feat(scout): resilient Algora source adapter with discontinued-source detection ",
-      "url": "https://github.com/Nexussyn/ai-growth-platform/pull/40",
-      "value": 15,
-      "desc": "## Summary\r\n\r\nImplements the Algora source adapter for `runtime-opportunity-scout` with one material finding: **Algora's public bounty API no longer exists.**\r\n\r\nVerification (2026-10-05, live):\r\n- `GET https://algora.io/api/bounties?status=open&limit=50` \u2192 HTTP 200, `content-type: text/html; charse"
+      "title": "[BOUNTY] Suggestion #1286",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
+      "value": 0,
+      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nMake it so that large painting frames can be either bought or crafted. Its really something small, but it'd still be nice to have the possibility to actually use all the large paintings made by other players and the crew.\n\n**Reason:**\n[B"
     },
     {
       "source": "github_bounty",
-      "title": "add: audio note recording bounty",
-      "url": "https://github.com/warpspeedopen-source/warpspeed-bounties/pull/201",
-      "value": 5,
-      "desc": "This pull request adds an audio note recording bounty to the open bounties list and includes contributing guidelines for the 'Audio Note Recording' feature. Please review the updated BOUNTIES.md and CONTRIBUTING.md files and submit a pull request to merge.\n\n---\nResolves #9\n\n**Algora Bounty Claim / P"
+      "title": "[BOUNTY] Suggestion #1285",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312",
+      "value": 0,
+      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nAdd digi sprites for some testicles to stop them from getting cut off down the standard legline.\n\n**Reason:**\n[BOUNTY] yeah ok but dot your nuts are small, ok? you don't need this.\n\n**Results:**\n7x <:In_help:1056296636348899408>\n0x <:In_"
     },
     {
       "source": "github_bounty",
-      "title": "feat: Add tracking for SN bounty 1586028",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/pull/1265",
-      "value": 15,
-      "desc": "## Summary\nThis PR adds the newly detected Stacker News bounty (ID: 1586028, 'Write my bio') to the local ledger tracking system.\n\n## Changes\n- Created `data/ledger/2026-10-01_summary.json` to record the bounty signal detected by the radar.\n\n## Verification\n- Verified the bounty ID 1586028 matches t"
+      "title": "[radar] SN open bounty 2026-10-13T07:38",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1287",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1593928\tConstruction_and_Engineering\t2\t42\t5000\t0\t19.4\t9274\t28475\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #5: Post Your Proof-of-Work 🔨\n```"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[B113] Try to pick something up with a full inventory",
+      "url": "https://github.com/mscrnt/lockpick/issues/34",
+      "value": 0,
+      "desc": "**Do this in-game (with a capture running):** Try to pick something up with a full inventory.\r\r\r\n\r\r\r\n**Verifies:** Slot limits: Chris 6, Jill 8.\r\r\r\n\r\r\r\nHow to capture: [CAPTURE.md](https://github.com/mscrnt/lockpick/blob/main/docs/CAPTURE.md) — then send it with a [Capture submission](https://github"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[B112] Save at a typewriter (a few times, different slots)",
+      "url": "https://github.com/mscrnt/lockpick/issues/33",
+      "value": 0,
+      "desc": "**Do this in-game (with a capture running):** Save at a typewriter with an ink ribbon.\r\r\r\n\r\r\r\n**Verifies:** Ink ribbon id and count.\r\r\r\n\r\r\r\nHow to capture: [CAPTURE.md](https://github.com/mscrnt/lockpick/blob/main/docs/CAPTURE.md) — then send it with a [Capture submission](https://github.com/mscrnt/"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty Solution] highlight/highlight#8032: document sveltekit backend instrumen",
+      "url": "https://github.com/chiuhehe1-design/conm/issues/10",
+      "value": 0,
+      "desc": "# PR Blueprint — Issue #8032\nRepository: highlight/highlight\nIssue URL: https://github.com/highlight/highlight/issues/8032\nGenerated: 2026-10-13T05:51:15.926501\n\n## Analysis\nThe issue (HIG-4434) requests documentation of SvelteKit backend instrumentation for highlight.io. The `highlight/highlight` m"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Bounty Scout — 2026-10-12",
+      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/12",
+      "value": 10,
+      "desc": "# Bounty Scout — week of 2026-10-12\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Revenue Mesh Radar",
+      "url": "https://github.com/stratumpraxis/vector-praxis-japan/issues/53",
+      "value": 475,
+      "desc": "# Revenue Mesh Radar\n\nLast scan: 2026-10-11T15:56:16.187Z\nScanned: 20 | Actionable: 5 | Cut: 15\n\n> Expected JPY/hour is a ranking heuristic, not guaranteed income.\n\n| Source | Reward | EV / h | Win est. | Hours est. | Competition | Candidate |\n|---|---:|---:|---:|---:|---:|---|\n| algora | $475 | ¥9,"
+    },
+    {
+      "source": "github_bounty",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1233",
+      "value": 70,
+      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-11 11:12 UTC\n\n#### 1. [[Bounty: $70] Mark alerts notified only after the webhook actually succeeds](https://github.com/SUSU-LABS/susu-indexer/issues/43)\n- **Repository:** [SUSU-LABS/susu-indexer](https://github.com/SUSU-LABS/susu-indexer)\n- **Co"
+    },
+    {
+      "source": "github_bounty",
+      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1572",
+      "value": 0,
+      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-11 08:28 UTC\n\n#### 1. [Demo 1 hardening: signed intent, recoverable disputes, migration, agent adapters](https://github.com/Rishidar-lab/nexescrow/issues/3)\n- **Repository:** [Rishidar-lab/nexescrow](https://github.com/Rishidar-lab/nexescrow)\n- "
+    },
+    {
+      "source": "github_bounty",
+      "title": "PipelineBoard card links use aria-label, which hides the repo/issue reference fr",
+      "url": "https://github.com/MergeFi/frontend/issues/694",
+      "value": 0,
+      "desc": "## Problem\n\nEach pipeline card `<Link>` has `aria-label={`${title}, ${reward}`}`, which overrides its visible content. The `org/repo #N` line, the main way maintainers identify an issue, isn't announced. This is the same pattern as BountyCard.\n\n## Suggested fix\n\nDrop `aria-label` and let the content"
+    },
+    {
+      "source": "github_bounty",
+      "title": "README's example user journey describes features the app doesn't have",
+      "url": "https://github.com/MergeFi/frontend/issues/690",
+      "value": 0,
+      "desc": "## Problem\n\n\"Example user journey\": (1) *\"A maintainer connects a GitHub repository from `/connect`\"*: `/connect` only links GitHub login and a wallet, with no repository sync. (2) *\"From their dashboard, they mark an issue with a 100 USDC reward\"*: there's no bounty-creation UI (\"Create bounty\" lin"
+    },
+    {
+      "source": "github_bounty",
+      "title": "MaintenancePoolService.assignReward reports a stale balance in its 'exceeds pool",
+      "url": "https://github.com/MergeFi/backend/issues/608",
+      "value": 0,
+      "desc": "## Problem\n\nWhen the conditional `UPDATE … WHERE balance >= :amount` affects 0 rows, the error is `Requested reward ${amount} exceeds pool balance ${pool.balance}`. `pool` was read before the update, and under concurrency (exactly the case this guard exists for, #274) the balance shown can be higher"
+    },
+    {
+      "source": "github_bounty",
+      "title": "EscrowService.poolWithdraw passes pool_id as a bare bigint (ScVal i128) — the co",
+      "url": "https://github.com/MergeFi/backend/issues/522",
+      "value": 0,
+      "desc": "## Problem\n\n#301 wrapped every u64 argument in `u64(...)` for `fund`, `release` and `refund`, but `poolWithdraw` still sends `[this.onChainKeyFor(escrow), recipientAddress, this.toStroops(amount)]`. `onChainKeyFor` returns a `bigint`, which `toScVal` encodes as `ScVal::I128`, while `withdraw(env, po"
+    },
+    {
+      "source": "github_bounty",
+      "title": "configs: 30 shipped grpo/ipo/bco/reward_model/online_dpo configs leave gradient_",
+      "url": "https://github.com/MakazhanAlpamys/Soup/issues/1862",
+      "value": 0,
+      "desc": "### Description\nFollow-up to #797 / #1778 (start after #1778 merges; a small, mechanical change that suits a first contribution). #1778 makes the grpo, ipo, bco, reward_model and online_dpo trainers pass `training.gradient_checkpointing` to TRL. With the key unset they now follow the schema default "
     },
     {
       "source": "article",
-      "title": "Come ho automatizzato deploy con Python",
-      "value": 3,
+      "title": "Come ho automatizzato i deploy con Python",
+      "value": 0,
       "url": "",
-      "desc": "Articolo tecnico per Dev.to con possibile bounty"
+      "desc": "Articolo tecnico per Dev.to"
     },
     {
       "source": "article",
       "title": "5 tool free per indie hacker",
-      "value": 2,
+      "value": 0,
       "url": "",
-      "desc": "Lista tool - monetizzabile con affiliazioni"
+      "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-11T08:37:22.842318",
+  "last_run": "2026-10-13T16:37:49.728225",
   "history": []
 }
