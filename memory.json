@@ -2,6 +2,34 @@
   "leads": [
     {
       "source": "github_bounty",
+      "title": "[Bounty] 📋 2 open bounties right now",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
+      "value": 150,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/habibdxb01/bounty-watcher/issues/5\n\n### 漏洞描述 / Description\n📋 2 open bounties right now\n\nBounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe"
+    },
+    {
+      "source": "github_bounty",
+      "title": "📋 2 open bounties right now",
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
+      "value": 150,
+      "desc": "Bounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe Mobile App (Android + iOS)](https://github.com/BAWES-Universe/workadventure-universe/issues/1)\n- 🔴 **$50** · [BOUNTY: integrate AWS Comprehend as a utility "
+    },
+    {
+      "source": "github_bounty",
+      "title": "Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2872",
+      "value": 0,
+      "desc": "## Goal\n\nContributions to SN118 are MIT-licensed under a Contributor License Agreement. In the CLA, the contributor gives up IP claims to the work they submit. The miner executes the CLA by **signing it with their hotkey** from the `uv run ditto` CLI. Platform verifies and stores that signature, and"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Miner CLI: attest a GitHub account and link it to the miner hotkey",
+      "url": "https://github.com/ditto-assistant/ditto-subnet/issues/2871",
+      "value": 0,
+      "desc": "## Goal\n\nLet a miner prove, from the `uv run ditto` CLI, that they control a GitHub account, and record a verified link between that account and their miner hotkey. Bounties need it: a claim in [docs/bounty-claims.md](https://github.com/ditto-assistant/ditto-subnet/blob/main/docs/bounty-claims.md) c"
+    },
+    {
+      "source": "github_bounty",
       "title": "[BOUNTY] Suggestion #1286",
       "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313",
       "value": 0,
@@ -9,31 +37,17 @@
     },
     {
       "source": "github_bounty",
-      "title": "[BOUNTY] Suggestion #1285",
-      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312",
-      "value": 0,
-      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nAdd digi sprites for some testicles to stop them from getting cut off down the standard legline.\n\n**Reason:**\n[BOUNTY] yeah ok but dot your nuts are small, ok? you don't need this.\n\n**Results:**\n7x <:In_help:1056296636348899408>\n0x <:In_"
+      "title": "[Bounty] 📋 2 open bounties right now",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
+      "value": 150,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/habibdxb01/bounty-watcher/issues/5\n\n### 漏洞描述 / Description\n📋 2 open bounties right now\n\nBounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-13T07:38",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1287",
-      "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1593928\tConstruction_and_Engineering\t2\t42\t5000\t0\t19.4\t9274\t28475\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #5: Post Your Proof-of-Work 🔨\n```"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[B113] Try to pick something up with a full inventory",
-      "url": "https://github.com/mscrnt/lockpick/issues/34",
-      "value": 0,
-      "desc": "**Do this in-game (with a capture running):** Try to pick something up with a full inventory.\r\r\r\n\r\r\r\n**Verifies:** Slot limits: Chris 6, Jill 8.\r\r\r\n\r\r\r\nHow to capture: [CAPTURE.md](https://github.com/mscrnt/lockpick/blob/main/docs/CAPTURE.md) — then send it with a [Capture submission](https://github"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[B112] Save at a typewriter (a few times, different slots)",
-      "url": "https://github.com/mscrnt/lockpick/issues/33",
-      "value": 0,
-      "desc": "**Do this in-game (with a capture running):** Save at a typewriter with an ink ribbon.\r\r\r\n\r\r\r\n**Verifies:** Ink ribbon id and count.\r\r\r\n\r\r\r\nHow to capture: [CAPTURE.md](https://github.com/mscrnt/lockpick/blob/main/docs/CAPTURE.md) — then send it with a [Capture submission](https://github.com/mscrnt/"
+      "title": "📋 2 open bounties right now",
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
+      "value": 150,
+      "desc": "Bounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe Mobile App (Android + iOS)](https://github.com/BAWES-Universe/workadventure-universe/issues/1)\n- 🔴 **$50** · [BOUNTY: integrate AWS Comprehend as a utility "
     },
     {
       "source": "github_bounty",
@@ -58,17 +72,10 @@
     },
     {
       "source": "github_bounty",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1233",
-      "value": 70,
-      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-11 11:12 UTC\n\n#### 1. [[Bounty: $70] Mark alerts notified only after the webhook actually succeeds](https://github.com/SUSU-LABS/susu-indexer/issues/43)\n- **Repository:** [SUSU-LABS/susu-indexer](https://github.com/SUSU-LABS/susu-indexer)\n- **Co"
-    },
-    {
-      "source": "github_bounty",
-      "title": "🎯 Bounty Alert: 8 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1572",
+      "title": "Add a \"Rate PlayTrace\" link to the Home screen",
+      "url": "https://github.com/MrValtancoli/PlayTrace-App/issues/61",
       "value": 0,
-      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-11 08:28 UTC\n\n#### 1. [Demo 1 hardening: signed intent, recoverable disputes, migration, agent adapters](https://github.com/Rishidar-lab/nexescrow/issues/3)\n- **Repository:** [Rishidar-lab/nexescrow](https://github.com/Rishidar-lab/nexescrow)\n- "
+      "desc": "## Goal\n\nMake it easy for users to leave a rating or review on Google Play, now that PlayTrace is public. Reviews help other coaches and analysts find the app, and tell us what works.\n\n## Proposal\n\n- A **Rate PlayTrace** link in the About section of the Home screen, next to **Report a problem** (#54"
     },
     {
       "source": "github_bounty",
@@ -99,13 +106,6 @@
       "desc": "## Problem\n\n#301 wrapped every u64 argument in `u64(...)` for `fund`, `release` and `refund`, but `poolWithdraw` still sends `[this.onChainKeyFor(escrow), recipientAddress, this.toStroops(amount)]`. `onChainKeyFor` returns a `bigint`, which `toScVal` encodes as `ScVal::I128`, while `withdraw(env, po"
     },
     {
-      "source": "github_bounty",
-      "title": "configs: 30 shipped grpo/ipo/bco/reward_model/online_dpo configs leave gradient_",
-      "url": "https://github.com/MakazhanAlpamys/Soup/issues/1862",
-      "value": 0,
-      "desc": "### Description\nFollow-up to #797 / #1778 (start after #1778 merges; a small, mechanical change that suits a first contribution). #1778 makes the grpo, ipo, bco, reward_model and online_dpo trainers pass `training.gradient_checkpointing` to TRL. With the key unset they now follow the schema default "
-    },
-    {
       "source": "article",
       "title": "Come ho automatizzato i deploy con Python",
       "value": 0,
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-13T16:37:49.728225",
+  "last_run": "2026-10-14T14:14:19.031070",
   "history": []
 }
