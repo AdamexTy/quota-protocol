@@ -2,38 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892",
-      "value": 30,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/verdikta/verdikta-applications/issues/76\n\n### 漏洞描述 / Description\n[BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)\n\nFour solo bounties on [Poidh](https://poidh.xyz) (Base chain), about"
+      "title": "[Bounty] Answer 2 linked question(s) as a lesson",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3332",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-3298 -->\n# [Bounty] Answer the 2 linked question(s) as a lesson\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — s"
     },
     {
       "source": "github_bounty",
-      "title": "Add end-to-end test suite for escrow dispute and resolution flow",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1405",
+      "title": "Paid public-work: the work receipt (pwr_) and the payout receipt (lot_) never cr",
+      "url": "https://github.com/Uuriko/project-room/issues/3781",
       "value": 0,
-      "desc": "**Target Branch: integration/staging**\n\n---\n\n## Description\n\nWhile standard escrow creation and release are covered in `e2e/critical-flows.spec.ts`, the full dispute resolution lifecycle (Buyer raises dispute -> Status transitions to DISPUTED -> Arbitrator reviews evidence -> Funds released to desig"
+      "desc": "Found by COMPOSE-3732 (first end-to-end execution of the paid public-work leg, on the composed #3627 + #3566 tree). A settled paid public-work task produces TWO public receipts, and neither references the other:\n\n- The work receipt (`pwr_…`, e.g. `pwr_69b28ef1359d5977f7afbb1abde522b7697ef65cbc6d85c2"
     },
     {
       "source": "github_bounty",
-      "title": "Implement timing-safe HMAC signature verification in webhook handler",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1386",
+      "title": "[launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive ope",
+      "url": "https://github.com/Uuriko/project-room/issues/3709",
       "value": 0,
-      "desc": "**Target Branch: integration/staging**\n\n---\n\n## Description\n\nIn `src/lib/webhook-deliver.ts` and subscriber verification examples, webhook signatures are compared against the expected digest. If string equality (`===`) is used instead of constant-time comparison, the check is susceptible to side-cha"
+      "desc": "**Launch-readiness finding (ECON-ATTACK-LAB).** Substrate: PR #3566 rail branch `ccb42646d6736865b0bd678094a9b3159f5485ba` (OPEN), real server code driven locally (RoomStore harness mirroring `tests/public-work-settlement.test.js`), First Shift packet parameters. Honest baseline in the same harness:"
     },
     {
       "source": "github_bounty",
-      "title": "Add drag-and-drop CSV batch upload zone with visual upload progress feedback",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1378",
+      "title": "[launch-readiness] Claim squatting is free and unbounded: one lane held the whol",
+      "url": "https://github.com/Uuriko/project-room/issues/3707",
       "value": 0,
-      "desc": "**Target Branch: integration/staging**\n\n---\n\n## Description\n\nIn `src/components/CsvBatchImport.tsx`, batch CSV files can currently only be selected via standard file dialog input. Users importing payroll or vendor lists expect modern drag-and-drop file upload with visual dropping feedback, file form"
+      "desc": "**Launch-readiness finding (ECON-ATTACK-LAB).** Substrate: PR #3566 rail branch `ccb42646d6736865b0bd678094a9b3159f5485ba` (OPEN) — the claim path is main's `server/public-work-claims.mjs` + `server/work-claims.mjs`, unchanged by the rail except for the settlement attach. Measured on the real code l"
     },
     {
       "source": "github_bounty",
-      "title": "Validate Stellar transaction memo encoding and character set on payment routes",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1368",
+      "title": "[launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n",
+      "url": "https://github.com/Uuriko/project-room/issues/3704",
       "value": 0,
-      "desc": "**Target Branch: integration/staging**\n\n---\n\n## Description\n\nIn `src/app/api/payments/route.ts`, memo strings are accepted from client payloads. Stellar Horizon supports Text (up to 28 UTF-8 bytes), Id (64-bit integer), and Hash/Return (32-byte hex). Passing invalid UTF-8 byte sequences or memos exc"
+      "desc": "**Launch-readiness finding (ECON-ATTACK-LAB).** Substrate: PR #3566 rail branch `ccb42646d6736865b0bd678094a9b3159f5485ba` (OPEN), real server code driven locally (RoomStore harness mirroring `tests/public-work-settlement.test.js`). Full report: `~/workspace/strategy-2026-10/econ-attack-lab-2026-10-"
     },
     {
       "source": "github_bounty",
@@ -51,13 +51,6 @@
     },
     {
       "source": "github_bounty",
-      "title": "Contributor onboarding for the OSS launch",
-      "url": "https://github.com/genfeedai/genfeed.ai/issues/6964",
-      "value": 0,
-      "desc": "Part of #1433. Belongs to the **open-source self-host launch (Phase 1)** and is **not gated on #334**.\n\nThe repo already has most contributor plumbing: `CONTRIBUTING.md` (343 lines, with a Portless dev path, PR contract, CLA and label guide), `CODE_OF_CONDUCT.md`, `GOVERNANCE.md`, `SUPPORT.md`, issu"
-    },
-    {
-      "source": "github_bounty",
       "title": "Add remote server: Jobbi Agent Gigs (https://jobbi.org/mcp)",
       "url": "https://github.com/chatmcp/mcpso/issues/5392",
       "value": 0,
@@ -68,42 +61,49 @@
       "title": "🎯 Bounty-Radar",
       "url": "https://github.com/hanoi96international-gif/Test/issues/1",
       "value": 3000,
-      "desc": "# 🎯 Bounty-Radar (2026-10-15)\n\nBezahlte, offene Programmieraufgaben ab 50 $, sortiert nach *Betrag ÷ Konkurrenz* (frische Bounties doppelt gewichtet).\nNur etablierte Projekte (≥ 100 Sterne, ≥ 6 Monate alt); Köder-Repos mit Fantasiebeträgen sind ausgefiltert.\n\n| # | Betrag | Alter | Konkurrenz | Aufg"
+      "desc": "# 🎯 Bounty-Radar (2026-10-16)\n\nBezahlte, offene Programmieraufgaben ab 50 $, sortiert nach *Betrag ÷ Konkurrenz* (frische Bounties doppelt gewichtet).\nNur etablierte Projekte (≥ 100 Sterne, ≥ 6 Monate alt); Köder-Repos mit Fantasiebeträgen sind ausgefiltert.\n\n| # | Betrag | Alter | Konkurrenz | Aufg"
     },
     {
       "source": "github_bounty",
-      "title": "Add tests for RewardToken's compute_fee overflow and rounding behaviour",
-      "url": "https://github.com/ITSYABOINEUTRAL/GoGreen/issues/7",
-      "value": 0,
-      "desc": "## Context\n\ncontract/reward-token/src/lib.rs defines `RewardToken::compute_fee(amount, bps)` which uses `checked_mul` and `.expect(\"fee calculation overflow\")`, then divides by 10_000. The doc comment states it \"Rounds down (truncates toward zero)\" and that \"an overflowing multiplication panics inst"
+      "title": "[Bounty] 📋 2 open bounties right now",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
+      "value": 150,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/habibdxb01/bounty-watcher/issues/5\n\n### 漏洞描述 / Description\n📋 2 open bounties right now\n\nBounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe"
     },
     {
       "source": "github_bounty",
-      "title": "Add a \"Rate PlayTrace\" link to the Home screen",
-      "url": "https://github.com/MrValtancoli/PlayTrace-App/issues/61",
+      "title": "reward-manager: distribute_rewards and distribute_rewards_authorized are identic",
+      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1361",
       "value": 0,
-      "desc": "## Goal\n\nMake it easy for users to leave a rating or review on Google Play, now that PlayTrace is public. Reviews help other coaches and analysts find the app, and tell us what works.\n\n## Proposal\n\n- A **Rate PlayTrace** link in the About section of the Home screen, next to **Report a problem** (#54"
+      "desc": "## Problem\n\nThe docs say `distribute_rewards_authorized` \"carries and authenticates the calling contract explicitly\", unlike the legacy entrypoint, but both run the same `require_authorized_distributor` and `distribute_rewards_impl`. Keeping two names increases the audited surface for no benefit.\n\n#"
     },
     {
       "source": "github_bounty",
-      "title": "PipelineBoard card links use aria-label, which hides the repo/issue reference fr",
-      "url": "https://github.com/MergeFi/frontend/issues/694",
+      "title": "reward-manager: contract_version returns the constructor-time value after an upg",
+      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1360",
       "value": 0,
-      "desc": "## Problem\n\nEach pipeline card `<Link>` has `aria-label={`${title}, ${reward}`}`, which overrides its visible content. The `org/repo #N` line, the main way maintainers identify an issue, isn't announced. This is the same pattern as BountyCard.\n\n## Suggested fix\n\nDrop `aria-label` and let the content"
+      "desc": "## Problem\n\n`contract_version` returns the `CVER` stored at construction and only falls back to `CONTRACT_VERSION` when nothing is stored. After a WASM upgrade that bumps `CONTRACT_VERSION`, the contract still reports the old version, and `verify_deployment.sh` and compatibility checks get it wrong."
     },
     {
       "source": "github_bounty",
-      "title": "README's example user journey describes features the app doesn't have",
-      "url": "https://github.com/MergeFi/frontend/issues/690",
+      "title": "reward-manager: get_pool_audit_log's start_after is an offset, and total counts ",
+      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1358",
       "value": 0,
-      "desc": "## Problem\n\n\"Example user journey\": (1) *\"A maintainer connects a GitHub repository from `/connect`\"*: `/connect` only links GitHub login and a wallet, with no repository sync. (2) *\"From their dashboard, they mark an issue with a 100 USDC reward\"*: there's no bounty-creation UI (\"Create bounty\" lin"
+      "desc": "## Problem\n\nThe parameter is named `start_after` but is a 0-based offset into the retained window, and `total` returns the lifetime count rather than the retained count. Clients that page until `offset >= total` loop forever once the ring buffer wraps.\n\n## Evidence\n\n`contracts/reward-manager/src/lib"
     },
     {
       "source": "github_bounty",
-      "title": "MaintenancePoolService.assignReward reports a stale balance in its 'exceeds pool",
-      "url": "https://github.com/MergeFi/backend/issues/608",
+      "title": "reward-interface: a rank-0 tier is reported as NotStrictlyAscending",
+      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1357",
       "value": 0,
-      "desc": "## Problem\n\nWhen the conditional `UPDATE … WHERE balance >= :amount` affects 0 rows, the error is `Requested reward ${amount} exceeds pool balance ${pool.balance}`. `pool` was read before the update, and under concurrency (exactly the case this guard exists for, #274) the balance shown can be higher"
+      "desc": "## Problem\n\n`rank_tiers_are_strictly_ascending` returns `TierError::NotStrictlyAscending` for a tier with rank 0, which points the creator at the wrong mistake.\n\n## Evidence\n\n`contracts/reward-interface/src/types.rs:190-196`\n\n## Acceptance criteria\n\n- [ ] Add `TierError::InvalidRank` and return it\n-"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Stray patch file and demo notebook are committed at the repo root",
+      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1337",
+      "value": 0,
+      "desc": "## Problem\n\n`0001-fix-reward-manager-pool-config-audit-1079.patch` (an 18 KB `git format-patch` output) and `push_pr_demo.ipynb` (a generic \"how to open a PR\" notebook) are tracked in git. The patch duplicates work for an open issue and can drift from the code.\n\n## Evidence\n\n`0001-fix-reward-manager"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-15T13:49:35.548275",
+  "last_run": "2026-10-16T13:39:49.723888",
   "history": []
 }
