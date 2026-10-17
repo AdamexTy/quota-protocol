@@ -3,37 +3,51 @@
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer 2 linked question(s) as a lesson",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3332",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3431",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3298 -->\n# [Bounty] Answer the 2 linked question(s) as a lesson\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — s"
+      "desc": "<!-- misakanet-question-bounty:anchor-3296 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "Paid public-work: the work receipt (pwr_) and the payout receipt (lot_) never cr",
-      "url": "https://github.com/Uuriko/project-room/issues/3781",
+      "title": "[Bounty] Answer 3 linked question(s) as a lesson",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3430",
       "value": 0,
-      "desc": "Found by COMPOSE-3732 (first end-to-end execution of the paid public-work leg, on the composed #3627 + #3566 tree). A settled paid public-work task produces TWO public receipts, and neither references the other:\n\n- The work receipt (`pwr_…`, e.g. `pwr_69b28ef1359d5977f7afbb1abde522b7697ef65cbc6d85c2"
+      "desc": "<!-- misakanet-question-bounty:anchor-3383 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive ope",
-      "url": "https://github.com/Uuriko/project-room/issues/3709",
+      "title": "[radar] SN open bounty 2026-10-17T10:32",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1300",
       "value": 0,
-      "desc": "**Launch-readiness finding (ECON-ATTACK-LAB).** Substrate: PR #3566 rail branch `ccb42646d6736865b0bd678094a9b3159f5485ba` (OPEN), real server code driven locally (RoomStore harness mirroring `tests/public-work-settlement.test.js`), First Shift packet parameters. Honest baseline in the same harness:"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1596567\tgaming\t3\t1453\t2100\t18\t17.8\t1448206\t2501\trecent@gaming|top@gaming|recent@Stacker_Sports\tOPEN_BOUNTY,HOT,SELF_POST_OPP\t🏈 Sunday Leaders Bounty • 2,100 sats\n1596551\tStacker_Sports\t3\t834\t2100\t12\t18.0\t232181\t4356\trecent@Stacker_Sports|top@Stacker_Sports\tOPEN_BOUN"
     },
     {
       "source": "github_bounty",
-      "title": "[launch-readiness] Claim squatting is free and unbounded: one lane held the whol",
-      "url": "https://github.com/Uuriko/project-room/issues/3707",
+      "title": "Attack the reentrancy guard, do not just trust it",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/2",
       "value": 0,
-      "desc": "**Launch-readiness finding (ECON-ATTACK-LAB).** Substrate: PR #3566 rail branch `ccb42646d6736865b0bd678094a9b3159f5485ba` (OPEN) — the claim path is main's `server/public-work-claims.mjs` + `server/work-claims.mjs`, unchanged by the rail except for the settlement attach. Measured on the real code l"
+      "desc": "**What this is for**\n\n`settle` and `refund` both carry `nonReentrant`. Nobody has ever pointed an attacker at them.\n\nA reentrancy guard that has not been attacked is a comment, not a defence. This bounty makes it a test.\n\n**What done looks like**\n\n- [ ] An attacker contract that, on receiving ETH, c"
     },
     {
       "source": "github_bounty",
-      "title": "[launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n",
-      "url": "https://github.com/Uuriko/project-room/issues/3704",
+      "title": "Prove the race between challenging and refunding",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/1",
       "value": 0,
-      "desc": "**Launch-readiness finding (ECON-ATTACK-LAB).** Substrate: PR #3566 rail branch `ccb42646d6736865b0bd678094a9b3159f5485ba` (OPEN), real server code driven locally (RoomStore harness mirroring `tests/public-work-settlement.test.js`). Full report: `~/workspace/strategy-2026-10/econ-attack-lab-2026-10-"
+      "desc": "**What this is for**\n\n`MergitEscrowV2` says in its own header that if the funder challenges with the deadline almost up, they can refund before the verifier settles again, and that closing that race would need an arbitrator. That is a claim about the contract that nobody has ever checked.\n\nThis boun"
+    },
+    {
+      "source": "github_bounty",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1602",
+      "value": 50,
+      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-16 20:40 UTC\n\n#### 1. [[BOUNTY] Medium: Unverified cached leafIndex commitment mismatch in ensureLeafIndex, unvalidated PRIVATE_SWAP consent/amount precision, non-normalized seed phrase derivation & legacy 2-note transfer block](https://github.c"
+    },
+    {
+      "source": "github_bounty",
+      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1263",
+      "value": 75,
+      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-16 19:18 UTC\n\n#### 1. [Launch a Bug Bounty Program and Vulnerability Disclosure Process for the Vault Stack](https://github.com/Zenith-options/frontend/issues/263)\n- **Repository:** [Zenith-options/frontend](https://github.com/Zenith-options/fro"
     },
     {
       "source": "github_bounty",
@@ -58,52 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "🎯 Bounty-Radar",
-      "url": "https://github.com/hanoi96international-gif/Test/issues/1",
-      "value": 3000,
-      "desc": "# 🎯 Bounty-Radar (2026-10-16)\n\nBezahlte, offene Programmieraufgaben ab 50 $, sortiert nach *Betrag ÷ Konkurrenz* (frische Bounties doppelt gewichtet).\nNur etablierte Projekte (≥ 100 Sterne, ≥ 6 Monate alt); Köder-Repos mit Fantasiebeträgen sind ausgefiltert.\n\n| # | Betrag | Alter | Konkurrenz | Aufg"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] 📋 2 open bounties right now",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
-      "value": 150,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/habibdxb01/bounty-watcher/issues/5\n\n### 漏洞描述 / Description\n📋 2 open bounties right now\n\nBounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe"
-    },
-    {
-      "source": "github_bounty",
-      "title": "reward-manager: distribute_rewards and distribute_rewards_authorized are identic",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1361",
+      "title": "Add a test that checks the config in wrangler.jsonc",
+      "url": "https://github.com/codercops/discord-bot/issues/36",
       "value": 0,
-      "desc": "## Problem\n\nThe docs say `distribute_rewards_authorized` \"carries and authenticates the calling contract explicitly\", unlike the legacy entrypoint, but both run the same `require_authorized_distributor` and `distribute_rewards_impl`. Keeping two names increases the audited surface for no benefit.\n\n#"
+      "desc": "A few values in `wrangler.jsonc` have to match the code, or parts of the bot stop without any error. Today only comments keep them in line.\n\n- The crons (`triggers.crons`, line 16) have to be exactly `DAILY_CRON` and `WELCOME_CRON` from `src/config.ts` (lines 141 and 143). `scheduled()` in `src/inde"
     },
     {
       "source": "github_bounty",
-      "title": "reward-manager: contract_version returns the constructor-time value after an upg",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1360",
+      "title": "resources: add a test for mine when resource_yield is 0",
+      "url": "https://github.com/OlaGreat/starbound-realms/issues/71",
       "value": 0,
-      "desc": "## Problem\n\n`contract_version` returns the `CVER` stored at construction and only falls back to `CONTRACT_VERSION` when nothing is stored. After a WASM upgrade that bumps `CONTRACT_VERSION`, the contract still reports the old version, and `verify_deployment.sh` and compatibility checks get it wrong."
+      "desc": "## Summary\n`mine`'s payout is `periods * system.resource_yield`. If a system somehow has `resource_yield = 0` (not possible via normal `initialize`, which always assigns 10-50, but worth guarding against future changes), `mine` would compute an amount of 0 and still panic with \"nothing to mine yet\" "
     },
     {
       "source": "github_bounty",
-      "title": "reward-manager: get_pool_audit_log's start_after is an offset, and total counts ",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1358",
+      "title": "staking template: deposit and withdraw accept zero and negative amounts",
+      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/571",
       "value": 0,
-      "desc": "## Problem\n\nThe parameter is named `start_after` but is a 0-based offset into the retained window, and `total` returns the lifetime count rather than the retained count. Clients that page until `offset >= total` loop forever once the ring buffer wraps.\n\n## Evidence\n\n`contracts/reward-manager/src/lib"
+      "desc": "## Task\n`templates/staking/src/lib.rs` `deposit` and `withdraw` never check `amount > 0`. A negative `deposit` lowers `TotalStaked` and the caller's stake, and a negative `withdraw` passes the `cur < amount` check and raises them, which corrupts the reward-per-share accounting.\n\n## Acceptance criter"
     },
     {
       "source": "github_bounty",
-      "title": "reward-interface: a rank-0 tier is reported as NotStrictlyAscending",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1357",
+      "title": "chore(landing): remove unused copy keys and plate tokens",
+      "url": "https://github.com/mxrsv/spacevibe-deck/issues/66",
       "value": 0,
-      "desc": "## Problem\n\n`rank_tiers_are_strictly_ascending` returns `TierError::NotStrictlyAscending` for a tier with rank 0, which points the creator at the wrong mistake.\n\n## Evidence\n\n`contracts/reward-interface/src/types.rs:190-196`\n\n## Acceptance criteria\n\n- [ ] Add `TierError::InvalidRank` and return it\n-"
+      "desc": "- `panelBoardTitle` and `panelBoardBody` (en and vi) in `marketing/landing-prototype/src/copy.js:84-85,215-216` are never read.\n- `--plate-plateau`, `--plate-cloudstudy` and `--plate-jamaica` in `marketing/landing-prototype/styles/tokens.css` (:50, :51, :54) are declared and never used.\n\n**Acceptanc"
     },
     {
       "source": "github_bounty",
-      "title": "Stray patch file and demo notebook are committed at the repo root",
-      "url": "https://github.com/Samuel1-ona/Hunty-contract/issues/1337",
+      "title": "bug(a11y): the agent Install button drops keyboard focus when an install fails",
+      "url": "https://github.com/mxrsv/spacevibe-deck/issues/65",
       "value": 0,
-      "desc": "## Problem\n\n`0001-fix-reward-manager-pool-config-audit-1079.patch` (an 18 KB `git format-patch` output) and `push_pr_demo.ipynb` (a generic \"how to open a PR\" notebook) are tracked in git. The patch duplicates work for an open issue and can drift from the code.\n\n## Evidence\n\n`0001-fix-reward-manager"
+      "desc": "`src/launcher/agent-install-control.tsx:38` sets `disabled` on the Install button while an install opens. A disabled button loses focus, so after a failed install keyboard focus falls back to `body`.\n\n**Acceptance criteria**\n- The button uses `aria-disabled` while busy and stays focusable; the guard"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-16T13:39:49.723888",
+  "last_run": "2026-10-17T12:37:05.331802",
   "history": []
 }
