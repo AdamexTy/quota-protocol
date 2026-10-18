@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer 2 linked question(s) as a lesson",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3431",
+      "title": "Fix calc.py: average() wrong for normal lists and clamp() returns low for out-of",
+      "url": "https://github.com/LORDSINE/bounty-bot-e2e/issues/1",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3296 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "Two bugs in calc.py:\n\n1. `average([1,2,3])` returns 0.666... instead of `2`.\n2. `clamp(15, 0, 10)` returns `0` instead of `10`.\n\nExpected: `average` returns the true arithmetic mean (and should return `0` for an empty list rather than crashing), and `clamp` clamps into [low, high] correctly.\n\nPlease"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer 3 linked question(s) as a lesson",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3430",
+      "title": "Add rate limiting to /api/v1/artifacts endpoint",
+      "url": "https://github.com/mozzimorzam-sudo/project100-mcp/issues/7",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3383 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "## Problem\nThe /api/v1/artifacts endpoint currently has no rate limiting. An agent could spam submissions.\n\n## Acceptance Criteria\n- [ ] Add rate limiting (e.g., 10 submissions per minute per agent)\n- [ ] Return 429 with retry-after header when limit exceeded\n- [ ] Document the limit in the API resp"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-17T10:32",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1300",
+      "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6]",
+      "url": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1596567\tgaming\t3\t1453\t2100\t18\t17.8\t1448206\t2501\trecent@gaming|top@gaming|recent@Stacker_Sports\tOPEN_BOUNTY,HOT,SELF_POST_OPP\t🏈 Sunday Leaders Bounty • 2,100 sats\n1596551\tStacker_Sports\t3\t834\t2100\t12\t18.0\t232181\t4356\trecent@Stacker_Sports|top@Stacker_Sports\tOPEN_BOUN"
+      "desc": "## Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6]\n\nCreate labels for **250** frames from `ultrank_11_20`. This dataset has no labels yet, so you are the source of truth — the model's boxes are a starting point, not an answer.\n\n**How to claim**\n\nComment `claim` on this issue. Then run "
     },
     {
       "source": "github_bounty",
-      "title": "Attack the reentrancy guard, do not just trust it",
-      "url": "https://github.com/odiseo159-beep/mergit/issues/2",
+      "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6]",
+      "url": "https://github.com/MicahHeneveld/bros-analysis/issues/5",
       "value": 0,
-      "desc": "**What this is for**\n\n`settle` and `refund` both carry `nonReentrant`. Nobody has ever pointed an attacker at them.\n\nA reentrancy guard that has not been attacked is a comment, not a defence. This bounty makes it a test.\n\n**What done looks like**\n\n- [ ] An attacker contract that, on receiving ETH, c"
+      "desc": "## Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6]\n\nCreate labels for **250** frames from `ultrank_11_20`. This dataset has no labels yet, so you are the source of truth — the model's boxes are a starting point, not an answer.\n\n**How to claim**\n\nComment `claim` on this issue. Then run "
     },
     {
       "source": "github_bounty",
-      "title": "Prove the race between challenging and refunding",
-      "url": "https://github.com/odiseo159-beep/mergit/issues/1",
+      "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6]",
+      "url": "https://github.com/MicahHeneveld/bros-analysis/issues/4",
       "value": 0,
-      "desc": "**What this is for**\n\n`MergitEscrowV2` says in its own header that if the funder challenges with the deadline almost up, they can refund before the verifier settles again, and that closing that race would need an arbitrator. That is a claim about the contract that nobody has ever checked.\n\nThis boun"
+      "desc": "## Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6]\n\nCreate labels for **250** frames from `ultrank_11_20`. This dataset has no labels yet, so you are the source of truth — the model's boxes are a starting point, not an answer.\n\n**How to claim**\n\nComment `claim` on this issue. Then run "
+    },
+    {
+      "source": "github_bounty",
+      "title": "Demo & submission · D7 · Landing page (scrollytelling, French, Vercel)",
+      "url": "https://github.com/Djbrl/bitbounty/issues/41",
+      "value": 0,
+      "desc": "**Task D7 · 5 points · wave 3 · demo** · size confirmed by a second member before 15:30 (rule 7 of the agreement)\n\n## In plain words\nThe public landing page for BitBounty: a story told as you scroll. The maintainer's MacBook shows a GitHub repo, a green line starts under it and branches into each st"
     },
     {
       "source": "github_bounty",
@@ -65,10 +72,17 @@
     },
     {
       "source": "github_bounty",
-      "title": "Add remote server: Jobbi Agent Gigs (https://jobbi.org/mcp)",
-      "url": "https://github.com/chatmcp/mcpso/issues/5392",
+      "title": "feat(core): validate NetworkConfig bounds",
+      "url": "https://github.com/Algorithmic-Warfare/Minehaul/issues/15",
       "value": 0,
-      "desc": "Please list the following remote MCP server.\n\n**Name:** Jobbi Agent Gigs\n**Description:** Jobbi is the index of agent gigs: a free, read-only feed of paid tasks AI agents can do, aggregated hourly from public bounty and task boards (Algora, IssueHunt, Agent Bounties, BasedAgents, BountyHub, BountyBo"
+      "desc": "## Problem\n\n`network::validate_config` (`packages/minehaul_core/sources/network.move`) only checks `max_cargo_lines > 0`. Everything else in `NetworkConfig` is accepted as is:\n\n- **`min_collateral_ratio_bps`:** any `u16`, up to 65535 (about 655% of the reward). It could be intentional over-collatera"
+    },
+    {
+      "source": "github_bounty",
+      "title": "侵蚀1遇到塞壬探测装置，如果选择探测敌人，处理时脚本乱点造成中断故障",
+      "url": "https://github.com/wess09/AzurPilot/issues/1258",
+      "value": 0,
+      "desc": "### 在提问之前...\n\n- [x] 我已经搜索了现有的 issues\n- [x] 我在提问题之前至少花费了 5 分钟来思考和准备\n- [x] 我已经阅读了 Wiki 中的 常见问题(FAQ)\n- [x] 我正在使用最新版的 AzurPilot\n\n### 描述你的问题\n\n侵蚀1遇到塞壬探测装置，如果选择探测敌人，探测到敌人并开启自律寻敌时有大概率脚本会中途瞎点一下然后中断寻敌，之后卡在结算页面，脚本报错重启，之后无视寻到的敌人开启新一轮计划作战。\n\n### 如何复现\n\n1. 前往 '侵蚀1练级'\n2. 遇到 '塞壬探测装置'并探测敌人\n3. 出现问题\n\n\n### 预期行为\n\n正常完成清图，开"
     },
     {
       "source": "github_bounty",
@@ -76,20 +90,6 @@
       "url": "https://github.com/codercops/discord-bot/issues/36",
       "value": 0,
       "desc": "A few values in `wrangler.jsonc` have to match the code, or parts of the bot stop without any error. Today only comments keep them in line.\n\n- The crons (`triggers.crons`, line 16) have to be exactly `DAILY_CRON` and `WELCOME_CRON` from `src/config.ts` (lines 141 and 143). `scheduled()` in `src/inde"
-    },
-    {
-      "source": "github_bounty",
-      "title": "resources: add a test for mine when resource_yield is 0",
-      "url": "https://github.com/OlaGreat/starbound-realms/issues/71",
-      "value": 0,
-      "desc": "## Summary\n`mine`'s payout is `periods * system.resource_yield`. If a system somehow has `resource_yield = 0` (not possible via normal `initialize`, which always assigns 10-50, but worth guarding against future changes), `mine` would compute an amount of 0 and still panic with \"nothing to mine yet\" "
-    },
-    {
-      "source": "github_bounty",
-      "title": "staking template: deposit and withdraw accept zero and negative amounts",
-      "url": "https://github.com/soroban-forge-labs/soroban-forge/issues/571",
-      "value": 0,
-      "desc": "## Task\n`templates/staking/src/lib.rs` `deposit` and `withdraw` never check `amount > 0`. A negative `deposit` lowers `TotalStaked` and the caller's stake, and a negative `withdraw` passes the `cur < amount` check and raises them, which corrupts the reward-per-share accounting.\n\n## Acceptance criter"
     },
     {
       "source": "github_bounty",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-17T12:37:05.331802",
+  "last_run": "2026-10-18T12:54:14.262209",
   "history": []
 }
