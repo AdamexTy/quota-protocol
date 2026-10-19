@@ -2,45 +2,52 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "Fix calc.py: average() wrong for normal lists and clamp() returns low for out-of",
-      "url": "https://github.com/LORDSINE/bounty-bot-e2e/issues/1",
+      "title": "[radar] SN open bounty 2026-10-19T14:36",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1312",
       "value": 0,
-      "desc": "Two bugs in calc.py:\n\n1. `average([1,2,3])` returns 0.666... instead of `2`.\n2. `clamp(15, 0, 10)` returns `0` instead of `10`.\n\nExpected: `average` returns the true arithmetic mean (and should return `0` for an empty list rather than crashing), and `clamp` clamps into [low, high] correctly.\n\nPlease"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597420\tStacker_Stocks\t2\t63\t10000\t18\t25.7\t9274\t28708\trecent@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats!\n1597978\tConstruction_and_Engineering\t2\t50\t5000\t1\t1.7\t9274\t28708\ttop@Construction_and_Engineering\tOPEN_BOUN"
     },
     {
       "source": "github_bounty",
-      "title": "Add rate limiting to /api/v1/artifacts endpoint",
-      "url": "https://github.com/mozzimorzam-sudo/project100-mcp/issues/7",
+      "title": "[radar] SN open bounty 2026-10-19T12:57",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1311",
       "value": 0,
-      "desc": "## Problem\nThe /api/v1/artifacts endpoint currently has no rate limiting. An agent could spam submissions.\n\n## Acceptance Criteria\n- [ ] Add rate limiting (e.g., 10 submissions per minute per agent)\n- [ ] Return 429 with retry-after header when limit exceeded\n- [ ] Document the limit in the API resp"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597420\tStacker_Stocks\t2\t63\t10000\t18\t24.1\t9274\t28705\trecent@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats!\n1597978\tConstruction_and_Engineering\t2\t20\t5000\t0\t0.1\t9274\t28705\ttop@Construction_and_Engineering\tOPEN_BOUN"
     },
     {
       "source": "github_bounty",
-      "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6]",
-      "url": "https://github.com/MicahHeneveld/bros-analysis/issues/6",
+      "title": "[radar] SN open bounty 2026-10-19T06:08",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1310",
       "value": 0,
-      "desc": "## Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6]\n\nCreate labels for **250** frames from `ultrank_11_20`. This dataset has no labels yet, so you are the source of truth — the model's boxes are a starting point, not an answer.\n\n**How to claim**\n\nComment `claim` on this issue. Then run "
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597420\tStacker_Stocks\t2\t63\t10000\t14\t17.3\t9274\t28691\trecent@Stacker_Stocks|top@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats!\n```"
     },
     {
       "source": "github_bounty",
-      "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6]",
-      "url": "https://github.com/MicahHeneveld/bros-analysis/issues/5",
+      "title": "[BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark",
+      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
       "value": 0,
-      "desc": "## Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6]\n\nCreate labels for **250** frames from `ultrank_11_20`. This dataset has no labels yet, so you are the source of truth — the model's boxes are a starting point, not an answer.\n\n**How to claim**\n\nComment `claim` on this issue. Then run "
+      "desc": "### 🤖 Autonomous Model Architecture Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Inference Acceleration  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nEvaluate 4-bit vs 8-bit KV unified cache degradation across 36-layer Qwen2MoE architectures under high concurrency (100+ bot "
     },
     {
       "source": "github_bounty",
-      "title": "Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6]",
-      "url": "https://github.com/MicahHeneveld/bros-analysis/issues/4",
+      "title": "[BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers",
+      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
       "value": 0,
-      "desc": "## Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6]\n\nCreate labels for **250** frames from `ultrank_11_20`. This dataset has no labels yet, so you are the source of truth — the model's boxes are a starting point, not an answer.\n\n**How to claim**\n\nComment `claim` on this issue. Then run "
+      "desc": "### 🤖 Autonomous Security Agent Bounty\n\n**Reward:** 3 Swarm Query Credits  \n**Category:** Systems Hardening / Security  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nSubmit an autonomous diagnostic script or pattern scanner that identifies unquoted service paths and vulnerable kernel driv"
     },
     {
       "source": "github_bounty",
-      "title": "Demo & submission · D7 · Landing page (scrollytelling, French, Vercel)",
-      "url": "https://github.com/Djbrl/bitbounty/issues/41",
+      "title": "Outbound link report",
+      "url": "https://github.com/commonworld-one/commonworld/issues/11",
       "value": 0,
-      "desc": "**Task D7 · 5 points · wave 3 · demo** · size confirmed by a second member before 15:30 (rule 7 of the agreement)\n\n## In plain words\nThe public landing page for BitBounty: a story told as you scroll. The maintainer's MacBook shows a GitHub repo, a green line starts under it and branches into each st"
+      "desc": "# Summary\n\n| Status         | Count |\n|----------------|-------|\n| 🔍 Total       | 38459 |\n| 🔗 Unique      | 5808  |\n| ✅ Successful  | 3655  |\n| ⏳ Timeouts    | 0     |\n| 🔀 Redirected  | 0     |\n| 👻 Excluded    | 34734 |\n| ❓ Unknown     | 0     |\n| 🚫 Errors      | 70    |\n| ⛔ Unsupported | 0     |\n\n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Bounty Scout — 2026-10-19",
+      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/13",
+      "value": 10,
+      "desc": "# Bounty Scout — week of 2026-10-19\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
     },
     {
       "source": "github_bounty",
@@ -65,45 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "Submit MCP Server: BountyRadar MCP",
-      "url": "https://github.com/chatmcp/mcpso/issues/5414",
+      "title": "Add credit(wallet, cost) beside pay() instead of four hand-written loops",
+      "url": "https://github.com/deadronos/asteroid-miner-horizons/issues/105",
       "value": 0,
-      "desc": "## Server name\nBountyRadar MCP\n\n## Repository\nhttps://github.com/PanStories/bountyradar-mcp\n\n## Description\nRemote MCP server that aggregates AI-agent-solvable bounties across Opire, BountyHub, ClawHunt, Algora, GitHub and validated security programs, then scores each for agent-solvability, freshnes"
+      "desc": "Adding a `Cost` into a `Wallet` is hand-written in four places:\n\n- `src/sim/handlers.ts` `refund`: `for (const r of RESOURCES) state.run.bank[r] += c[r] ?? 0`\n- `src/sim/contracts.ts` `updateContracts` reward payout\n- `src/sim/refining.ts` `cancelRefine` refund\n- `src/sim/offline.ts` `applyOffline`:"
     },
     {
       "source": "github_bounty",
-      "title": "feat(core): validate NetworkConfig bounds",
-      "url": "https://github.com/Algorithmic-Warfare/Minehaul/issues/15",
+      "title": "[BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark",
+      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
       "value": 0,
-      "desc": "## Problem\n\n`network::validate_config` (`packages/minehaul_core/sources/network.move`) only checks `max_cargo_lines > 0`. Everything else in `NetworkConfig` is accepted as is:\n\n- **`min_collateral_ratio_bps`:** any `u16`, up to 65535 (about 655% of the reward). It could be intentional over-collatera"
+      "desc": "### 🤖 Autonomous Model Architecture Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Inference Acceleration  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nEvaluate 4-bit vs 8-bit KV unified cache degradation across 36-layer Qwen2MoE architectures under high concurrency (100+ bot "
     },
     {
       "source": "github_bounty",
-      "title": "侵蚀1遇到塞壬探测装置，如果选择探测敌人，处理时脚本乱点造成中断故障",
-      "url": "https://github.com/wess09/AzurPilot/issues/1258",
+      "title": "[BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers",
+      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
       "value": 0,
-      "desc": "### 在提问之前...\n\n- [x] 我已经搜索了现有的 issues\n- [x] 我在提问题之前至少花费了 5 分钟来思考和准备\n- [x] 我已经阅读了 Wiki 中的 常见问题(FAQ)\n- [x] 我正在使用最新版的 AzurPilot\n\n### 描述你的问题\n\n侵蚀1遇到塞壬探测装置，如果选择探测敌人，探测到敌人并开启自律寻敌时有大概率脚本会中途瞎点一下然后中断寻敌，之后卡在结算页面，脚本报错重启，之后无视寻到的敌人开启新一轮计划作战。\n\n### 如何复现\n\n1. 前往 '侵蚀1练级'\n2. 遇到 '塞壬探测装置'并探测敌人\n3. 出现问题\n\n\n### 预期行为\n\n正常完成清图，开"
+      "desc": "### 🤖 Autonomous Security Agent Bounty\n\n**Reward:** 3 Swarm Query Credits  \n**Category:** Systems Hardening / Security  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nSubmit an autonomous diagnostic script or pattern scanner that identifies unquoted service paths and vulnerable kernel driv"
     },
     {
       "source": "github_bounty",
-      "title": "Add a test that checks the config in wrangler.jsonc",
-      "url": "https://github.com/codercops/discord-bot/issues/36",
+      "title": "[BOUNTY #1] MoE Routing Gate Normalization across High-Dimensional Token Project",
+      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1",
       "value": 0,
-      "desc": "A few values in `wrangler.jsonc` have to match the code, or parts of the bot stop without any error. Today only comments keep them in line.\n\n- The crons (`triggers.crons`, line 16) have to be exactly `DAILY_CRON` and `WELCOME_CRON` from `src/config.ts` (lines 141 and 143). `scheduled()` in `src/inde"
+      "desc": "### 🤖 Autonomous Agent Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Model Architecture / Tensor Mathematics  \n**Host:** WhisperAI Studio Swarm Agora Council\n\n#### Problem Statement:\nAnalyze and verify unit-norm cheap_embed positive prompt vectors when projecting hidden states into route"
     },
     {
       "source": "github_bounty",
-      "title": "chore(landing): remove unused copy keys and plate tokens",
-      "url": "https://github.com/mxrsv/spacevibe-deck/issues/66",
+      "title": "feat(wallet): migrate Freighter-only connect to Stellar Wallets Kit",
+      "url": "https://github.com/BuenDia-Builders/defiwise-stellar/issues/37",
       "value": 0,
-      "desc": "- `panelBoardTitle` and `panelBoardBody` (en and vi) in `marketing/landing-prototype/src/copy.js:84-85,215-216` are never read.\n- `--plate-plateau`, `--plate-cloudstudy` and `--plate-jamaica` in `marketing/landing-prototype/styles/tokens.css` (:50, :51, :54) are declared and never used.\n\n**Acceptanc"
-    },
-    {
-      "source": "github_bounty",
-      "title": "bug(a11y): the agent Install button drops keyboard focus when an install fails",
-      "url": "https://github.com/mxrsv/spacevibe-deck/issues/65",
-      "value": 0,
-      "desc": "`src/launcher/agent-install-control.tsx:38` sets `disabled` on the Install button while an install opens. A disabled button loses focus, so after a failed install keyboard focus falls back to `body`.\n\n**Acceptance criteria**\n- The button uses `aria-disabled` while busy and stays focusable; the guard"
+      "desc": "## Categoría / Tipo\n**Integration · Good First Issue** (intermedio)\n\n## Problema\n`useStellarWallet.ts` usa solo `@stellar/freighter-api`. Estudiantes con Lobstr, xBull, Albedo, Hana u otras wallets quedan fuera. En una plataforma educativa esto limita el onboarding.\n\n## Solución propuesta\nMigrar a ["
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-18T12:54:14.262209",
+  "last_run": "2026-10-19T16:03:40.434428",
   "history": []
 }
