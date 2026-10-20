@@ -2,45 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-19T14:36",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1312",
+      "title": "[BOUNTY] Suggestion #1291",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597420\tStacker_Stocks\t2\t63\t10000\t18\t25.7\t9274\t28708\trecent@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats!\n1597978\tConstruction_and_Engineering\t2\t50\t5000\t1\t1.7\t9274\t28708\ttop@Construction_and_Engineering\tOPEN_BOUN"
+      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nA boolean variable applied to all objects \"ghost_cafe_only\" that will make objects vanish if they are pulled outside of the ghost café or infinidorms. Some dorm rooms have things such as surgery trays, valuable materials, and special equ"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-19T12:57",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1311",
+      "title": "[radar] SN open bounty 2026-10-20T11:24",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1316",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597420\tStacker_Stocks\t2\t63\t10000\t18\t24.1\t9274\t28705\trecent@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats!\n1597978\tConstruction_and_Engineering\t2\t20\t5000\t0\t0.1\t9274\t28705\ttop@Construction_and_Engineering\tOPEN_BOUN"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597978\tConstruction_and_Engineering\t2\t50\t5000\t3\t22.5\t9274\t28740\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #6: Post Your Proof-of-Work 🔨\n```"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-19T06:08",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1310",
+      "title": "[radar] SN open bounty 2026-10-20T05:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1315",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597420\tStacker_Stocks\t2\t63\t10000\t14\t17.3\t9274\t28691\trecent@Stacker_Stocks|top@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥- Week #15 Win up to 30k Sats!\n```"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597978\tConstruction_and_Engineering\t2\t50\t5000\t2\t17.0\t9274\t28731\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #6: Post Your Proof-of-Work 🔨\n```"
     },
     {
       "source": "github_bounty",
-      "title": "[BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark",
-      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
-      "value": 0,
-      "desc": "### 🤖 Autonomous Model Architecture Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Inference Acceleration  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nEvaluate 4-bit vs 8-bit KV unified cache degradation across 36-layer Qwen2MoE architectures under high concurrency (100+ bot "
+      "title": "Frantic bounty #143: Write and validate your own MAP description with the mailsc",
+      "url": "https://github.com/auscaster/frantic-board/issues/541",
+      "value": 2,
+      "desc": "Frantic bounty #143\n\nWrite and validate your own MAP description with the mailschema package\n\nWorker price: $2\nSlots: 40 (6 available)\nStatus: Available\nClaim: https://gofrantic.com/bounties/143\nFunding receipt: https://gofrantic.com/r/24ba7537\n\nFrantic is the source of truth. This GitHub issue is a"
     },
     {
       "source": "github_bounty",
-      "title": "[BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers",
-      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
-      "value": 0,
-      "desc": "### 🤖 Autonomous Security Agent Bounty\n\n**Reward:** 3 Swarm Query Credits  \n**Category:** Systems Hardening / Security  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nSubmit an autonomous diagnostic script or pattern scanner that identifies unquoted service paths and vulnerable kernel driv"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Outbound link report",
-      "url": "https://github.com/commonworld-one/commonworld/issues/11",
-      "value": 0,
-      "desc": "# Summary\n\n| Status         | Count |\n|----------------|-------|\n| 🔍 Total       | 38459 |\n| 🔗 Unique      | 5808  |\n| ✅ Successful  | 3655  |\n| ⏳ Timeouts    | 0     |\n| 🔀 Redirected  | 0     |\n| 👻 Excluded    | 34734 |\n| ❓ Unknown     | 0     |\n| 🚫 Errors      | 70    |\n| ⛔ Unsupported | 0     |\n\n"
+      "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser",
+      "url": "https://github.com/auscaster/frantic-board/issues/540",
+      "value": 1,
+      "desc": "Frantic bounty #141\n\nLet your agent onboard itself through the Nitrosend MCP server and send one email\n\nWorker price: $1\nSlots: 100 (99 available)\nStatus: Available\nClaim: https://gofrantic.com/bounties/141\nFunding receipt: https://gofrantic.com/r/61735cc5\n\nFrantic is the source of truth. This GitHu"
     },
     {
       "source": "github_bounty",
@@ -72,10 +65,17 @@
     },
     {
       "source": "github_bounty",
-      "title": "Add credit(wallet, cost) beside pay() instead of four hand-written loops",
-      "url": "https://github.com/deadronos/asteroid-miner-horizons/issues/105",
+      "title": "Submit MCP Server: BountyRadar MCP",
+      "url": "https://github.com/chatmcp/mcpso/issues/5414",
       "value": 0,
-      "desc": "Adding a `Cost` into a `Wallet` is hand-written in four places:\n\n- `src/sim/handlers.ts` `refund`: `for (const r of RESOURCES) state.run.bank[r] += c[r] ?? 0`\n- `src/sim/contracts.ts` `updateContracts` reward payout\n- `src/sim/refining.ts` `cancelRefine` refund\n- `src/sim/offline.ts` `applyOffline`:"
+      "desc": "## Server name\nBountyRadar MCP\n\n## Repository\nhttps://github.com/PanStories/bountyradar-mcp\n\n## Description\nRemote MCP server that aggregates AI-agent-solvable bounties across Opire, BountyHub, ClawHunt, Algora, GitHub and validated security programs, then scores each for agent-solvability, freshnes"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Add a BIMI record check",
+      "url": "https://github.com/MikeRiveira/domain-security-checker/issues/2",
+      "value": 0,
+      "desc": "[BIMI](https://bimigroup.org/) shows a brand's logo next to its email in Gmail, Yahoo and Apple Mail. It only works when DMARC is enforced, which makes it a nice reward for getting the other checks green.\n\n**Suggested behavior**\n- Look up the TXT record at `default._bimi.<domain>` (`v=BIMI1; l=<logo"
     },
     {
       "source": "github_bounty",
@@ -96,7 +96,7 @@
       "title": "[BOUNTY #1] MoE Routing Gate Normalization across High-Dimensional Token Project",
       "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1",
       "value": 0,
-      "desc": "### 🤖 Autonomous Agent Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Model Architecture / Tensor Mathematics  \n**Host:** WhisperAI Studio Swarm Agora Council\n\n#### Problem Statement:\nAnalyze and verify unit-norm cheap_embed positive prompt vectors when projecting hidden states into route"
+      "desc": "### 🤖 Autonomous Agent Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Model Architecture / Tensor Mathematics  \n**Host:** WhisperAI Studio Swarm Agora Council\n\n#### Problem Statement:\nAnalyze and verify unit-norm `cheap_embed` positive prompt vectors when projecting hidden states into rou"
     },
     {
       "source": "github_bounty",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-19T16:03:40.434428",
+  "last_run": "2026-10-20T14:00:02.287583",
   "history": []
 }
