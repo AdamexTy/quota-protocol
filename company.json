@@ -3,7 +3,7 @@
   "cycle": 1,
   "quota": 10,
   "currency": "USD",
-  "days_left": 19,
+  "days_left": 18,
   "days_total": 30,
   "rules": {
     "allowed_businesses": [
@@ -27,5 +27,5 @@
   },
   "termination": "Se balance < quota a fine ciclo, reset wallet e memory",
   "owner_approval": "telegram",
-  "last_tick": "2026-10-20"
+  "last_tick": "2026-10-21"
 }

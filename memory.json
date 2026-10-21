@@ -2,38 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[BOUNTY] Suggestion #1291",
-      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3624",
       "value": 0,
-      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nA boolean variable applied to all objects \"ghost_cafe_only\" that will make objects vanish if they are pulled outside of the ghost café or infinidorms. Some dorm rooms have things such as surgery trays, valuable materials, and special equ"
+      "desc": "<!-- misakanet-question-bounty:anchor-3384 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-20T11:24",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1316",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3623",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597978\tConstruction_and_Engineering\t2\t50\t5000\t3\t22.5\t9274\t28740\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #6: Post Your Proof-of-Work 🔨\n```"
+      "desc": "<!-- misakanet-question-bounty:anchor-3610 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-20T05:55",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1315",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3622",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1597978\tConstruction_and_Engineering\t2\t50\t5000\t2\t17.0\t9274\t28731\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #6: Post Your Proof-of-Work 🔨\n```"
+      "desc": "<!-- misakanet-question-bounty:anchor-3612 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "Frantic bounty #143: Write and validate your own MAP description with the mailsc",
-      "url": "https://github.com/auscaster/frantic-board/issues/541",
-      "value": 2,
-      "desc": "Frantic bounty #143\n\nWrite and validate your own MAP description with the mailschema package\n\nWorker price: $2\nSlots: 40 (6 available)\nStatus: Available\nClaim: https://gofrantic.com/bounties/143\nFunding receipt: https://gofrantic.com/r/24ba7537\n\nFrantic is the source of truth. This GitHub issue is a"
+      "title": "Bounty Board rewire to Quantum AI App + Tracker",
+      "url": "https://github.com/dsect-net/quantum/issues/288",
+      "value": 0,
+      "desc": "> Mirrored from the Solorion Tracker — **TRK-0241** is the source of truth. Edits here do not flow back.\n\nBackfill record (Oct 21 outage audit, Section B.11 verification). The Bounty Board froze; diagnosis landed Oct 20 daytime and the board was REWIRED to run on the Quantum AI App + Tracker instead"
     },
     {
       "source": "github_bounty",
-      "title": "Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser",
-      "url": "https://github.com/auscaster/frantic-board/issues/540",
-      "value": 1,
-      "desc": "Frantic bounty #141\n\nLet your agent onboard itself through the Nitrosend MCP server and send one email\n\nWorker price: $1\nSlots: 100 (99 available)\nStatus: Available\nClaim: https://gofrantic.com/bounties/141\nFunding receipt: https://gofrantic.com/r/61735cc5\n\nFrantic is the source of truth. This GitHu"
+      "title": "[Bounty] [TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061",
+      "value": 50,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/jomaaabbe78-spec/bookningsapp/issues/1\n\n### 漏洞描述 / Description\n[TEST BOUNTY] Fix typo in README\n\n**Bounty: $50**\n\nThere is a typo in README.md: \"Welcom\" should be \"Welcome\".\n\n**Reward:** $50 via PayPal/Crypto\n\n**Contact:** DM for p"
     },
     {
       "source": "github_bounty",
@@ -72,6 +72,20 @@
     },
     {
       "source": "github_bounty",
+      "title": "[TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/jomaaabbe78-spec/bookningsapp/issues/1",
+      "value": 50,
+      "desc": "**Bounty: $50**\n\nThere is a typo in README.md: \"Welcom\" should be \"Welcome\".\n\n**Reward:** $50 via PayPal/Crypto\n\n**Contact:** DM for payment details"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Modify the reward for a commitment when needed",
+      "url": "https://github.com/Heisenberg300604/lockin/issues/2",
+      "value": 0,
+      "desc": "right now one cannot modify the reward but what if someone is able to modify the reward as needed ? what if the motivation changes ? "
+    },
+    {
+      "source": "github_bounty",
       "title": "Add a BIMI record check",
       "url": "https://github.com/MikeRiveira/domain-security-checker/issues/2",
       "value": 0,
@@ -92,20 +106,6 @@
       "desc": "### 🤖 Autonomous Security Agent Bounty\n\n**Reward:** 3 Swarm Query Credits  \n**Category:** Systems Hardening / Security  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nSubmit an autonomous diagnostic script or pattern scanner that identifies unquoted service paths and vulnerable kernel driv"
     },
     {
-      "source": "github_bounty",
-      "title": "[BOUNTY #1] MoE Routing Gate Normalization across High-Dimensional Token Project",
-      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1",
-      "value": 0,
-      "desc": "### 🤖 Autonomous Agent Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Model Architecture / Tensor Mathematics  \n**Host:** WhisperAI Studio Swarm Agora Council\n\n#### Problem Statement:\nAnalyze and verify unit-norm `cheap_embed` positive prompt vectors when projecting hidden states into rou"
-    },
-    {
-      "source": "github_bounty",
-      "title": "feat(wallet): migrate Freighter-only connect to Stellar Wallets Kit",
-      "url": "https://github.com/BuenDia-Builders/defiwise-stellar/issues/37",
-      "value": 0,
-      "desc": "## Categoría / Tipo\n**Integration · Good First Issue** (intermedio)\n\n## Problema\n`useStellarWallet.ts` usa solo `@stellar/freighter-api`. Estudiantes con Lobstr, xBull, Albedo, Hana u otras wallets quedan fuera. En una plataforma educativa esto limita el onboarding.\n\n## Solución propuesta\nMigrar a ["
-    },
-    {
       "source": "article",
       "title": "Come ho automatizzato i deploy con Python",
       "value": 0,
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-20T14:00:02.287583",
+  "last_run": "2026-10-21T14:16:19.449553",
   "history": []
 }
