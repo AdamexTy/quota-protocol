@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3624",
+      "title": "[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run ",
+      "url": "https://github.com/doomsday-network/bounty-guard/issues/1",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3384 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "## 🛡️ Real On-Chain Bounties for Bounty Hunters (`500 DOOM / wDOOM` on Base Mainnet)\n\nUnlike the fake engagement-farming bounty repos exposed by `bounty-guard` (`UnsafeLabs`, `bounty-plaza`, `aquarium-of-gullibles`), **Doomsday Network** pays out 100% verifiable on-chain rewards on **Layer-1 (`DOOM`"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar",
+      "url": "https://github.com/doomsday-network/doomsday/issues/4",
+      "value": 0,
+      "desc": "## ⚡ Earn 500–1,000 Free DOOM (`$wDOOM` on Base Mainnet) in 30 Seconds!\n\nWe are building a public hardware benchmark table for **DoomHash** (our 64-bit golden-ratio matrix + SHA-256 Proof-of-Idle-Work algorithm) and onboarding new miners into our **Top-10 Miner Leaderboard** (Slots `#4–#10` are curr"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3623",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3730",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3610 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-3653 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3622",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3729",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3612 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-3611 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "Bounty Board rewire to Quantum AI App + Tracker",
-      "url": "https://github.com/dsect-net/quantum/issues/288",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3728",
       "value": 0,
-      "desc": "> Mirrored from the Solorion Tracker — **TRK-0241** is the source of truth. Edits here do not flow back.\n\nBackfill record (Oct 21 outage audit, Section B.11 verification). The Bounty Board froze; diagnosis landed Oct 20 daytime and the board was REWIRED to run on the Quantum AI App + Tracker instead"
+      "desc": "<!-- misakanet-question-bounty:anchor-3659 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [TEST BOUNTY] Fix typo in README",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061",
+      "title": "[Bounty proposal] fix(goals): get_user_goals drops active goals by limiting befo",
+      "url": "https://github.com/BasedHardware/omi/issues/23294",
       "value": 50,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/jomaaabbe78-spec/bookningsapp/issues/1\n\n### 漏洞描述 / Description\n[TEST BOUNTY] Fix typo in README\n\n**Bounty: $50**\n\nThere is a typo in README.md: \"Welcom\" should be \"Welcome\".\n\n**Reward:** $50 via PayPal/Crypto\n\n**Contact:** DM for p"
+      "desc": "Fixes #22778. PR: #23293**Bug:** `get_user_goals` (backend/database/goals.py) applied `.limit(limit)` inside the Firestore query, so the page filled in document-id order BEFORE the achieved/abandoned filter ran. If a user's first page is all ended goals, active goals get dropped and callers asking f"
     },
     {
       "source": "github_bounty",
@@ -65,10 +72,10 @@
     },
     {
       "source": "github_bounty",
-      "title": "Submit MCP Server: BountyRadar MCP",
-      "url": "https://github.com/chatmcp/mcpso/issues/5414",
+      "title": "Add a realistic offline research fixture with conflicting source versions",
+      "url": "https://github.com/PresentJay/autopilot-skills/issues/21",
       "value": 0,
-      "desc": "## Server name\nBountyRadar MCP\n\n## Repository\nhttps://github.com/PanStories/bountyradar-mcp\n\n## Description\nRemote MCP server that aggregates AI-agent-solvable bounties across Opire, BountyHub, ClawHunt, Algora, GitHub and validated security programs, then scores each for agent-solvability, freshnes"
+      "desc": "## Problem\nThe current research pilot compares two tiny local inputs, one unavailable. All arms can succeed without substantial synthesis, so it says little about useful research quality.\n\n## Bounded contribution\nAdd a self-contained fixture under `evals/fixtures/` with dated, conflicting vendor sta"
     },
     {
       "source": "github_bounty",
@@ -99,13 +106,6 @@
       "desc": "### 🤖 Autonomous Model Architecture Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Inference Acceleration  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nEvaluate 4-bit vs 8-bit KV unified cache degradation across 36-layer Qwen2MoE architectures under high concurrency (100+ bot "
     },
     {
-      "source": "github_bounty",
-      "title": "[BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers",
-      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3",
-      "value": 0,
-      "desc": "### 🤖 Autonomous Security Agent Bounty\n\n**Reward:** 3 Swarm Query Credits  \n**Category:** Systems Hardening / Security  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nSubmit an autonomous diagnostic script or pattern scanner that identifies unquoted service paths and vulnerable kernel driv"
-    },
-    {
       "source": "article",
       "title": "Come ho automatizzato i deploy con Python",
       "value": 0,
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-21T14:16:19.449553",
+  "last_run": "2026-10-22T14:15:37.981246",
   "history": []
 }
