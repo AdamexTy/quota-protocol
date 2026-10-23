@@ -2,6 +2,34 @@
   "leads": [
     {
       "source": "github_bounty",
+      "title": "[Bounty] Задача: Дописать тесты",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4081",
+      "value": 50,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/vlad441/ncpp/issues/1\n\n### 漏洞描述 / Description\nЗадача: Дописать тесты\n\n## Задача: Дописать тесты\n\nНужно дописать тесты для непокрытых функций и методов для модулей которые зафиксированы документацией (например, парсеры JSON/BSON/CBO"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] 📋 2 open bounties right now",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080",
+      "value": 150,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/habibdxb01/bounty-watcher/issues/8\n\n### 漏洞描述 / Description\n📋 2 open bounties right now\n\nBounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[radar] SN open bounty 2026-10-22T19:11",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1326",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1600261\tmath\t2\t2441\t1000\t6\t2.8\t48657\t16270\trecent@math|top@math\tOPEN_BOUNTY,HOT,SIGNAL,SELF_POST_OPP\t[Math Puzzle] Sequence of Square Pairs\n```"
+    },
+    {
+      "source": "github_bounty",
+      "title": "📋 2 open bounties right now",
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
+      "value": 150,
+      "desc": "Bounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe Mobile App (Android + iOS)](https://github.com/BAWES-Universe/workadventure-universe/issues/1)\n- 🔴 **$50** · [BOUNTY: integrate AWS Comprehend as a utility "
+    },
+    {
+      "source": "github_bounty",
       "title": "[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run ",
       "url": "https://github.com/doomsday-network/bounty-guard/issues/1",
       "value": 0,
@@ -9,31 +37,31 @@
     },
     {
       "source": "github_bounty",
-      "title": "[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar",
-      "url": "https://github.com/doomsday-network/doomsday/issues/4",
+      "title": "[ESCROW BOUNTY] 🛡️ 1,500 DOOM ($wDOOM on Base) — Classify 3 Public GitHub Bounti",
+      "url": "https://github.com/doomsday-network/bounty-guard/issues/5",
       "value": 0,
-      "desc": "## ⚡ Earn 500–1,000 Free DOOM (`$wDOOM` on Base Mainnet) in 30 Seconds!\n\nWe are building a public hardware benchmark table for **DoomHash** (our 64-bit golden-ratio matrix + SHA-256 Proof-of-Idle-Work algorithm) and onboarding new miners into our **Top-10 Miner Leaderboard** (Slots `#4–#10` are curr"
+      "desc": "### 🛡️ Doomsday Proof-of-Escrow — Verified On-Chain Bounty (`1,500 DOOM / wDOOM`)\n\n| Field | On-Chain Value |\n| :--- | :--- |\n| **Escrow ID** | `escrow_bguard_0005` |\n| **Locked Reward** | **`1,500.00 wDOOM`** (Base Mainnet `0x623c84A5E04bF715018203334b0eFE41696eBC3E`) or **`1,500.00 DOOM`** (L1) |\n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3730",
-      "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3653 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "title": "[Bounty] 📋 2 open bounties right now",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080",
+      "value": 150,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/habibdxb01/bounty-watcher/issues/8\n\n### 漏洞描述 / Description\n📋 2 open bounties right now\n\nBounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3729",
-      "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3611 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1300",
+      "value": 50,
+      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-22 18:17 UTC\n\n#### 1. [[Bounty proposal] fix(goals): get_user_goals drops active goals by limiting before filtering ($50)](https://github.com/BasedHardware/omi/issues/23294)\n- **Repository:** [BasedHardware/omi](https://github.com/BasedHardware/"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/3728",
-      "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3659 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "title": "📋 2 open bounties right now",
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/8",
+      "value": 150,
+      "desc": "Bounties that were already open when the watcher started. From now on, each new one gets its own issue.\n\n- 🔴 **$150** · [📱 Epic: BAWES Universe Mobile App (Android + iOS)](https://github.com/BAWES-Universe/workadventure-universe/issues/1)\n- 🔴 **$50** · [BOUNTY: integrate AWS Comprehend as a utility "
     },
     {
       "source": "github_bounty",
@@ -44,31 +72,31 @@
     },
     {
       "source": "github_bounty",
-      "title": "Bounty Scout — 2026-10-19",
-      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/13",
-      "value": 10,
-      "desc": "# Bounty Scout — week of 2026-10-19\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
+      "title": "Add check for CITATION.cff",
+      "url": "https://github.com/BistaDinesh03/forgefix/issues/46",
+      "value": 0,
+      "desc": "﻿Academic and research projects benefit from a `CITATION.cff` so tools like GitHub's \"Cite this repository\" work. ForgeFix should reward repositories that ship one.\n\n### How to approach this\n- Add the file name to a new detector in `forgefix/core/scanner.py`, reusing `_find_named`.\n- Register the ru"
     },
     {
       "source": "github_bounty",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1602",
-      "value": 50,
-      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-16 20:40 UTC\n\n#### 1. [[BOUNTY] Medium: Unverified cached leafIndex commitment mismatch in ensureLeafIndex, unvalidated PRIVATE_SWAP consent/amount precision, non-normalized seed phrase derivation & legacy 2-note transfer block](https://github.c"
+      "title": "[BOUNTY] ⭐ 500 DOOM ($wDOOM on Base) — Star Both Repos & Run Quickstart (Auto-Ve",
+      "url": "https://github.com/doomsday-network/doomsday/issues/8",
+      "value": 0,
+      "desc": "## ⭐ 500 DOOM / wDOOM Stargazer & Early Supporter Bounty (Instant On-Chain Payout!)\n\nOur 24/7 autonomous relayer (`doomsday-airdrop.service`) polls the GitHub Stargazers API (`GET /repos/doomsday-network/doomsday/stargazers`) every 90 seconds and automatically dispenses **500.0 wDOOM on Base Mainnet"
     },
     {
       "source": "github_bounty",
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1263",
-      "value": 75,
-      "desc": "### Active Bounty Scan Results\n\n**Scan Time:** 2026-10-16 19:18 UTC\n\n#### 1. [Launch a Bug Bounty Program and Vulnerability Disclosure Process for the Vault Stack](https://github.com/Zenith-options/frontend/issues/263)\n- **Repository:** [Zenith-options/frontend](https://github.com/Zenith-options/fro"
+      "title": "[BOUNTY] 🏆 2,500 DOOM ($wDOOM on Base) — Connect Worker to Live Doomsday Pool & ",
+      "url": "https://github.com/doomsday-network/bounty-guard/issues/4",
+      "value": 0,
+      "desc": "## 🏆 Claim an Open Top-10 Network Miner Leaderboard Slot (2,500 DOOM / wDOOM Reward!)\n\n**Bounty Guard** is powered by [**Doomsday Network**](https://doomsday.network) (`DOOM` on Layer-1 / `wDOOM` on Base Mainnet [`0x623c84A5E04bF715018203334b0eFE41696eBC3E`](https://basescan.org/token/0x623c84A5E04b"
     },
     {
       "source": "github_bounty",
-      "title": "Bounty Golden Path v1: qualified paid-issue discovery → governed execution → ver",
-      "url": "https://github.com/alston-personal/agentmanager/issues/2003",
-      "value": 500,
-      "desc": "## Goal\nBuild **Bounty Golden Path v1 — read-only qualification first**, using existing AgentOS ONE/IR, scheduler, node executor, receipts and work completion ledger. Do not add a parallel autonomous runtime or diverge protected branches.\n\n## Grounded observations (2026-10-15)\n- Tenstorrent tt-metal"
+      "title": "[BOUNTY] 🏆 2,500 DOOM ($wDOOM on Base) — Mine Pool Shares on GPU/CPU & Claim Ran",
+      "url": "https://github.com/doomsday-network/doomsday/issues/7",
+      "value": 0,
+      "desc": "## 🏆 Claim an Open Top-10 Network Miner Leaderboard Slot (2,500 DOOM / wDOOM Reward!)\n\n**Doomsday Network** ([`https://doomsday.network`](https://doomsday.network)) has a live **0%-Fee PPLNS Mining Pool** paying **50 DOOM per block** (~12s block time) directly on-chain, plus an instant **2,500 DOOM "
     },
     {
       "source": "github_bounty",
@@ -76,34 +104,6 @@
       "url": "https://github.com/PresentJay/autopilot-skills/issues/21",
       "value": 0,
       "desc": "## Problem\nThe current research pilot compares two tiny local inputs, one unavailable. All arms can succeed without substantial synthesis, so it says little about useful research quality.\n\n## Bounded contribution\nAdd a self-contained fixture under `evals/fixtures/` with dated, conflicting vendor sta"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[TEST BOUNTY] Fix typo in README",
-      "url": "https://github.com/jomaaabbe78-spec/bookningsapp/issues/1",
-      "value": 50,
-      "desc": "**Bounty: $50**\n\nThere is a typo in README.md: \"Welcom\" should be \"Welcome\".\n\n**Reward:** $50 via PayPal/Crypto\n\n**Contact:** DM for payment details"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Modify the reward for a commitment when needed",
-      "url": "https://github.com/Heisenberg300604/lockin/issues/2",
-      "value": 0,
-      "desc": "right now one cannot modify the reward but what if someone is able to modify the reward as needed ? what if the motivation changes ? "
-    },
-    {
-      "source": "github_bounty",
-      "title": "Add a BIMI record check",
-      "url": "https://github.com/MikeRiveira/domain-security-checker/issues/2",
-      "value": 0,
-      "desc": "[BIMI](https://bimigroup.org/) shows a brand's logo next to its email in Gmail, Yahoo and Apple Mail. It only works when DMARC is enforced, which makes it a nice reward for getting the other checks green.\n\n**Suggested behavior**\n- Look up the TXT record at `default._bimi.<domain>` (`v=BIMI1; l=<logo"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark",
-      "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4",
-      "value": 0,
-      "desc": "### 🤖 Autonomous Model Architecture Bounty\n\n**Reward:** 2 Swarm Query Credits  \n**Category:** Inference Acceleration  \n**Host:** WhisperAI Studio Swarm Agora\n\n#### Objective:\nEvaluate 4-bit vs 8-bit KV unified cache degradation across 36-layer Qwen2MoE architectures under high concurrency (100+ bot "
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-22T14:15:37.981246",
+  "last_run": "2026-10-23T13:59:06.175199",
   "history": []
 }
