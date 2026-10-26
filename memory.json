@@ -2,38 +2,59 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/37",
+      "title": "[radar] SN open bounty 2026-10-26T12:48",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1339",
       "value": 0,
-      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,\n- **Monto:** Ver enlace\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/alfrexo95/bounty-bot/issues/31)\n\n---\n\n### 💰 Payment Details"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1601866\tStacker_Stocks\t2\t319\t10000\t22\t24.7\t9274\t28921\trecent@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats!\n```"
     },
     {
       "source": "github_bounty",
-      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/31",
+      "title": "[radar] SN open bounty 2026-10-26T12:48",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1338",
       "value": 0,
-      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** 💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — In\n- **Monto:** Ver enlace\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/alfrexo95/bounty-bot/issues/30)\n\n---\n\n### 💰 Payment Details"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1601866\tStacker_Stocks\t2\t319\t10000\t22\t24.6\t9274\t28921\trecent@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats!\n```"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114",
+      "title": "💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/46",
+      "value": 0,
+      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage\n- **Monto:** Ver enlace\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092)\n\n---\n\n### "
+    },
+    {
+      "source": "github_bounty",
+      "title": "[BOUNTY] [level:intermediate] Backend: Implement Real-Time SLA Breach Auto-Escal",
+      "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4077",
+      "value": 0,
+      "desc": "## 🎯 Problem Statement\nTickets approaching or exceeding their SLA resolution deadlines currently risk remaining stagnant in standard priority queues without automated escalation or notification to on-call support leads. While foundational helpers exist in `backend/sla_checker.py` and `backend/sla_no"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[radar] SN open bounty 2026-10-26T06:01",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1337",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1601866\tStacker_Stocks\t2\t319\t10000\t14\t17.9\t9274\t28904\trecent@Stacker_Stocks|top@Stacker_Stocks\tOPEN_BOUNTY,SELF_POST_OPP\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats!\n```"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[WTM REVIEW | Medium] zio/zio#8686 - Fix ZStream.groupedWithin hang on infinite ",
+      "url": "https://github.com/WholeTroutMedia/open-source-bounties/issues/2",
+      "value": 0,
+      "desc": "## Staged Bounty Review Package (`zio-8686`)\n\n- **Upstream Issue**: [zio/zio#8686](https://github.com/zio/zio/issues/8686)\n- **Difficulty Tier**: `Medium`\n- **Funding / Platform**: Algora Bounty ($ZIO Board) (Algora Verified Bounty (0 Open PRs))\n- **Competing-PR Etiquette Audit**: `EXTEND_STALLED` ("
+    },
+    {
+      "source": "github_bounty",
+      "title": "Outbound link report",
+      "url": "https://github.com/commonworld-one/commonworld/issues/146",
+      "value": 0,
+      "desc": "# Summary\n\n| Status         | Count |\n|----------------|-------|\n| 🔍 Total       | 47116 |\n| 🔗 Unique      | 7384  |\n| ✅ Successful  | 4433  |\n| ⏳ Timeouts    | 16    |\n| 🔀 Redirected  | 154   |\n| 👻 Excluded    | 42540 |\n| ❓ Unknown     | 0     |\n| 🚫 Errors      | 127   |\n| ⛔ Unsupported | 0     |\n\n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Bounty Scout — 2026-10-26",
+      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/15",
       "value": 10,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/doomsday-network/doomsday/issues/39\n\n### 漏洞描述 / Description\n[STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available — $100 USD Vault)\n\n### 🎮 DoomVault — Redeem `100,000 DOOM` (`$wDOOM`) "
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4113",
-      "value": 10,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/doomsday-network/doom-pay/issues/4\n\n### 漏洞描述 / Description\n[STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available — $100 USD Vault)\n\n### 🎮 DoomVault — Redeem `100,000 DOOM` (`$wDOOM`) f"
-    },
-    {
-      "source": "github_bounty",
-      "title": "💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — In",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/30",
-      "value": 0,
-      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your Public Agent Repo or GitHub Action Workflow!\n- **Monto:** Ver enlace\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/doomsday-networ"
+      "desc": "# Bounty Scout — week of 2026-10-26\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
     },
     {
       "source": "github_bounty",
@@ -51,59 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "Question: Bounty program clarification — 84 merged PRs from Dimank92",
-      "url": "https://github.com/benelabs/crucible/issues/1368",
+      "title": "bug: bulk DSA status changes leave topic solved counts and mastery progress stal",
+      "url": "https://github.com/VarshithReddy2006/DevTrack/issues/22",
       "value": 0,
-      "desc": "Hi @GideonBature @ACodehunter @adams813,\n\nOur contributor **Dimank92** has **84 merged pull requests** in the crucible repository, fixing issues from the [Stellar Wave] series created by @ACodehunter.\n\n### Examples of merged PRs:\n- #1338: fix(contracts): verify soroban wasm export signatures (#1153)"
+      "desc": "## 1. Problem Description\n\nSuccessful bulk status changes update manually tracked DSA problems but leave their topic progress unchanged. For a fresh user with one `graphs` problem, marking it solved returns HTTP 200 and the overall solved total becomes 1, while topic solved counts and mastery progre"
     },
     {
       "source": "github_bounty",
-      "title": "First-Dollar Mission: qualify and complete the first paid AI-assisted repair",
-      "url": "https://github.com/Ledgercorp/BountyForge/issues/3",
-      "value": 2000,
-      "desc": "## Objective\nGet BountyForge's **first legitimately paid AI-assisted coding repair**, then repeat toward a **$2,000/month gross** target. This is a private income-generation operator, **not a SaaS to sell**. Optimize for accepted work and net receipts, not developmental test counts.\n\n## Constraints\n"
+      "title": "Benchmark adapter: BRIGHT (reasoning-intensive retrieval)",
+      "url": "https://github.com/dolev31/lasagna/issues/4",
+      "value": 0,
+      "desc": "## Why\n\nMost retrieval benchmarks reward word overlap. BRIGHT ([arXiv 2407.12883](https://arxiv.org/abs/2407.12883)) asks for documents that help reason about a question, and keyword and dense retrievers score low on it. It is a good place to see whether a reranker or a query enhancer helps when mat"
     },
     {
       "source": "github_bounty",
-      "title": "[ESCROW BOUNTY] 🛡️ 1,500 DOOM ($wDOOM on Base) — Classify 3 Public GitHub Bounti",
-      "url": "https://github.com/doomsday-network/bounty-guard/issues/5",
+      "title": "feat(clean): add a Swift Package Manager cache category",
+      "url": "https://github.com/mxrsv/tinysift/issues/4",
       "value": 0,
-      "desc": "### 🛡️ Doomsday Proof-of-Escrow — Verified On-Chain Bounty (`1,500 DOOM / wDOOM`)\n\n| Field | On-Chain Value |\n| :--- | :--- |\n| **Escrow ID** | `escrow_bguard_0005` |\n| **Locked Reward** | **`1,500.00 wDOOM`** (Base Mainnet `0x623c84A5E04bF715018203334b0eFE41696eBC3E`) or **`1,500.00 DOOM`** (L1) |\n"
+      "desc": "## What\n\nGive `~/Library/Caches/org.swift.swiftpm` its own cleanup category, the way `puppeteer` has one.\n\n## Why\n\nToday the `user-caches` provider already lists this folder, as an unnamed item with Review risk that nobody ticks by default. A dedicated category can name what it is, say how it comes "
     },
     {
       "source": "github_bounty",
-      "title": "[ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Sess",
-      "url": "https://github.com/doomsday-network/doom-pay/issues/1",
+      "title": "feat(clean): add a CocoaPods cache category",
+      "url": "https://github.com/mxrsv/tinysift/issues/3",
       "value": 0,
-      "desc": "### ⚡ `1,000.0 wDOOM` (Base Mainnet ERC-20) — DoomPay Integration & Pool Benchmark Bounty\n\n**Reward:** **`1,000.0 wDOOM`** (Base Mainnet `0x623c84A5E04bF715018203334b0eFE41696eBC3E`) or **`1,000.0 DOOM`** (Layer-1)\n**Escrow Status:** `LOCKED` (`100%` on-chain reserve verified via `https://doomsday.n"
+      "desc": "## What\n\nGive `~/Library/Caches/CocoaPods` its own cleanup category, the way `puppeteer` has one.\n\n## Why\n\nToday the `user-caches` provider already lists this folder, as an unnamed item with Review risk that nobody ticks by default. A dedicated category can name what it is, say how it comes back (`p"
     },
     {
       "source": "github_bounty",
-      "title": "[BOUNTY] ⚡ 1,000–2,500 DOOM ($wDOOM on Base) — Connect Your GPU or CPU Worker to",
-      "url": "https://github.com/doomsday-network/cuda-gpu-miner/issues/1",
+      "title": "feat(clean): add a Cypress binary category",
+      "url": "https://github.com/mxrsv/tinysift/issues/2",
       "value": 0,
-      "desc": "### ⚡ 1,000–2,500 DOOM (`$wDOOM` on Base Mainnet) — Live GPU/CPU Mining Pool Challenge\n\n**On-Chain Escrow Status:** 🟢 `SAFE_WITH_ESCROW`\n- **Base Mainnet `wDOOM` Contract:** [`0x623c84A5E04bF715018203334b0eFE41696eBC3E`](https://basescan.org/token/0x623c84A5E04bF715018203334b0eFE41696eBC3E)\n- **Live"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Add achievement: Streak Master (30-day commit streak)",
-      "url": "https://github.com/upstream-oss/commitquest/issues/7",
-      "value": 0,
-      "desc": "## What\n\nAdd the **Streak Master** achievement to `data/achievements/`.\n\nAwarded for maintaining a 30-day commit streak. Only the most dedicated adventurers earn this.\n\n## How\n\n1. Create `data/achievements/streak-master.json`\n2. Follow the schema in `data/schemas/achievement.schema.json`\n3. Look at "
-    },
-    {
-      "source": "github_bounty",
-      "title": "Add monster: Infinite Loop Hydra 🐲",
-      "url": "https://github.com/upstream-oss/commitquest/issues/3",
-      "value": 0,
-      "desc": "## What\n\nAdd the **Infinite Loop Hydra** to `data/monsters/`. Cut one head off and two more take its place — just like an infinite loop.\n\n## How\n\n1. Create `data/monsters/infinite-loop-hydra.json`\n2. Follow the schema in `data/schemas/monster.schema.json`\n3. Run `npm test` to validate\n4. Open a PR\n\n"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Add monster: Segfault Serpent 🐍",
-      "url": "https://github.com/upstream-oss/commitquest/issues/2",
-      "value": 0,
-      "desc": "## What\n\nAdd the **Segfault Serpent** to `data/monsters/`.\n\n## How\n\n1. Create `data/monsters/segfault-serpent.json`\n2. Follow the schema in `data/schemas/monster.schema.json`\n3. Look at `data/monsters/null-pointer-phantom.json` for an example\n4. Run `npm test` to validate\n5. Open a PR\n\n## Suggested "
+      "desc": "## What\n\nGive `~/Library/Caches/Cypress` its own cleanup category, the way `puppeteer` has one.\n\n## Why\n\nToday the `user-caches` provider already lists this folder, as an unnamed item with Review risk that nobody ticks by default. A dedicated category can name what it is, say how it comes back (`npx"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-25T13:28:35.368870",
+  "last_run": "2026-10-26T15:40:58.325870",
   "history": []
 }
