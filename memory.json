@@ -2,45 +2,59 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-26T12:48",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1339",
+      "title": "[radar] SN open bounty 2026-10-27T12:01",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1601866\tStacker_Stocks\t2\t319\t10000\t22\t24.7\t9274\t28921\trecent@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats!\n```"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1602563\tConstruction_and_Engineering\t2\t141\t5000\t1\t21.8\t9274\t28961\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #7: Post Your Proof-of-Work 🔨\n```"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-26T12:48",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1338",
+      "title": "[radar] SN open bounty 2026-10-27T10:25",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1601866\tStacker_Stocks\t2\t319\t10000\t22\t24.6\t9274\t28921\trecent@Stacker_Stocks\tOPEN_BOUNTY\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats!\n```"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1602563\tConstruction_and_Engineering\t2\t141\t5000\t1\t20.2\t9274\t28955\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #7: Post Your Proof-of-Work 🔨\n```"
     },
     {
       "source": "github_bounty",
-      "title": "💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/46",
+      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/50",
       "value": 0,
-      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage\n- **Monto:** Ver enlace\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092)\n\n---\n\n### "
+      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile\n- **Monto:** Ver enlace\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/alfrexo95/bounty-bot/issues/49)\n\n---\n\n### 💰 Payment Details"
     },
     {
       "source": "github_bounty",
-      "title": "[BOUNTY] [level:intermediate] Backend: Implement Real-Time SLA Breach Auto-Escal",
-      "url": "https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4077",
+      "title": "[radar] SN open bounty 2026-10-27T04:52",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1342",
       "value": 0,
-      "desc": "## 🎯 Problem Statement\nTickets approaching or exceeding their SLA resolution deadlines currently risk remaining stagnant in standard priority queues without automated escalation or notification to on-call support leads. While foundational helpers exist in `backend/sla_checker.py` and `backend/sla_no"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1602563\tConstruction_and_Engineering\t2\t141\t5000\t1\t14.6\t9274\t28952\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #7: Post Your Proof-of-Work 🔨\n```"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-10-26T06:01",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1337",
+      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/49",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1601866\tStacker_Stocks\t2\t319\t10000\t14\t17.9\t9274\t28904\trecent@Stacker_Stocks|top@Stacker_Stocks\tOPEN_BOUNTY,SELF_POST_OPP\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #16 Win up to 20k Sats!\n```"
+      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile): add offline storage and que\n- **Monto:** Ver enlace\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/alfrexo95/bounty-bot/issues/48)\n\n---\n\n### 💰 Payment Details"
     },
     {
       "source": "github_bounty",
-      "title": "[WTM REVIEW | Medium] zio/zio#8686 - Fix ZStream.groupedWithin hang on infinite ",
+      "title": "TRI bounty seat: pay march credit only on a verified receipt",
+      "url": "https://github.com/Trinity-S-AI-DNA/t27/issues/12818",
+      "value": 0,
+      "desc": "# TRI bounty seat: pay march credit only on a verified receipt, wired to the ledger law that exists\n\nPurpose. The owner demand (2026-10-20 swarm focus, and today: \"пей за полезную работу, децентрализовано, $TRI, по правилу Парето\") needs a bounty seat that already has law and lacks a host. Law measu"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Atlas: triage external link failures (117 errors on 73 cards)",
+      "url": "https://github.com/commonworld-one/commonworld/issues/167",
+      "value": 0,
+      "desc": "## What\n\nThe `links-external` job of **Quality (links + Lighthouse)** on `main` (run https://github.com/commonworld-one/commonworld/actions/runs/40407169350, commit 26c6754) passes, but its summary lists **117 link errors on 73 Atlas pages** (unique URLs: about 80). The job marks them as tracked and"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Verified Fix Ready (Exit Code 0) - Sealed for Original Repo Owner & @jaharoni R",
       "url": "https://github.com/WholeTroutMedia/open-source-bounties/issues/2",
       "value": 0,
-      "desc": "## Staged Bounty Review Package (`zio-8686`)\n\n- **Upstream Issue**: [zio/zio#8686](https://github.com/zio/zio/issues/8686)\n- **Difficulty Tier**: `Medium`\n- **Funding / Platform**: Algora Bounty ($ZIO Board) (Algora Verified Bounty (0 Open PRs))\n- **Competing-PR Etiquette Audit**: `EXTEND_STALLED` ("
+      "desc": "## Sealed Solution Vault & Original Repo Owner Access Gate\n\n> **Status**: **SOLVED & DETERMINISTICALLY VERIFIED (`Exit Code 0`), SEALED AGAINST SCRAPERS**\n>\n> **Why the Raw Diff Is Private**: To protect upstream maintainers and our engineering work from automated scraper bots and copycats stealing u"
     },
     {
       "source": "github_bounty",
@@ -55,20 +69,6 @@
       "url": "https://github.com/ariahendrawan-sudo/project-a/issues/15",
       "value": 10,
       "desc": "# Bounty Scout — week of 2026-10-26\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Community review: ownership verification on the audit engine + webhook idempoten",
-      "url": "https://github.com/umpireboulianne-design/nexus-revenue-engine/issues/1",
-      "value": 0,
-      "desc": "## What I reviewed\n\n`README.md`, the three-engine architecture, deploy path (Caddyfile, VPS script, RapidAPI/Apify manifests) — from the Go-Hybrid org, where your emit-side export-collision fix landed this week.\n\n## What's genuinely good\n\nThe zero-external-API-cost constraint shaping the whole desig"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Submit] Remote MCP Server: Agent Bounty Feed (io.github.dailydollar-bot/agent-b",
-      "url": "https://github.com/chatmcp/mcpso/issues/6028",
-      "value": 0,
-      "desc": "**Server Name:** Agent Bounty Feed\n**Registry name:** io.github.dailydollar-bot/agent-bounty-feed\n**Description:** Open, paid bounties AI agents can claim, verified hourly. Aggregates funded listings from agent bounty boards (Frantic, Taskmarket, Agent Bounties, BasedAgents, Superteam Earn, Licium, "
     },
     {
       "source": "github_bounty",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-10-26T15:40:58.325870",
+  "last_run": "2026-10-27T15:03:10.315322",
   "history": []
 }
