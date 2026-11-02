@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[BOUNTY] Suggestion #1301",
-      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1383",
+      "title": "[radar] SN open bounty 2026-11-02T15:36",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1352",
       "value": 0,
-      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nAdd the Show Skills verb back into IC tab and into UI, allowing you to check on some basic skills like Primitive, Athletics and the ones you have leveled up at least once as a simpler version to track one's skills that is also accessible"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1607023\tConstruction_and_Engineering\t2\t21\t5000\t0\t1.5\t9274\t29215\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP,FRESH\tShow Your Build Weekly #8: Post Your Proof-of-Work 🔨 💰\n```"
     },
     {
       "source": "github_bounty",
-      "title": "[BOUNTY] Suggestion #1298",
-      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1382",
-      "value": 0,
-      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nCan we get the cumflation limit in character creation? So, you know, belly doesn't grow bigger than certain size? Other body parts too I guess.\n\n**Reason:**\n[BOUNTY] yea\n\n**Results:**\n23x <:In_help:1056296636348899408>\n1x <:In_harm:10562"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-01T14:58",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1348",
-      "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1606443\tStacker_Stocks\t2\t218\t10000\t3\t1.3\t9274\t29168\trecent@Stacker_Stocks|top@Stacker_Stocks\tOPEN_BOUNTY,LOW_COMP,FRESH,SIGNAL\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #17 Win up to 30k Sats!\n```"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seg",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4198",
+      "title": "💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/77",
       "value": 750,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/alfrexo95/bounty-bot/issues/74\n\n### 漏洞描述 / Description\n💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro \n\n🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** [Bounty] 💰 Bounty Seguro ($$750): 💰 Bount"
+      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro \n- **Monto:** $$750\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199)\n\n---\n\n### 💰"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4297",
+      "title": "[BOUNTY] Suggestion #1283",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1385",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3652 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nPlease fix botany on Moonstation. There's 4 lockers and 0 botany clothings vendors. As cool as quick access to mining area is, botany is constantly getting attacked by goliaths, basilisks and other nasties. There's no other map where gol"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[radar] SN open bounty 2026-11-02T05:51",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1351",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1606443\tStacker_Stocks\t2\t250\t10000\t13\t16.1\t9274\t29204\trecent@Stacker_Stocks|top@Stacker_Stocks\tOPEN_BOUNTY,SELF_POST_OPP\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #17 Win up to 30k Sats!\n```"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seg",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199",
+      "value": 750,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/alfrexo95/bounty-bot/issues/76\n\n### 漏洞描述 / Description\n💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro \n\n🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Bounty Scout — 2026-11-02",
+      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/22",
+      "value": 10,
+      "desc": "# Bounty Scout — week of 2026-11-02\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
     },
     {
       "source": "github_bounty",
@@ -61,14 +68,7 @@
       "title": "Outbound link report",
       "url": "https://github.com/commonworld-one/commonworld/issues/146",
       "value": 0,
-      "desc": "# Summary\n\n| Status         | Count |\n|----------------|-------|\n| 🔍 Total       | 47116 |\n| 🔗 Unique      | 7384  |\n| ✅ Successful  | 4433  |\n| ⏳ Timeouts    | 16    |\n| 🔀 Redirected  | 154   |\n| 👻 Excluded    | 42540 |\n| ❓ Unknown     | 0     |\n| 🚫 Errors      | 127   |\n| ⛔ Unsupported | 0     |\n\n"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Bounty Scout — 2026-10-26",
-      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/15",
-      "value": 10,
-      "desc": "# Bounty Scout — week of 2026-10-26\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
+      "desc": "# Summary\n\n| Status         | Count |\n|----------------|-------|\n| 🔍 Total       | 47337 |\n| 🔗 Unique      | 7581  |\n| ✅ Successful  | 4533  |\n| ⏳ Timeouts    | 17    |\n| 🔀 Redirected  | 1     |\n| 👻 Excluded    | 42646 |\n| ❓ Unknown     | 0     |\n| 🚫 Errors      | 141   |\n| ⛔ Unsupported | 0     |\n\n"
     },
     {
       "source": "github_bounty",
@@ -79,31 +79,31 @@
     },
     {
       "source": "github_bounty",
-      "title": "[NF-7V3] Spending analysis",
-      "url": "https://github.com/LightningEg/Lightning/issues/234",
+      "title": "[PALADIN] The Tome of Valor - Quest item disappears after quest abandonement",
+      "url": "https://github.com/azerothcore/azerothcore-wotlk/issues/28318",
       "value": 0,
-      "desc": "### Code\nNF-7V3\n\n### What to build (More AI prompt buttons that carry Lightning's context)\nOn Spending, link to the period's analysis prompt (the Export for AI prompt already exists in Settings) from the screen where the question arises. Built from names and categories only, never amounts unless the"
+      "desc": "### Triage\n\n\nIssue linked from CC: \nhttps://github.com/chromiecraft/chromiecraft/issues/10371\n\nTriage Notes: \nRepro:\n- be level 50+ paladin human\n- .go creature id 6171\n- take quest tome of valor from npc\n- get the book and use the quest from the book\n- abandon it and observe you cant take it again "
     },
     {
       "source": "github_bounty",
-      "title": "[NF-7V2] Counterparty clean-up",
-      "url": "https://github.com/LightningEg/Lightning/issues/233",
+      "title": "task-0007: Independently verify the three published EIP-712 domain separators",
+      "url": "https://github.com/ailn-ai/ailn/issues/7",
       "value": 0,
-      "desc": "### Code\nNF-7V2\n\n### What to build (More AI prompt buttons that carry Lightning's context)\nOn Counterparties, a prompt with the saved names and aliases asking which are duplicates or spellings of one name, answered as a list to paste into Add alias. Built from names and categories only, never amount"
+      "desc": "**Task file:** [`tasks/task-0007.json`](../blob/main/tasks/task-0007.json) · **Risk:** `low` · **Reward:** unpaid · **Agent-friendly:** True\n\n## Problem\ndocs/EIP712-DOMAINS.md publishes name, version and DOMAIN_SEPARATOR for Base, Arbitrum and X Layer USDC, measured by the maintainer. A single measu"
     },
     {
       "source": "github_bounty",
-      "title": "[BT-1L] The brand audit's page-jump check fails on /welcome only under a paralle",
-      "url": "https://github.com/LightningEg/Lightning/issues/228",
+      "title": "task-0004: Document the input schema of the three free tools in API-CONTRACT.md",
+      "url": "https://github.com/ailn-ai/ailn/issues/5",
       "value": 0,
-      "desc": "### Code\nBT-1L\n\n### What's wrong or wanted\n`tests/test_brand_audit.py::test_page_jump_stays_outside_the_figures` failed three times in\n`pytest -n auto --dist loadfile` on 2026-10-29 with `{'/welcome': ['Page control overlaps the content column']}`, on\n`main` and on branches that touch no PC page. Ru"
+      "desc": "**Task file:** [`tasks/task-0004.json`](../blob/main/tasks/task-0004.json) · **Risk:** `low` · **Reward:** unpaid · **Agent-friendly:** True\n\n## Problem\ndocs/API-CONTRACT.md lists the six tools and their prices but not their arguments. An agent that wants to call ailn_discover or ailn_inspect has to"
     },
     {
       "source": "github_bounty",
-      "title": "[Good first issue · Nov 2026] Cover an environment nobody has — one real failure",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4187",
+      "title": "task-0003: Add an offline test that the published payment challenge decodes as d",
+      "url": "https://github.com/ailn-ai/ailn/issues/4",
       "value": 0,
-      "desc": "# Cover an environment nobody has (November 2026)\n\nMisakaNet is a failure memory that **12 coding agents** can install into themselves — but its intake has only ever heard from **four of them**.\n\n| Environment | Has ever submitted | Take it |\n|---|---|---|\n| Claude Code | ✅ 212 submissions | — |\n| D"
+      "desc": "**Task file:** [`tasks/task-0003.json`](../blob/main/tasks/task-0003.json) · **Risk:** `low` · **Reward:** unpaid · **Agent-friendly:** True\n\n## Problem\ndocs/PAID-CALL.md shows a challenge and a PAYMENT-SIGNATURE envelope, but nothing in the repository checks that the documented shape is the shape t"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-01T15:38:35.571814",
+  "last_run": "2026-11-02T19:00:11.128882",
   "history": []
 }
