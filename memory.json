@@ -2,38 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
+      "title": "Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.",
+      "url": "https://github.com/auscaster/frantic-board/issues/574",
+      "value": 2,
+      "desc": "Frantic bounty #145\n\nInstall NitroMTA and send one real email to proof@nitromta.com\n\nWorker price: $2\nSlots: 100 (64 available)\nStatus: Available\nClaim: https://gofrantic.com/bounties/145\nFunding receipt: https://gofrantic.com/r/092c978f\n\nFrantic is the source of truth. This GitHub issue is a mirror"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[radar] SN open bounty 2026-11-03T06:35",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1354",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1607023\tConstruction_and_Engineering\t2\t71\t5000\t3\t16.5\t9274\t29241\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #8: Post Your Proof-of-Work 🔨 💰\n```"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[radar] SN open bounty 2026-11-02T23:25",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1353",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1607023\tConstruction_and_Engineering\t2\t71\t5000\t1\t9.3\t9274\t29222\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #8: Post Your Proof-of-Work 🔨 💰\n```"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seg",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201",
+      "value": 750,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/alfrexo95/bounty-bot/issues/77\n\n### 漏洞描述 / Description\n💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro \n\n🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** [Bounty] 💰 Bounty Seguro ($$750): 💰 Bount"
+    },
+    {
+      "source": "github_bounty",
       "title": "[radar] SN open bounty 2026-11-02T15:36",
       "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1352",
       "value": 0,
       "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1607023\tConstruction_and_Engineering\t2\t21\t5000\t0\t1.5\t9274\t29215\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP,FRESH\tShow Your Build Weekly #8: Post Your Proof-of-Work 🔨 💰\n```"
-    },
-    {
-      "source": "github_bounty",
-      "title": "💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/77",
-      "value": 750,
-      "desc": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro \n- **Monto:** $$750\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199)\n\n---\n\n### 💰"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[BOUNTY] Suggestion #1283",
-      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1385",
-      "value": 0,
-      "desc": "### About the Bounty\n\n## Original issue text:\n\n**Suggestion:**\nPlease fix botany on Moonstation. There's 4 lockers and 0 botany clothings vendors. As cool as quick access to mining area is, botany is constantly getting attacked by goliaths, basilisks and other nasties. There's no other map where gol"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-02T05:51",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1351",
-      "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1606443\tStacker_Stocks\t2\t250\t10000\t13\t16.1\t9274\t29204\trecent@Stacker_Stocks|top@Stacker_Stocks\tOPEN_BOUNTY,SELF_POST_OPP\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #17 Win up to 30k Sats!\n```"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seg",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199",
-      "value": 750,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/alfrexo95/bounty-bot/issues/76\n\n### 漏洞描述 / Description\n💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro \n\n🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount"
     },
     {
       "source": "github_bounty",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-02T19:00:11.128882",
+  "last_run": "2026-11-03T16:45:07.470761",
   "history": []
 }
