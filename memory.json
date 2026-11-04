@@ -5,7 +5,7 @@
       "title": "Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.",
       "url": "https://github.com/auscaster/frantic-board/issues/574",
       "value": 2,
-      "desc": "Frantic bounty #145\n\nInstall NitroMTA and send one real email to proof@nitromta.com\n\nWorker price: $2\nSlots: 100 (64 available)\nStatus: Available\nClaim: https://gofrantic.com/bounties/145\nFunding receipt: https://gofrantic.com/r/092c978f\n\nFrantic is the source of truth. This GitHub issue is a mirror"
+      "desc": "Frantic bounty #145\n\nInstall NitroMTA and send one real email to proof@nitromta.com\n\nWorker price: $2\nSlots: 100 (37 available)\nStatus: Available\nClaim: https://gofrantic.com/bounties/145\nFunding receipt: https://gofrantic.com/r/092c978f\n\nFrantic is the source of truth. This GitHub issue is a mirror"
     },
     {
       "source": "github_bounty",
@@ -72,17 +72,24 @@
     },
     {
       "source": "github_bounty",
+      "title": "docs: add Habit Formation psychology primer (Cue, Craving, Response, Reward) in ",
+      "url": "https://github.com/TheVicky1/Pact_OS/issues/733",
+      "value": 0,
+      "desc": "## 📖 Documentation Task Summary\n\n### 🎯 Objective & Target File\nTarget File: `docs/FEATURES.md`\n\nPACT OS is designed around behavioral psychology and habit science (inspired by James Clear's *Atomic Habits* and Charles Duhigg's *The Power of Habit*). \n\nWe want to add a concise, beginner-friendly **\"H"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Game design",
+      "url": "https://github.com/retroromrunner/rayslice-gba/issues/1",
+      "value": 0,
+      "desc": "# AREA QUEST - Design Direction (GBC)\n\n## Core Vision\n\nA small first-person exploration adventure for Game Boy Color that combines:\n\n- Wizardry-style instant movement\n- Shadowgate-style item puzzles\n- Zelda-style dungeon progression\n- Environmental exploration and clue solving\n- No combat, levels, s"
+    },
+    {
+      "source": "github_bounty",
       "title": "Integrate code coverage reporting and quality gates",
       "url": "https://github.com/yashdotdev13/SafarSaathi/issues/97",
       "value": 0,
       "desc": "## Problem\nThe project lacks a consistent way to measure test coverage and prevent critical code paths from becoming untested.\n\n## Scope\n- Configure JaCoCo or an equivalent coverage tool across relevant Maven modules.\n- Publish coverage summaries in CI.\n- Introduce a pragmatic coverage threshold, wi"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[PALADIN] The Tome of Valor - Quest item disappears after quest abandonement",
-      "url": "https://github.com/azerothcore/azerothcore-wotlk/issues/28318",
-      "value": 0,
-      "desc": "### Triage\n\n\nIssue linked from CC: \nhttps://github.com/chromiecraft/chromiecraft/issues/10371\n\nTriage Notes: \nRepro:\n- be level 50+ paladin human\n- .go creature id 6171\n- take quest tome of valor from npc\n- get the book and use the quest from the book\n- abandon it and observe you cant take it again "
     },
     {
       "source": "github_bounty",
@@ -99,13 +106,6 @@
       "desc": "**Task file:** [`tasks/task-0004.json`](../blob/main/tasks/task-0004.json) · **Risk:** `low` · **Reward:** unpaid · **Agent-friendly:** True\n\n## Problem\ndocs/API-CONTRACT.md lists the six tools and their prices but not their arguments. An agent that wants to call ailn_discover or ailn_inspect has to"
     },
     {
-      "source": "github_bounty",
-      "title": "task-0003: Add an offline test that the published payment challenge decodes as d",
-      "url": "https://github.com/ailn-ai/ailn/issues/4",
-      "value": 0,
-      "desc": "**Task file:** [`tasks/task-0003.json`](../blob/main/tasks/task-0003.json) · **Risk:** `low` · **Reward:** unpaid · **Agent-friendly:** True\n\n## Problem\ndocs/PAID-CALL.md shows a challenge and a PAYMENT-SIGNATURE envelope, but nothing in the repository checks that the documented shape is the shape t"
-    },
-    {
       "source": "article",
       "title": "Come ho automatizzato i deploy con Python",
       "value": 0,
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-03T16:45:07.470761",
+  "last_run": "2026-11-04T16:41:56.060437",
   "history": []
 }
