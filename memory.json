@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.",
-      "url": "https://github.com/auscaster/frantic-board/issues/574",
-      "value": 2,
-      "desc": "Frantic bounty #145\n\nInstall NitroMTA and send one real email to proof@nitromta.com\n\nWorker price: $2\nSlots: 100 (37 available)\nStatus: Available\nClaim: https://gofrantic.com/bounties/145\nFunding receipt: https://gofrantic.com/r/092c978f\n\nFrantic is the source of truth. This GitHub issue is a mirror"
+      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
+      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1",
+      "value": 450,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI build and specification relay issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 U"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-03T06:35",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1354",
+      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked ",
+      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
+      "value": 600,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI build and specification relay issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 U"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Add mul(a, b) to calc.py",
+      "url": "https://github.com/dsfwmmy/jarvis-delivery-selftest/issues/1",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1607023\tConstruction_and_Engineering\t2\t71\t5000\t3\t16.5\t9274\t29241\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #8: Post Your Proof-of-Work 🔨 💰\n```"
+      "desc": "Please add a `mul(a, b)` function to `calc.py` that returns the product of its two arguments. Keep `add` unchanged and make the existing test suite pass.\n\n/try\n\nBounty: 5 USD (test fixture)."
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-02T23:25",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1353",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4494",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1607023\tConstruction_and_Engineering\t2\t71\t5000\t1\t9.3\t9274\t29222\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\tShow Your Build Weekly #8: Post Your Proof-of-Work 🔨 💰\n```"
+      "desc": "<!-- misakanet-question-bounty:anchor-4491 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seg",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201",
-      "value": 750,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/alfrexo95/bounty-bot/issues/77\n\n### 漏洞描述 / Description\n💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro \n\n🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** [Bounty] 💰 Bounty Seguro ($$750): 💰 Bount"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-02T15:36",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1352",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4488",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1607023\tConstruction_and_Engineering\t2\t21\t5000\t0\t1.5\t9274\t29215\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP,FRESH\tShow Your Build Weekly #8: Post Your Proof-of-Work 🔨 💰\n```"
+      "desc": "<!-- misakanet-question-bounty:anchor-4462 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "VISIONE Bounties: discover and qualify paid Opire + Algora tasks for Codex Cloud",
+      "url": "https://github.com/pedropzz103-tech/visione/issues/25",
+      "value": 0,
+      "desc": "## GOAL\nLaunch **VISIONE Bounties** as a $0-upfront-cost workflow using Codex Cloud and our connected GitHub account. Focus on **Opire** (https://app.opire.dev/) and **Algora** (https://algora.io/) to find genuinely payable open-source development tasks, implement verified fixes, and pursue approved"
     },
     {
       "source": "github_bounty",
@@ -65,45 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "Outbound link report",
-      "url": "https://github.com/commonworld-one/commonworld/issues/146",
+      "title": "[BV-3AW] Four short words stay English in Arabic on loans, charts and investment",
+      "url": "https://github.com/LightningEg/Lightning/issues/343",
       "value": 0,
-      "desc": "# Summary\n\n| Status         | Count |\n|----------------|-------|\n| 🔍 Total       | 47337 |\n| 🔗 Unique      | 7581  |\n| ✅ Successful  | 4533  |\n| ⏳ Timeouts    | 17    |\n| 🔀 Redirected  | 1     |\n| 👻 Excluded    | 42646 |\n| ❓ Unknown     | 0     |\n| 🚫 Errors      | 141   |\n| ⛔ Unsupported | 0     |\n\n"
+      "desc": "### Code\nBV-3AW\n\n### What's wrong or wanted\n`translate(..., 'ar')` returns these unchanged: \"Paid off\" (`planning/early_payment.html:11`), \"paid\" (`planning/loans.html:7`), \"a year\" (`investments/index.html:34`), \"since the last point\" (`partials/charts.html:19`). Not yet confirmed on a rendered pag"
     },
     {
       "source": "github_bounty",
-      "title": "docs: add Habit Formation psychology primer (Cue, Craving, Response, Reward) in ",
-      "url": "https://github.com/TheVicky1/Pact_OS/issues/733",
+      "title": "[IT-1T] Direct tests for PlanSchedule and ScheduleSource",
+      "url": "https://github.com/LightningEg/Lightning/issues/341",
       "value": 0,
-      "desc": "## 📖 Documentation Task Summary\n\n### 🎯 Objective & Target File\nTarget File: `docs/FEATURES.md`\n\nPACT OS is designed around behavioral psychology and habit science (inspired by James Clear's *Atomic Habits* and Charles Duhigg's *The Power of Habit*). \n\nWe want to add a concise, beginner-friendly **\"H"
+      "desc": "### Code\nIT-1T\n\n### What's wrong or wanted\n`lightning/planning/schedule_view.py` defines `PlanSchedule` and `ScheduleSource`, which no test names (checked by name search in `tests/`); `reserve_goal_needs` has one test. Read the file first: if the classes turn out to be thin wrappers, say so on the G"
     },
     {
       "source": "github_bounty",
-      "title": "Game design",
-      "url": "https://github.com/retroromrunner/rayslice-gba/issues/1",
+      "title": "[IT-1S] Direct tests for SubmissionStore (a form saved twice saves once)",
+      "url": "https://github.com/LightningEg/Lightning/issues/340",
       "value": 0,
-      "desc": "# AREA QUEST - Design Direction (GBC)\n\n## Core Vision\n\nA small first-person exploration adventure for Game Boy Color that combines:\n\n- Wizardry-style instant movement\n- Shadowgate-style item puzzles\n- Zelda-style dungeon progression\n- Environmental exploration and clue solving\n- No combat, levels, s"
+      "desc": "### Code\nIT-1S\n\n### What's wrong or wanted\nRelease 1.5.4 fixed forms sent twice, but `SubmissionStore` in `lightning/transactions/submissions.py` has no direct test; it is covered only through routes.\n\n### Done when\n`tests/test_submission_store.py` checks: the same token and payload returns the firs"
     },
     {
       "source": "github_bounty",
-      "title": "Integrate code coverage reporting and quality gates",
-      "url": "https://github.com/yashdotdev13/SafarSaathi/issues/97",
+      "title": "docs/CONTENT_POLICY.md: the sensitive-reward rule, agent-checked and draft event",
+      "url": "https://github.com/eyalgolan/statecraft-israel/issues/2780",
       "value": 0,
-      "desc": "## Problem\nThe project lacks a consistent way to measure test coverage and prevent critical code paths from becoming untested.\n\n## Scope\n- Configure JaCoCo or an equivalent coverage tool across relevant Maven modules.\n- Publish coverage summaries in CI.\n- Introduce a pragmatic coverage threshold, wi"
+      "desc": "Recorded by an agent. Found by an agent audit (Codex) and checked against the code at main `0b86a29e5`; dated records and items that could not be confirmed were left out. Docs only.\n\n1. **The sensitive-reward rule.** `docs/CONTENT_POLICY.md:35-37` says *options* tagged `holocaust`, `terror`, `massac"
     },
     {
       "source": "github_bounty",
-      "title": "task-0007: Independently verify the three published EIP-712 domain separators",
-      "url": "https://github.com/ailn-ai/ailn/issues/7",
+      "title": "[Focus] Add Pomodoro Streak Combo Bonus Points Multiplier in src/lib/focus/pomod",
+      "url": "https://github.com/TheVicky1/Pact_OS/issues/740",
       "value": 0,
-      "desc": "**Task file:** [`tasks/task-0007.json`](../blob/main/tasks/task-0007.json) · **Risk:** `low` · **Reward:** unpaid · **Agent-friendly:** True\n\n## Problem\ndocs/EIP712-DOMAINS.md publishes name, version and DOMAIN_SEPARATOR for Base, Arbitrum and X Layer USDC, measured by the maintainer. A single measu"
-    },
-    {
-      "source": "github_bounty",
-      "title": "task-0004: Document the input schema of the three free tools in API-CONTRACT.md",
-      "url": "https://github.com/ailn-ai/ailn/issues/5",
-      "value": 0,
-      "desc": "**Task file:** [`tasks/task-0004.json`](../blob/main/tasks/task-0004.json) · **Risk:** `low` · **Reward:** unpaid · **Agent-friendly:** True\n\n## Problem\ndocs/API-CONTRACT.md lists the six tools and their prices but not their arguments. An agent that wants to call ailn_discover or ailn_inspect has to"
+      "desc": "### 🎯 Feature Overview & Context\nIn **PACT OS**, maintaining uninterrupted deep work sessions is rewarded through gamified accountability points. When a user completes back-to-back Pomodoro rounds without abandoning or prematurely canceling their focus timer, their accountability points are multipli"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-04T16:41:56.060437",
+  "last_run": "2026-11-05T16:59:23.354112",
   "history": []
 }
