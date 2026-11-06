@@ -2,38 +2,66 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
-      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1",
-      "value": 450,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI build and specification relay issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 U"
+      "title": "[Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/64647",
+      "value": 750,
+      "desc": "\n📝 Background\n\nttnn.scale_mask_softmax_in_place with SoftmaxShardedMultiCoreProgramConfig can hang or read incorrect mask values when the input shard layout and mask shape/specification do not align. These cases can break correctness in sharded attention workloads and may hang the device instead of "
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked ",
-      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
+      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-C",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237",
       "value": 600,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI build and specification relay issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 U"
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2\n\n### 漏洞描述 / Description\n💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption\n\n> **Automated CI Regression Mirr"
     },
     {
       "source": "github_bounty",
-      "title": "Add mul(a, b) to calc.py",
-      "url": "https://github.com/dsfwmmy/jarvis-delivery-selftest/issues/1",
-      "value": 0,
-      "desc": "Please add a `mul(a, b)` function to `calc.py` that returns the product of its two arguments. Keep `add` unchanged and make the existing test suite pass.\n\n/try\n\nBounty: 5 USD (test fixture)."
+      "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE C",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4236",
+      "value": 450,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1\n\n### 漏洞描述 / Description\n💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff\n\n> **Automated CI Regression Mirror"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4494",
-      "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4491 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
+      "value": 600,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4488",
+      "title": "Test the rules that decide which bounty a pull request claims",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/17",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4462 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "**What this is for**\n\n`agent/bounties.mjs` decides which bounty a merged pull request can claim: through the issue it closes, or through an explicit `Bounty: #N` line, and only when the bounty was funded for that same repository. Those rules move money, and they have no tests yet.\n\n**What done looks"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with B",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224",
+      "value": 450,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1\n\n### 漏洞描述 / Description\n💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_fence_cursor_state_v4)\n\n> **Automated CI Regression Mirror Noti"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Awa",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223",
+      "value": 600,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2\n\n### 漏洞描述 / Description\n💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (reconcile_stride_dbdc)\n\n> **Automated CI Regression Mirror Not"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Bac",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
+      "value": 450,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1\n\n### 漏洞描述 / Description\n[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (partition_cursor_6d79)\n\n> **Automated CI Regression Mirror Notice"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
+      "value": 600,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2\n\n### 漏洞描述 / Description\n[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (drain_horizon_table_f52)\n\n> **Automated CI Regression Mirror No"
     },
     {
       "source": "github_bounty",
@@ -44,66 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "Bounty Scout — 2026-11-02",
-      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/22",
-      "value": 10,
-      "desc": "# Bounty Scout — week of 2026-11-02\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
+      "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
+      "value": 450,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 USDC (paid a"
     },
     {
       "source": "github_bounty",
-      "title": "Contributor board: 12 scoped tasks, each with a fixture and a failing test",
-      "url": "https://github.com/ZhiliangTech/deskshell/issues/3",
-      "value": 0,
-      "desc": "Two things come up straight away, so they're here rather than buried in the comments.\n\nNothing on this board is funded. No bounty program, no Algora/Opire listing, no sponsor pool, no crypto. Claiming a task means it becomes yours to build and maintain, not that it pays. The `bounty` label that used"
+      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
+      "value": 600,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
     },
     {
       "source": "github_bounty",
-      "title": "[Submit] Remote MCP Server: Agent Bounty Feed (io.github.dailydollar-bot/agent-b",
-      "url": "https://github.com/chatmcp/mcpso/issues/6253",
-      "value": 0,
-      "desc": "**Server Name:** Agent Bounty Feed\n**Registry name:** io.github.dailydollar-bot/agent-bounty-feed\n**Description:** Open, paid bounties AI agents can claim, verified hourly. Aggregates funded listings from agent bounty boards (Frantic, Taskmarket, Agent Bounties, BasedAgents, Superteam Earn, Licium, "
+      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
+      "value": 600,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
     },
     {
       "source": "github_bounty",
-      "title": "Atlas: triage external link failures (117 errors on 73 cards)",
-      "url": "https://github.com/commonworld-one/commonworld/issues/167",
-      "value": 0,
-      "desc": "## What\n\nThe `links-external` job of **Quality (links + Lighthouse)** on `main` (run https://github.com/commonworld-one/commonworld/actions/runs/40407169350, commit 26c6754) passes, but its summary lists **117 link errors on 73 Atlas pages** (unique URLs: about 80). The job marks them as tracked and"
+      "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
+      "value": 450,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 USDC (paid a"
     },
     {
       "source": "github_bounty",
-      "title": "[BV-3AW] Four short words stay English in Arabic on loans, charts and investment",
-      "url": "https://github.com/LightningEg/Lightning/issues/343",
-      "value": 0,
-      "desc": "### Code\nBV-3AW\n\n### What's wrong or wanted\n`translate(..., 'ar')` returns these unchanged: \"Paid off\" (`planning/early_payment.html:11`), \"paid\" (`planning/loans.html:7`), \"a year\" (`investments/index.html:34`), \"since the last point\" (`partials/charts.html:19`). Not yet confirmed on a rendered pag"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[IT-1T] Direct tests for PlanSchedule and ScheduleSource",
-      "url": "https://github.com/LightningEg/Lightning/issues/341",
-      "value": 0,
-      "desc": "### Code\nIT-1T\n\n### What's wrong or wanted\n`lightning/planning/schedule_view.py` defines `PlanSchedule` and `ScheduleSource`, which no test names (checked by name search in `tests/`); `reserve_goal_needs` has one test. Read the file first: if the classes turn out to be thin wrappers, say so on the G"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[IT-1S] Direct tests for SubmissionStore (a form saved twice saves once)",
-      "url": "https://github.com/LightningEg/Lightning/issues/340",
-      "value": 0,
-      "desc": "### Code\nIT-1S\n\n### What's wrong or wanted\nRelease 1.5.4 fixed forms sent twice, but `SubmissionStore` in `lightning/transactions/submissions.py` has no direct test; it is covered only through routes.\n\n### Done when\n`tests/test_submission_store.py` checks: the same token and payload returns the firs"
-    },
-    {
-      "source": "github_bounty",
-      "title": "docs/CONTENT_POLICY.md: the sensitive-reward rule, agent-checked and draft event",
-      "url": "https://github.com/eyalgolan/statecraft-israel/issues/2780",
-      "value": 0,
-      "desc": "Recorded by an agent. Found by an agent audit (Codex) and checked against the code at main `0b86a29e5`; dated records and items that could not be confirmed were left out. Docs only.\n\n1. **The sensitive-reward rule.** `docs/CONTENT_POLICY.md:35-37` says *options* tagged `holocaust`, `terror`, `massac"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Focus] Add Pomodoro Streak Combo Bonus Points Multiplier in src/lib/focus/pomod",
-      "url": "https://github.com/TheVicky1/Pact_OS/issues/740",
-      "value": 0,
-      "desc": "### 🎯 Feature Overview & Context\nIn **PACT OS**, maintaining uninterrupted deep work sessions is rewarded through gamified accountability points. When a user completes back-to-back Pomodoro rounds without abandoning or prematurely canceling their focus timer, their accountability points are multipli"
+      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
+      "value": 600,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-05T16:59:23.354112",
+  "last_run": "2026-11-06T16:31:21.114904",
   "history": []
 }
