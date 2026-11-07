@@ -2,38 +2,52 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/64647",
-      "value": 750,
-      "desc": "\n📝 Background\n\nttnn.scale_mask_softmax_in_place with SoftmaxShardedMultiCoreProgramConfig can hang or read incorrect mask values when the input shard layout and mask shape/specification do not align. These cases can break correctness in sharded attention workloads and may hang the device instead of "
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-C",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237",
-      "value": 600,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2\n\n### 漏洞描述 / Description\n💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption\n\n> **Automated CI Regression Mirr"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE C",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4236",
-      "value": 450,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1\n\n### 漏洞描述 / Description\n💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff\n\n> **Automated CI Regression Mirror"
-    },
-    {
-      "source": "github_bounty",
-      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
-      "value": 600,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Test the rules that decide which bounty a pull request claims",
-      "url": "https://github.com/odiseo159-beep/mergit/issues/17",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4572",
       "value": 0,
-      "desc": "**What this is for**\n\n`agent/bounties.mjs` decides which bounty a merged pull request can claim: through the issue it closes, or through an explicit `Bounty: #N` line, and only when the bounty was funded for that same repository. Those rules move money, and they have no tests yet.\n\n**What done looks"
+      "desc": "<!-- misakanet-question-bounty:anchor-3604 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4571",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-4466 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20",
+      "value": 750,
+      "desc": "### Feature Overview\nAllow passing `step_size: int = 1` to `verify_sequence_gap(headers, step_size=1)` in `src/ledger_validator.py` and add unit tests in `tests/test_ledger_validator.py`.\n\n### Escrow & Assign-First Notice\n- Self-labeled decoy bounty tag without `algora-pbc[bot]` or `drips-wave[bot]`"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[radar] SN open bounty 2026-11-07T12:51",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1357",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1609695\tStacker_Sports\t3\t1120\t2100\t10\t18.6\t232181\t4422\trecent@Stacker_Sports|top@Stacker_Sports\tOPEN_BOUNTY,HOT,SELF_POST_OPP\tWeekly Random Sports Pick 'em\n1609509\tStacker_Sports\t3\t747\t2100\t24\t22.6\t1448206\t2750\trecent@Stacker_Sports|top@Stacker_Sports\tOPEN_BOUNTY\t🏈S"
+    },
+    {
+      "source": "github_bounty",
+      "title": "test(validator): add unit tests for non-monotonic sequence numbers in verify_seq",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10",
+      "value": 0,
+      "desc": "### Overview\nAdd test cases in `tests/test_ledger_validator.py` covering descending sequence headers (`[{\"seq\": 15}, {\"seq\": 14}]`).\n\n### Contribution Policy\nDo **not** open a Pull Request until a maintainer officially assigns you (`Assign-First`). Self-labeled decoy bounty tag without escrow bot co"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20",
+      "value": 750,
+      "desc": "### Feature Overview\nAllow passing `step_size: int = 1` to `verify_sequence_gap(headers, step_size=1)` in `src/ledger_validator.py` and add unit tests in `tests/test_ledger_validator.py`.\n\n### Escrow & Assign-First Notice\n- Self-labeled decoy bounty tag without `algora-pbc[bot]` or `drips-wave[bot]`"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Canary-Trap-06] Implement batch checkpoint verifier (Self-Labeled Decoy Bounty)",
+      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/6",
+      "value": 500,
+      "desc": "### Decoy Escrow Test\nThis issue carries self-created `💎 Bounty $500` and `Stellar Wave` text labels, but has **0** cryptographic escrow comments from `algora-pbc[bot]` or `drips-wave[bot]` and is not enrolled on `wave-api.drips.network`. Used to trap bots that trust text labels without verifying bo"
     },
     {
       "source": "github_bounty",
@@ -58,24 +72,10 @@
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
-      "value": 600,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2\n\n### 漏洞描述 / Description\n[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (drain_horizon_table_f52)\n\n> **Automated CI Regression Mirror No"
-    },
-    {
-      "source": "github_bounty",
-      "title": "VISIONE Bounties: discover and qualify paid Opire + Algora tasks for Codex Cloud",
-      "url": "https://github.com/pedropzz103-tech/visione/issues/25",
+      "title": "[BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17182",
       "value": 0,
-      "desc": "## GOAL\nLaunch **VISIONE Bounties** as a $0-upfront-cost workflow using Codex Cloud and our connected GitHub account. Focus on **Opire** (https://app.opire.dev/) and **Algora** (https://algora.io/) to find genuinely payable open-source development tasks, implement verified fixes, and pursue approved"
-    },
-    {
-      "source": "github_bounty",
-      "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
-      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
-      "value": 450,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 USDC (paid a"
+      "desc": "## The gap — 5 RTC\n\n[Rustchain#8407](https://github.com/Scottcjn/Rustchain/issues/8407) is a well-evidenced report with no PR against it yet: `docs/WALLET_SETUP.md` tells newcomers to read `/opt/rustchain-miner/config.json` (lines 61, 361, 396, 406), which only exists after `rustchain.org/install.sh"
     },
     {
       "source": "github_bounty",
@@ -83,6 +83,13 @@
       "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
       "value": 600,
       "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
+    },
+    {
+      "source": "github_bounty",
+      "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
+      "value": 450,
+      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 USDC (paid a"
     },
     {
       "source": "github_bounty",
@@ -99,13 +106,6 @@
       "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 USDC (paid a"
     },
     {
-      "source": "github_bounty",
-      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
-      "value": 600,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
-    },
-    {
       "source": "article",
       "title": "Come ho automatizzato i deploy con Python",
       "value": 0,
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-06T16:31:21.114904",
+  "last_run": "2026-11-07T15:18:18.063989",
   "history": []
 }
