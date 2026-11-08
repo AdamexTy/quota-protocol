@@ -2,5 +2,11 @@
   "balance": 0,
   "real_balance": 0,
   "simulated_balance": 0,
-  "history": []
+  "history": [
+    {
+      "cycle": 1,
+      "result": "fail",
+      "balance": 0
+    }
+  ]
 }

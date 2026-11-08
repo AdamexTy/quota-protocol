@@ -1,32 +1,12 @@
 [
   {
-    "id": "prop-1791707455",
-    "created_at": "2026-10-11T08:30:55.297229",
+    "id": "prop-1794152493",
+    "created_at": "2026-11-08T15:41:33.292408",
     "action_type": "open_pr",
-    "title": "[Bounty] Reverse bounty",
-    "description": "Lead da github_bounty: https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558\nValore stimato $50",
-    "value_usd": 50,
-    "draft_path": "drafts/github_bounty-9756.md",
-    "status": "pending"
-  },
-  {
-    "id": "prop-1791707621",
-    "created_at": "2026-10-11T08:33:41.630922",
-    "action_type": "publish_article",
-    "title": "5 tool free per freelance",
-    "description": "Lead da article: \nValore stimato $2",
-    "value_usd": 2,
-    "draft_path": "drafts/article-6423.md",
-    "status": "pending"
-  },
-  {
-    "id": "prop-1791707842",
-    "created_at": "2026-10-11T08:37:22.842893",
-    "action_type": "publish_article",
-    "title": "5 tool free per indie hacker",
-    "description": "Lead da article: \nValore stimato $2",
-    "value_usd": 2,
-    "draft_path": "drafts/article-9986.md",
+    "title": "[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math ",
+    "description": "Lead da github_bounty: https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273\nValore stimato $1400",
+    "value_usd": 1400,
+    "draft_path": "drafts/github_bounty-8117.md",
     "status": "pending"
   }
 ]

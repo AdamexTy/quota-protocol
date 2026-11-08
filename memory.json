@@ -2,17 +2,52 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4572",
+      "title": "[radar] SN open bounty 2026-11-08T15:01",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1360",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-3604 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1610474\tStacker_Stocks\t2\t213\t10000\t8\t3.1\t9274\t29408\ttop@Stacker_Stocks\tOPEN_BOUNTY,SIGNAL,SELF_POST_OPP\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #18 Win up to 40k Sats!\n1610324\tBooksAndArticles\t2\t6176\t50000\t25\t14.3\t1586396\t22\trecent@BooksAndArticles|top@Boo"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4571",
+      "title": "[radar] SN open bounty 2026-11-08T13:13",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1359",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4466 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1610474\tStacker_Stocks\t2\t213\t10000\t6\t1.3\t9274\t29407\ttop@Stacker_Stocks\tOPEN_BOUNTY,FRESH,SIGNAL,SELF_POST_OPP\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #18 Win up to 40k Sats!\n1610324\tBooksAndArticles\t2\t6176\t50000\t23\t12.5\t1586396\t22\trecent@BooksAndArticles|t"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch no",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272",
+      "value": 1150,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/71\n\n### 漏洞描述 / Description\n[Bounty $1,150] perf(automation): share static canvas seed and batch nonce across worker profiles in src/automation_session_guard.py\n\n### Problem Statement (MMO, A"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273",
+      "value": 1400,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/69\n\n### 漏洞描述 / Description\n[Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/quant_execution_guard.py\n\n### Problem Statement (Crypto / DeFi AMM Execution Engine)\n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] [Bounty $1,050] fix(affiliate): override attribution click_id on zero-s",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4270",
+      "value": 1050,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/72\n\n### 漏洞描述 / Description\n[Bounty $1,050] fix(affiliate): override attribution click_id on zero-second game tick cooldown in src/automation_session_guard.py\n\n### Problem Statement (Game Far"
+    },
+    {
+      "source": "github_bounty",
+      "title": "🧟 Toyol Radar — calon ganjaran untuk disahkan",
+      "url": "https://github.com/ilhamraduanbis-source/toyol-digital/issues/1",
+      "value": 3,
+      "desc": "<!-- toyol-radar-v1 -->\n# 🧟 Toyol Radar\n\n**Status: CALON TUGASAN, BUKAN PENDAPATAN.**\n\nSumber: [Jobbi](https://jobbi.org/gigs), indeks awam yang bukan pembayar.\nTiada deposit, staking, yuran, iklan atau posting media sosial dibenarkan.\nPenapis teks tidak boleh mengesahkan semua kos tersembunyi, payo"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_seque",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244",
+      "value": 750,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20\n\n### 漏洞描述 / Description\n[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap\n\n### Feature Overview\nAllow passing `step_size: int = 1` to `verify_sequence_gap(hea"
     },
     {
       "source": "github_bounty",
@@ -20,34 +55,6 @@
       "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20",
       "value": 750,
       "desc": "### Feature Overview\nAllow passing `step_size: int = 1` to `verify_sequence_gap(headers, step_size=1)` in `src/ledger_validator.py` and add unit tests in `tests/test_ledger_validator.py`.\n\n### Escrow & Assign-First Notice\n- Self-labeled decoy bounty tag without `algora-pbc[bot]` or `drips-wave[bot]`"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-07T12:51",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1357",
-      "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1609695\tStacker_Sports\t3\t1120\t2100\t10\t18.6\t232181\t4422\trecent@Stacker_Sports|top@Stacker_Sports\tOPEN_BOUNTY,HOT,SELF_POST_OPP\tWeekly Random Sports Pick 'em\n1609509\tStacker_Sports\t3\t747\t2100\t24\t22.6\t1448206\t2750\trecent@Stacker_Sports|top@Stacker_Sports\tOPEN_BOUNTY\t🏈S"
-    },
-    {
-      "source": "github_bounty",
-      "title": "test(validator): add unit tests for non-monotonic sequence numbers in verify_seq",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10",
-      "value": 0,
-      "desc": "### Overview\nAdd test cases in `tests/test_ledger_validator.py` covering descending sequence headers (`[{\"seq\": 15}, {\"seq\": 14}]`).\n\n### Contribution Policy\nDo **not** open a Pull Request until a maintainer officially assigns you (`Assign-First`). Self-labeled decoy bounty tag without escrow bot co"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20",
-      "value": 750,
-      "desc": "### Feature Overview\nAllow passing `step_size: int = 1` to `verify_sequence_gap(headers, step_size=1)` in `src/ledger_validator.py` and add unit tests in `tests/test_ledger_validator.py`.\n\n### Escrow & Assign-First Notice\n- Self-labeled decoy bounty tag without `algora-pbc[bot]` or `drips-wave[bot]`"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Canary-Trap-06] Implement batch checkpoint verifier (Self-Labeled Decoy Bounty)",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/6",
-      "value": 500,
-      "desc": "### Decoy Escrow Test\nThis issue carries self-created `💎 Bounty $500` and `Stellar Wave` text labels, but has **0** cryptographic escrow comments from `algora-pbc[bot]` or `drips-wave[bot]` and is not enrolled on `wave-api.drips.network`. Used to trap bots that trust text labels without verifying bo"
     },
     {
       "source": "github_bounty",
@@ -65,45 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Bac",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
-      "value": 450,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1\n\n### 漏洞描述 / Description\n[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (partition_cursor_6d79)\n\n> **Automated CI Regression Mirror Notice"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner",
-      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/17182",
+      "title": "Add a Japanese README for agentswarm-work-skill",
+      "url": "https://github.com/andrewsiah/agentswarm-work-skill/issues/5",
       "value": 0,
-      "desc": "## The gap — 5 RTC\n\n[Rustchain#8407](https://github.com/Scottcjn/Rustchain/issues/8407) is a well-evidenced report with no PR against it yet: `docs/WALLET_SETUP.md` tells newcomers to read `/opt/rustchain-miner/config.json` (lines 61, 361, 396, 406), which only exists after `rustchain.org/install.sh"
+      "desc": "Add README.ja.md translating every English README section into Japanese and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned basel"
     },
     {
       "source": "github_bounty",
-      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2",
-      "value": 600,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
+      "title": "Add a Korean README for agentswarm-mcp",
+      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/6",
+      "value": 0,
+      "desc": "Add README.ko.md translating every English README section into Korean and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned baselin"
     },
     {
       "source": "github_bounty",
-      "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
-      "url": "https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1",
-      "value": 450,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 USDC (paid a"
+      "title": "Add a Japanese README for agentswarm-cli",
+      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/5",
+      "value": 0,
+      "desc": "Add README.ja.md translating every English README section into Japanese and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned basel"
     },
     {
       "source": "github_bounty",
-      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
-      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
-      "value": 600,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $600 USDC (paid a"
+      "title": "Add a Japanese README for agentswarm-mcp",
+      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/5",
+      "value": 0,
+      "desc": "Add README.ja.md translating every English README section into Japanese and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned basel"
     },
     {
       "source": "github_bounty",
-      "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
-      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
-      "value": 450,
-      "desc": "> **Automated CI Regression Mirror Notice**: Automated CI conformance runner issue; manual pull requests from human engineers are not reviewed on this mirror.\n\n- **Escrow Rail**: https://algora.io / https://polar.sh / https://opire.dev\n- **Funding Status**: Held in escrow — Reward: $450 USDC (paid a"
+      "title": "Add a Korean README for agentswarm-cli",
+      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/4",
+      "value": 0,
+      "desc": "Add README.ko.md translating every English README section into Korean and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned baselin"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-07T15:18:18.063989",
+  "last_run": "2026-11-08T15:41:33.291319",
   "history": []
 }

@@ -1,9 +1,9 @@
 {
   "project": "quota-protocol",
-  "cycle": 1,
+  "cycle": 2,
   "quota": 10,
   "currency": "USD",
-  "days_left": 1,
+  "days_left": 30,
   "days_total": 30,
   "rules": {
     "allowed_businesses": [
@@ -27,5 +27,5 @@
   },
   "termination": "Se balance < quota a fine ciclo, reset wallet e memory",
   "owner_approval": "telegram",
-  "last_tick": "2026-11-07"
+  "last_tick": "2026-11-08"
 }
