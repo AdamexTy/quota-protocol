@@ -8,5 +8,15 @@
     "value_usd": 1400,
     "draft_path": "drafts/github_bounty-8117.md",
     "status": "pending"
+  },
+  {
+    "id": "prop-1794252202",
+    "created_at": "2026-11-09T19:23:22.091464",
+    "action_type": "open_pr",
+    "title": "[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_seque",
+    "description": "Lead da github_bounty: https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244\nValore stimato $750",
+    "value_usd": 750,
+    "draft_path": "drafts/github_bounty-3370.md",
+    "status": "pending"
   }
 ]

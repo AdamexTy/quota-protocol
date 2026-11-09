@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-08T15:01",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1360",
+      "title": "[QA Bounty] [P1] Image Generation Consistency",
+      "url": "https://github.com/hanzoai/ai/issues/131",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1610474\tStacker_Stocks\t2\t213\t10000\t8\t3.1\t9274\t29408\ttop@Stacker_Stocks\tOPEN_BOUNTY,SIGNAL,SELF_POST_OPP\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #18 Win up to 40k Sats!\n1610324\tBooksAndArticles\t2\t6176\t50000\t25\t14.3\t1586396\t22\trecent@BooksAndArticles|top@Boo"
+      "desc": "## Overview\n**Priority:** `P1`\n**QA Bounty:** Image Generation Consistency\n\nTest prompt adherence, editing accuracy, character consistency, text rendering, and resolution handling.\n\n## What Needs Testing\n- Evaluate prompt adherence across complex compositions, spatial relationships, style constraint"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-08T13:13",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1359",
+      "title": "[QA Bounty] [P1] Cross-Modal Workflows",
+      "url": "https://github.com/hanzoai/ai/issues/130",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1610474\tStacker_Stocks\t2\t213\t10000\t6\t1.3\t9274\t29407\ttop@Stacker_Stocks\tOPEN_BOUNTY,FRESH,SIGNAL,SELF_POST_OPP\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #18 Win up to 40k Sats!\n1610324\tBooksAndArticles\t2\t6176\t50000\t23\t12.5\t1586396\t22\trecent@BooksAndArticles|t"
+      "desc": "## Overview\n**Priority:** `P1`\n**QA Bounty:** Cross-Modal Workflows\n\nTest pipelines combining text, images, audio, and video, particularly where output from one model becomes input to another.\n\n## What Needs Testing\n- Chain text -> image -> video -> audio/transcription pipelines across `/v1/chat/com"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch no",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4272",
-      "value": 1150,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/71\n\n### 漏洞描述 / Description\n[Bounty $1,150] perf(automation): share static canvas seed and batch nonce across worker profiles in src/automation_session_guard.py\n\n### Problem Statement (MMO, A"
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4642",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-3666 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4273",
-      "value": 1400,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/69\n\n### 漏洞描述 / Description\n[Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/quant_execution_guard.py\n\n### Problem Statement (Crypto / DeFi AMM Execution Engine)\n"
+      "title": "[radar] SN open bounty 2026-11-09T16:05",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1365",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1611195\tConstruction_and_Engineering\t2\t347\t5000\t1\t2.3\t9274\t29451\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP,SIGNAL\tShow Your Build Weekly #9: Post Your Proof-of-Work 🔨 💰\n```"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $1,050] fix(affiliate): override attribution click_id on zero-s",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4270",
-      "value": 1050,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/72\n\n### 漏洞描述 / Description\n[Bounty $1,050] fix(affiliate): override attribution click_id on zero-second game tick cooldown in src/automation_session_guard.py\n\n### Problem Statement (Game Far"
+      "title": "[radar] SN open bounty 2026-11-09T16:01",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1364",
+      "value": 0,
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1611195\tConstruction_and_Engineering\t2\t347\t5000\t1\t2.3\t9274\t29451\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP,SIGNAL\tShow Your Build Weekly #9: Post Your Proof-of-Work 🔨 💰\n```"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Bounty Scout — 2026-11-09",
+      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/24",
+      "value": 10,
+      "desc": "# Bounty Scout — week of 2026-11-09\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
     },
     {
       "source": "github_bounty",
@@ -65,43 +72,36 @@
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Awa",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223",
-      "value": 600,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2\n\n### 漏洞描述 / Description\n💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (reconcile_stride_dbdc)\n\n> **Automated CI Regression Mirror Not"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Add a Japanese README for agentswarm-work-skill",
-      "url": "https://github.com/andrewsiah/agentswarm-work-skill/issues/5",
+      "title": "Format whole seconds into compact duration text in Go",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/32",
       "value": 0,
-      "desc": "Add README.ja.md translating every English README section into Japanese and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned basel"
+      "desc": "Implement `FormatSeconds(int64)` in Go with exact day/hour/minute/second formatting and overflow-safe integer arithmetic.\n\nFull contract: `tasks/duration-format/SPEC.md`. Go 1.23 standard library only; checks run offline. This is a standalone contribution task; production use by agentswarm.space is "
     },
     {
       "source": "github_bounty",
-      "title": "Add a Korean README for agentswarm-mcp",
-      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/6",
+      "title": "[~1-2 hours] Add a Spanish README for agentswarm-cli",
+      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/7",
       "value": 0,
-      "desc": "Add README.ko.md translating every English README section into Korean and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned baselin"
+      "desc": "Effort: ~1-2 hours; needs English + Spanish, Markdown.\n\nAgents: see AGENTS.md for a copy-paste claim command\n\nAdd README.es.md translating every English README section into Spanish and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs,"
     },
     {
       "source": "github_bounty",
-      "title": "Add a Japanese README for agentswarm-cli",
-      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/5",
+      "title": "Truncate text by Unicode code points with a bounded marker",
+      "url": "https://github.com/andrewsiah/agentswarm-web-tasks/issues/17",
       "value": 0,
-      "desc": "Add README.ja.md translating every English README section into Japanese and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned basel"
+      "desc": "Build a standalone offline JavaScript helper: implement `truncateText(text, maxPoints, ellipsis)` with code-point counting, rejection of lone UTF-16 surrogates and a marker that fits the total budget.\n\nFull contract: `tasks/unicode-truncate/SPEC.md`. Node 22 standard library only, no npm dependencie"
     },
     {
       "source": "github_bounty",
-      "title": "Add a Japanese README for agentswarm-mcp",
-      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/5",
+      "title": "Match a precise subset of semantic-version ranges",
+      "url": "https://github.com/andrewsiah/agentswarm-web-tasks/issues/16",
       "value": 0,
-      "desc": "Add README.ja.md translating every English README section into Japanese and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned basel"
+      "desc": "Build a standalone offline JavaScript helper: implement `matchesRange(version, range)` with exact three-component versions, comparator intersections and fixed caret/tilde bounds.\n\nFull contract: `tasks/semver-range/SPEC.md`. Node 22 standard library only, no npm dependencies; checks run offline. Thi"
     },
     {
       "source": "github_bounty",
-      "title": "Add a Korean README for agentswarm-cli",
-      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/4",
+      "title": "Add a Korean README for agentswarm-examples",
+      "url": "https://github.com/andrewsiah/agentswarm-examples/issues/9",
       "value": 0,
       "desc": "Add README.ko.md translating every English README section into Korean and add the exact language navigation from the check README to README.md. Preserve all original link targets, raw URLs, fenced blocks and authorization/privacy/credential/reward caveats. English prose must match the pinned baselin"
     },
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-08T15:41:33.291319",
+  "last_run": "2026-11-09T19:23:22.090610",
   "history": []
 }
