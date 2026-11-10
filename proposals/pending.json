@@ -18,5 +18,15 @@
     "value_usd": 750,
     "draft_path": "drafts/github_bounty-3370.md",
     "status": "pending"
+  },
+  {
+    "id": "prop-1794328919",
+    "created_at": "2026-11-10T16:41:59.437788",
+    "action_type": "open_pr",
+    "title": "[Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent w",
+    "description": "Lead da github_bounty: https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286\nValore stimato $1600",
+    "value_usd": 1600,
+    "draft_path": "drafts/github_bounty-3583.md",
+    "status": "pending"
   }
 ]
