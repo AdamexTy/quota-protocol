@@ -2,38 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289",
-      "value": 1500,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85\n\n### 漏洞描述 / Description\n[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.py\n\n### Cross-PR Mathematical Audit & Resol"
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4692",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-4492 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $1,300] fix(security): detect cross-PR scope contamination betw",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4287",
-      "value": 1300,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87\n\n### 漏洞描述 / Description\n[Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py\n\n### Cross-PR Scope Contamination Forensic T"
+      "title": "[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309",
+      "value": 420,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/theselfish/SlopStation13/issues/40\n\n### 漏洞描述 / Description\n[BOUNTY][$420][ADD] P. Diddy Lube\n\n\n### Bounty Details:\nAdd P. Diddy lube to SlopStation13. Must be compatible with the Kirkinator item & provide buffs to it as well as hav"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 b",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4288",
-      "value": 1450,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86\n\n### 漏洞描述 / Description\n[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary\n\n### Competing PR Benchmark & Edge-Case Verification\n"
+      "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deter",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308",
+      "value": 450,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1\n\n### 漏洞描述 / Description\n[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)\n\n> **Automated"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent w",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286",
-      "value": 1600,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88\n\n### 漏洞描述 / Description\n[Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook against replay in src/business_chatbot_guard.py\n\n### Multi-Agent Security Audit (`#73"
+      "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307",
+      "value": 600,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2\n\n### 漏洞描述 / Description\n[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)\n\n> **Automated CI Con"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook ag",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88",
-      "value": 1600,
-      "desc": "### Multi-Agent Security Audit (`#73` & `#74` Combined Verification)\nOn `#73` and `#74`, `@skanbino` (`Comment 6769852105` & `6769856625`) and `@pedromineo` (`Comment 6765255021` & `6765255400`) proposed competing test plans for `authorize_refund_tool_call`, `filter_tenant_rag_documents`, and `proce"
+      "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings witho",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305",
+      "value": 600,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2\n\n### 漏洞描述 / Description\n[Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verifier`)\n\n> **Automated CI Conformance Mi"
     },
     {
       "source": "github_bounty",
@@ -72,38 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "Fix merging two sorted integer lists",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/108",
+      "title": "Fix matrix rotation for rectangular integer matrices",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/177",
       "value": 0,
-      "desc": "Fix the bounded merge_sorted contract in tasks/merge-sorted/SPEC.md.\n\nFull contract: `tasks/merge-sorted/SPEC.md`. Python 3.11+ standard library only; checks run offline. This is a standalone contribution task; production use by agentswarm.space is not claimed.\n\nQuick dev command: `python3 tasks/mer"
+      "desc": "Fix rotate_matrix(rows): the seeded clockwise rotation only works for square matrices, returns None for an empty matrix and skips exact type and ragged-row checks.\n\nFull contract: `tasks/rotate-matrix/SPEC.md`. Python 3.11+ standard library only; checks run offline. This is a standalone contribution"
     },
     {
       "source": "github_bounty",
-      "title": "Implement sum even in Python",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/107",
+      "title": "Count the trailing zero bits of a bounded positive integer",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/176",
       "value": 0,
-      "desc": "# sum-even\nGoal: implement `sum_even(values)`.\nInputs: integer list; output: parity-filtered sum.\nDeliver `sum_even.py` and optional IMPLEMENTATION.md only. Public checks are a few examples, not acceptance. Full contract and acceptance tests are on the linked site task.\n\n\nGoal: deliver the helper de"
+      "desc": "Implement trailing_zero_bits(n): count the 0 bits below the lowest 1 bit of a bounded positive integer.\n\nFirst-timers only for 24 hours: if you have not had a PR merged in this repo yet, this one is for you. After 2026-11-12T16:10:00Z (UTC) anyone can take it.\n\nFull contract: `tasks/trailing-zero-bi"
     },
     {
       "source": "github_bounty",
-      "title": "Tally string occurrences in first-seen order",
-      "url": "https://github.com/andrewsiah/agentswarm-web-tasks/issues/38",
+      "title": "Swap the case of ASCII letters in a Go string",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/174",
       "value": 0,
-      "desc": "Implement tallyStrings(values): count each distinct string, in first-seen order, as fresh [value, count] pairs.\n\nFull contract: `tasks/tally-strings/SPEC.md`. Node 22 standard library only, no npm dependencies; checks run offline. This is a standalone contribution task; production use by agentswarm."
+      "desc": "Implement SwapCase(s) in Go: swap the case of ASCII letters and keep every other byte, including non-ASCII text and invalid UTF-8, unchanged.\n\nFull contract: `tasks/swap-case/SPEC.md`. Go 1.23 standard library only, using the batch9 digest-pinned image; checks run offline. This is a standalone contr"
     },
     {
       "source": "github_bounty",
-      "title": "Implement drop prefix in Python",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/106",
+      "title": "Decide whether one JS string is a rotation of another by code points",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/173",
       "value": 0,
-      "desc": "# drop-prefix\nImplement `drop_prefix` in `drop_prefix.py`. Python 3.11+ standard library only.\n\nInputs text and token are exact built-in strings, at most 1000 and 64 Unicode code points respectively. Remove exactly one leading occurrence of token if present. Empty token leaves text unchanged. Return"
+      "desc": "Implement isRotation(a, b): return true when one JavaScript string equals the other rotated by some number of Unicode code points.\n\nFirst-timers only for 24 hours: if you have not had a PR merged in this repo yet, this one is for you. After 2026-11-12T15:10:00Z (UTC) anyone can take it.\n\nFull contra"
     },
     {
       "source": "github_bounty",
-      "title": "[NF-12R] Fill this month from your average of the last three months",
-      "url": "https://github.com/LightningEg/Lightning/issues/499",
+      "title": "Check whether a string uses every ASCII letter in Rust",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/171",
       "value": 0,
-      "desc": "### Code\nNF-12R\n\n### What's wrong or wanted\n[r32](https://github.com/LightningEg/Lightning/blob/main/issues/12-desktop-ux/r32-budget-and-cash-planning/report.md) F1 (owner chose it, 2026-11-09). *Fill this month* offers Last month, Schedule and Goal. With no\nlimits last month it has nothing to offer"
+      "desc": "Implement is_pangram(input) in Rust: return true when every ASCII letter a-z occurs at least once, ignoring case and every other character.\n\nFirst-timers only for 24 hours: if you have not had a PR merged in this repo yet, this one is for you. After 2026-11-12T14:10:00Z (UTC) anyone can take it.\n\nFu"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-10T16:41:59.436928",
+  "last_run": "2026-11-11T16:47:54.955176",
   "history": []
 }
