@@ -2,38 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4692",
+      "title": "[radar] SN open bounty 2026-11-12T16:18",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1371",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4492 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1613251\tbitcoin\t1\t873\t21000\t6\t0.9\t1600846\t13\trecent@bitcoin|top@bitcoin\tOPEN_BOUNTY,FRESH,SIGNAL\tBounty: record a full tap-through of our TestFlight app on a physical iPhone\n```"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309",
-      "value": 420,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/theselfish/SlopStation13/issues/40\n\n### 漏洞描述 / Description\n[BOUNTY][$420][ADD] P. Diddy Lube\n\n\n### Bounty Details:\nAdd P. Diddy lube to SlopStation13. Must be compatible with the Kirkinator item & provide buffs to it as well as hav"
+      "title": "[$2 site credit] Add a Dart example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-examples/issues/46",
+      "value": 2,
+      "desc": "Effort: ~1–2 hours; needs Dart, HTTP + JSON basics, and Docker.\n\nAgents: see AGENTS.md for a copy-paste claim command\n\nAdd a tiny Dart example in `dart-bounties/` that lists open bounties from the public read API. Read `AGENTSWARM_BASE_URL` (default `https://agentswarm.space`), trim trailing slashes"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deter",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308",
-      "value": 450,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1\n\n### 漏洞描述 / Description\n[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canonical_string_frames`)\n\n> **Automated"
+      "title": "[Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português(",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4751",
+      "value": 0,
+      "desc": "> **Payment:** 本项目**不付钱**。`zero-bounty` / `$0` 意味着只有信用回报：merge credit、贡献者图、\n> Hall of Fame。真正的赏金只存在于有人用 Opire 的 `/reward <amount>` 资助的 issue 上。见\n> `JOIN.md` § \"Bounties & payment\"。\n\n## 背景\n\nREADME 目前只有三种语言：English（canonical）、日本語、简体中文。仓库的语料、客户端插件和 MCP\n工具已经在讲多种语言的故事（`locale/` 有 en/ja/ko/zh-CN），但**入口文档*"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307",
-      "value": 600,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2\n\n### 漏洞描述 / Description\n[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-canonical-abi`)\n\n> **Automated CI Con"
+      "title": "[$2 site credit] Add a PHP example that lists open bounties",
+      "url": "https://github.com/andrewsiah/agentswarm-examples/issues/45",
+      "value": 2,
+      "desc": "Effort: ~1–2 hours; needs PHP, HTTP + JSON basics, and Docker.\n\nAgents: see AGENTS.md for a copy-paste claim command\n\nAdd a tiny PHP example in `php-bounties/` that lists open bounties from the public read API. Read `AGENTSWARM_BASE_URL` (default `https://agentswarm.space`), trim trailing slashes, a"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings witho",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305",
-      "value": 600,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2\n\n### 漏洞描述 / Description\n[Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verifier`)\n\n> **Automated CI Conformance Mi"
+      "title": "Smart contracts: on-chain bounty escrow (Soroban) - trustless release on merged-",
+      "url": "https://github.com/coreguard-global/CoreGuard/issues/55",
+      "value": 0,
+      "desc": "## Track: Smart Contracts — manifest `CG-BTY-007`\n\nNew program capability, proposed 2026-11-11: turn the contributor bounty program from \"an owner promise\" into **on-chain atomic settlement**. Coordinated in #31.\n\n### The idea\nA Soroban contract holds XLM funded by the project owner (or any sponsor)"
     },
     {
       "source": "github_bounty",
@@ -72,38 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "Fix matrix rotation for rectangular integer matrices",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/177",
+      "title": "Count the trailing zeros of a Python factorial without computing it",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/298",
       "value": 0,
-      "desc": "Fix rotate_matrix(rows): the seeded clockwise rotation only works for square matrices, returns None for an empty matrix and skips exact type and ragged-row checks.\n\nFull contract: `tasks/rotate-matrix/SPEC.md`. Python 3.11+ standard library only; checks run offline. This is a standalone contribution"
+      "desc": "Implement factorial_zeros(n): return, as an exact built-in int, the number of trailing zero digits of n! written in decimal (0! is 1), without computing n! itself (count factors of 5: n // 5 + n // 25 + ...); factorial_zeros(4) is 0, factorial_zeros(5) is 1, factorial_zeros(25) is 6 and factorial_ze"
     },
     {
       "source": "github_bounty",
-      "title": "Count the trailing zero bits of a bounded positive integer",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/176",
+      "title": "Decide whether a Go uint64 is a power of four",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/297",
       "value": 0,
-      "desc": "Implement trailing_zero_bits(n): count the 0 bits below the lowest 1 bit of a bounded positive integer.\n\nFirst-timers only for 24 hours: if you have not had a PR merged in this repo yet, this one is for you. After 2026-11-12T16:10:00Z (UTC) anyone can take it.\n\nFull contract: `tasks/trailing-zero-bi"
+      "desc": "Implement IsPowerOfFour(n uint64) bool in Go: return true exactly when n == 4^k for some integer k >= 0, otherwise false. 0 is false and 1 (4^0) is true; powers of two that are not powers of four (2, 8, 32, ..., 2^63) are false; the largest true value is 4^31 (4611686018427387904). Every uint64 valu"
     },
     {
       "source": "github_bounty",
-      "title": "Swap the case of ASCII letters in a Go string",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/174",
+      "title": "Validate a canonical 8-4-4-4-12 UUID string in JavaScript",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/295",
       "value": 0,
-      "desc": "Implement SwapCase(s) in Go: swap the case of ASCII letters and keep every other byte, including non-ASCII text and invalid UTF-8, unchanged.\n\nFull contract: `tasks/swap-case/SPEC.md`. Go 1.23 standard library only, using the batch9 digest-pinned image; checks run offline. This is a standalone contr"
+      "desc": "Implement isUuid(text): return the primitive boolean true exactly when text is 32 ASCII hex digits (0-9, a-f, A-F, mixed case allowed) in five groups of 8, 4, 4, 4 and 12 digits separated by single \"-\" characters, otherwise false. Any digit values are accepted (no version or variant check). No missi"
     },
     {
       "source": "github_bounty",
-      "title": "Decide whether one JS string is a rotation of another by code points",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/173",
+      "title": "Decide whether a bounded Python integer has all digits equal",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/294",
       "value": 0,
-      "desc": "Implement isRotation(a, b): return true when one JavaScript string equals the other rotated by some number of Unicode code points.\n\nFirst-timers only for 24 hours: if you have not had a PR merged in this repo yet, this one is for you. After 2026-11-12T15:10:00Z (UTC) anyone can take it.\n\nFull contra"
+      "desc": "Implement is_repdigit(n): write n in decimal without leading zeros and return the exact built-in bool True exactly when every digit is the same digit, otherwise False (0 to 9, 11, 222 and 7777 are True; 10, 12, 101 and 1211 are False). n must be an exact built-in int: bool, int subclasses and all ot"
     },
     {
       "source": "github_bounty",
-      "title": "Check whether a string uses every ASCII letter in Rust",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/171",
+      "title": "Remove every occurrence of a character from a Rust string",
+      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/293",
       "value": 0,
-      "desc": "Implement is_pangram(input) in Rust: return true when every ASCII letter a-z occurs at least once, ignoring case and every other character.\n\nFirst-timers only for 24 hours: if you have not had a PR merged in this repo yet, this one is for you. After 2026-11-12T14:10:00Z (UTC) anyone can take it.\n\nFu"
+      "desc": "Implement remove_char(input: &str, target: char) -> String in Rust: treat input as chars (Unicode scalar values, not bytes) and return a new string holding every char that is not equal to target, in order, removing every occurrence, not only the first. Comparison is exact: no case folding ('h' does "
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-11T16:47:54.955176",
+  "last_run": "2026-11-12T17:16:19.175124",
   "history": []
 }
