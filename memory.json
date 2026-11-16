@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-15T13:51",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1383",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5131",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1614834\tStacker_Stocks\t2\t189\t10000\t5\t2.0\t9274\t29696\trecent@Stacker_Stocks|top@Stacker_Stocks\tOPEN_BOUNTY,LOW_COMP,FRESH,SIGNAL\tStacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #19 Win up to 20k Sats!\n```"
+      "desc": "<!-- misakanet-question-bounty:anchor-4916 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainn",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4351",
-      "value": 25,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/Fractal-Neurons/pacta/issues/21\n\n### 漏洞描述 / Description\n[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainnet (>=$25M TVL Unindexed Protocol)\n\n## $25 USDC Chain-Feed Mismatch Bounty — Slot #1 of 4 (`$100 USDC` T"
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5130",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-4840 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainn",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4350",
-      "value": 25,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/Fractal-Neurons/pacta/issues/22\n\n### 漏洞描述 / Description\n[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainnet (>=$25M TVL Unindexed Protocol)\n\n## $25 USDC Chain-Feed Mismatch Bounty — Slot #2 of 4 (`$100 USDC` T"
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5129",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-4841 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 — Base (8453) or",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4349",
-      "value": 25,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/Fractal-Neurons/pacta/issues/23\n\n### 漏洞描述 / Description\n[$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #3 — Base (8453) or Arbitrum One (42161) (>=$10M TVL Unindexed Protocol)\n\n## $25 USDC Chain-Feed Mismatch Bounty — Slot #3 "
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5128",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-5050 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4348",
-      "value": 25,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/Fractal-Neurons/pacta/issues/24\n\n### 漏洞描述 / Description\n[$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or 4th Unindexed (>=$15M TVL) Control-Plane Mismatch\n\n## $25 USDC Chain-Feed Mismatch Bounty — Slot #4 of "
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5127",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-5054 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Bounty Scout — 2026-11-16",
+      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/28",
+      "value": 10,
+      "desc": "# Bounty Scout — week of 2026-11-16\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
     },
     {
       "source": "github_bounty",
@@ -51,24 +58,17 @@
     },
     {
       "source": "github_bounty",
+      "title": "🧟 Toyol Radar — calon ganjaran untuk disahkan",
+      "url": "https://github.com/ilhamraduanbis-source/toyol-digital/issues/1",
+      "value": 1000,
+      "desc": "<!-- toyol-radar-v1 -->\n# 🧟 Toyol Radar — Medan Pembelajaran & Peluang\n\n**Penanda aras kematangan:** mampu melaksanakan kerja berkualiti pada tahap sekitar USD200 atau lebih. Ini BUKAN syarat minimum quest.\n\n**Status: CALON TUGASAN, BUKAN PENDAPATAN.**\n\nSumber: [Jobbi](https://jobbi.org/gigs), indek"
+    },
+    {
+      "source": "github_bounty",
       "title": "[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_seque",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244",
       "value": 750,
       "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20\n\n### 漏洞描述 / Description\n[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap\n\n### Feature Overview\nAllow passing `step_size: int = 1` to `verify_sequence_gap(hea"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20",
-      "value": 750,
-      "desc": "### Feature Overview\nAllow passing `step_size: int = 1` to `verify_sequence_gap(headers, step_size=1)` in `src/ledger_validator.py` and add unit tests in `tests/test_ledger_validator.py`.\n\n### Escrow & Assign-First Notice\n- Self-labeled decoy bounty tag without `algora-pbc[bot]` or `drips-wave[bot]`"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with B",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224",
-      "value": 450,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1\n\n### 漏洞描述 / Description\n💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (_fence_cursor_state_v4)\n\n> **Automated CI Regression Mirror Noti"
     },
     {
       "source": "github_bounty",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-15T15:58:59.206158",
+  "last_run": "2026-11-16T19:07:25.040996",
   "history": []
 }
