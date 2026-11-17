@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5131",
+      "title": "[radar] SN open bounty 2026-11-17T17:47",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1404",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4916 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1616276\tbitcoin\t1\t801\t57000\t2\t1.5\t1611134\t17\trecent@bitcoin|top@bitcoin\tOPEN_BOUNTY,LOW_COMP,FRESH,SIGNAL\tRoast our shop, win 57k sats\n```"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5130",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5192",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4840 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-4856 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5129",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5191",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4841 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-5049 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5128",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5190",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5050 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-5052 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5127",
+      "title": "[radar] SN open bounty 2026-11-17T15:53",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1402",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5054 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1615513\tStacker_Sports\t3\t1064\t4949\t16\t24.3\t88988\t49891\trecent@Stacker_Sports\tOPEN_BOUNTY,HOT,SELF_POST_OPP\tPick the final records- Win Sats\n```"
+    },
+    {
+      "source": "github_bounty",
+      "title": "posso fazer ?",
+      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/5",
+      "value": 450,
+      "desc": "1. AVALIAÇÃO\n\nO pedido, na superfície: implementar uma função com o nome estranho \"recount_grimm_khm001_frog_king_and_iron_henry_c35\" num arquivo candidate_submission.py e ajustar duas constantes (STREAM_WATERMARK_MASK, de 48 bits, e EPOCH_STRIDE_MATRIX) até que um script verify_conformance.py mostr"
     },
     {
       "source": "github_bounty",
@@ -60,50 +67,43 @@
       "source": "github_bounty",
       "title": "🧟 Toyol Radar — calon ganjaran untuk disahkan",
       "url": "https://github.com/ilhamraduanbis-source/toyol-digital/issues/1",
-      "value": 1000,
+      "value": 3,
       "desc": "<!-- toyol-radar-v1 -->\n# 🧟 Toyol Radar — Medan Pembelajaran & Peluang\n\n**Penanda aras kematangan:** mampu melaksanakan kerja berkualiti pada tahap sekitar USD200 atau lebih. Ini BUKAN syarat minimum quest.\n\n**Status: CALON TUGASAN, BUKAN PENDAPATAN.**\n\nSumber: [Jobbi](https://jobbi.org/gigs), indek"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_seque",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244",
-      "value": 750,
-      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20\n\n### 漏洞描述 / Description\n[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap\n\n### Feature Overview\nAllow passing `step_size: int = 1` to `verify_sequence_gap(hea"
+      "title": "Point the deployment runbook at the crates that exist",
+      "url": "https://github.com/SaboStudios/Tycoon-Monorepo/issues/2089",
+      "value": 0,
+      "desc": "## Context\n\n`contract/DEPLOYMENT_RUNBOOK.md` is what operators follow. The workspace members are the crates under `contract/contracts/`.\n\n## Problem\n\nIf the runbook names a crate path that is not in the tree, the deploy stops halfway. The beginner task is to read the runbook and fix paths and crate "
     },
     {
       "source": "github_bounty",
-      "title": "[PRODUCT][P0] Scoring sheet rewrite + dynamic XP formula (Content should be driv",
-      "url": "https://github.com/n00b-i/khichiyakhaaunga/issues/65",
+      "title": "Document who may call each reward entrypoint",
+      "url": "https://github.com/SaboStudios/Tycoon-Monorepo/issues/2087",
       "value": 0,
-      "desc": "## Part A — Scoring Rules bottom sheet rewrite\n\n**Current state:** The bottom sheet on Game Over shows sample/placeholder copy.\n\n**Required:** Rewrite to explain the actual scoring in three lines max, in\nComebak voice. No jargon, no paragraphs.\n\n**Draft copy (for review):**\n\n> **How XP works**\n>\n> B"
+      "desc": "## Context\n\nThe reward README describes mint and redeem. Authorization is spread through `require_auth` calls in `lib.rs`.\n\n## Problem\n\nA reviewer cannot see, on one page, that initialize currently does not check the admin signature, that mint allows the admin or the backend minter, and that withdra"
     },
     {
       "source": "github_bounty",
-      "title": "[docs] Drips Wave Contributor Recognition page and automated task leaderboard se",
-      "url": "https://github.com/pendulum-max/Veritag/issues/125",
+      "title": "Show how to run one contract crate in the contract README",
+      "url": "https://github.com/SaboStudios/Tycoon-Monorepo/issues/2085",
       "value": 0,
-      "desc": "#### Overview\nTo recognize community contributions in the Drips Stellar Wave Program, we should create a dedicated community page and GitHub Actions automation that generates a contributor leaderboard, lists merged PRs by category, and links to Drips funding waves.\n\n#### Scope & Files to Touch\n- `do"
+      "desc": "## Context\n\nThe workspace root is `contract/`. Contributors need a copy-paste command per crate.\n\n## Problem\n\nA wrong working directory makes `cargo test` look empty or fail on a missing manifest. The README should show `cargo test -p tycoon-token` and the same form for the reward and main-game crat"
     },
     {
       "source": "github_bounty",
-      "title": "Validate a lowercase hyphenated URL slug string in JavaScript",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/346",
+      "title": "Explain the voucher id starting value in the reward README",
+      "url": "https://github.com/SaboStudios/Tycoon-Monorepo/issues/2084",
       "value": 0,
-      "desc": "Implement isUrlSlug(text): return the primitive boolean true exactly when text is a URL slug: one or more words separated by single \"-\" characters, each word one or more lowercase ASCII letters a-z or ASCII digits (\"hello-world\", \"a1-b2-c3\"), otherwise false. No empty string, uppercase letters, lead"
+      "desc": "## Context\n\n`VOUCHER_ID_START` is `1_000_000_000`. Minted voucher ids begin there and then increase by one.\n\n## Problem\n\nCollectible ids and voucher ids share `u128`. Without the note, a marketplace can treat a small collectible id and a voucher id as the same namespace. The constant is only in the "
     },
     {
       "source": "github_bounty",
-      "title": "Decide whether the digits of a Python integer never decrease",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/344",
+      "title": "List the contract crates that this workspace actually builds",
+      "url": "https://github.com/SaboStudios/Tycoon-Monorepo/issues/2083",
       "value": 0,
-      "desc": "Implement is_tidy_number(n): write n in decimal without leading zeros and return the exact built-in bool True exactly when its digits never decrease from left to right (a tidy number), otherwise False; every single-digit number, including 0, is True. So 0, 7, 11, 123, 1123 and 5559 are True, and 10,"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Return the length of the longest run of one repeated character in Rust",
-      "url": "https://github.com/andrewsiah/agentswarm-data-tasks/issues/343",
-      "value": 0,
-      "desc": "Implement longest_char_run(input: &str) -> usize in Rust: treat input as chars (Unicode scalar values, not bytes) and return the length in chars of the longest run of neighbouring equal chars (\"aaabbbbcc\" gives 4), 0 for the empty string and 1 when no two neighbouring chars are equal. Comparison is "
+      "desc": "## Context\n\n`contract/Cargo.toml` is the workspace. The README and the deployment runbook name the contracts operators should deploy.\n\n## Problem\n\nA new contributor cannot tell which of `tycoon-token`, `tycoon-reward-system`, `tycoon-main-game`, `tycoon-collectibles`, `tycoon-boost-system`, `tycoon-"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-16T19:07:25.040996",
+  "last_run": "2026-11-17T18:00:31.155617",
   "history": []
 }
