@@ -2,38 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-17T17:47",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1404",
+      "title": "[radar] SN open bounty 2026-11-18T16:28",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1418",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1616276\tbitcoin\t1\t801\t57000\t2\t1.5\t1611134\t17\trecent@bitcoin|top@bitcoin\tOPEN_BOUNTY,LOW_COMP,FRESH,SIGNAL\tRoast our shop, win 57k sats\n```"
+      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1616276\tbitcoin\t1\t887\t57000\t26\t24.2\t1611134\t29\trecent@bitcoin\tOPEN_BOUNTY\tRoast our shop, win 57k sats\n```"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5192",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5255",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4856 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-5141 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5191",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5254",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5049 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-4769 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5190",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5253",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5052 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-5100 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[radar] SN open bounty 2026-11-17T15:53",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1402",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5252",
       "value": 0,
-      "desc": "New SN OPEN_BOUNTY detected:\n\n```\n1615513\tStacker_Sports\t3\t1064\t4949\t16\t24.3\t88988\t49891\trecent@Stacker_Sports\tOPEN_BOUNTY,HOT,SELF_POST_OPP\tPick the final records- Win Sats\n```"
+      "desc": "<!-- misakanet-question-bounty:anchor-5219 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
@@ -72,6 +72,20 @@
     },
     {
       "source": "github_bounty",
+      "title": "[BOUNTY: 1,500 EQX] Build Mobile QR Scanner & Audio Alert for Merchant POS Mode",
+      "url": "https://github.com/EquinoxCore-Foundation/equinox-core/issues/2",
+      "value": 0,
+      "desc": "### 🏪 Objective\nExpand the **Equinox Super-Wallet** (`Equinox-Super-Wallet/apps/desktop/src` & `apps/mobile_flutter`) with a full-featured **Zero-Fee Instant Merchant POS (Point-of-Sale) Mode** for real-world shopkeepers and freelancers.\n\n**💰 Bounty Reward:** `1,500 EQX` (Paid via Mainnet Genesis `B"
+    },
+    {
+      "source": "github_bounty",
+      "title": "testing: no coverage for referral `set_pool`, `set_deposit_reward_bps`, `is_acti",
+      "url": "https://github.com/astera-hq/Astera/issues/1685",
+      "value": 0,
+      "desc": "`set_pool`, `set_deposit_reward_bps`, `is_activated` and `get_lifetime_reward_cap` are never called in `contracts/referral/tests`. Add tests for auth, bps upper bounds, and activation after the first deposit.\n"
+    },
+    {
+      "source": "github_bounty",
       "title": "Point the deployment runbook at the crates that exist",
       "url": "https://github.com/SaboStudios/Tycoon-Monorepo/issues/2089",
       "value": 0,
@@ -92,20 +106,6 @@
       "desc": "## Context\n\nThe workspace root is `contract/`. Contributors need a copy-paste command per crate.\n\n## Problem\n\nA wrong working directory makes `cargo test` look empty or fail on a missing manifest. The README should show `cargo test -p tycoon-token` and the same form for the reward and main-game crat"
     },
     {
-      "source": "github_bounty",
-      "title": "Explain the voucher id starting value in the reward README",
-      "url": "https://github.com/SaboStudios/Tycoon-Monorepo/issues/2084",
-      "value": 0,
-      "desc": "## Context\n\n`VOUCHER_ID_START` is `1_000_000_000`. Minted voucher ids begin there and then increase by one.\n\n## Problem\n\nCollectible ids and voucher ids share `u128`. Without the note, a marketplace can treat a small collectible id and a voucher id as the same namespace. The constant is only in the "
-    },
-    {
-      "source": "github_bounty",
-      "title": "List the contract crates that this workspace actually builds",
-      "url": "https://github.com/SaboStudios/Tycoon-Monorepo/issues/2083",
-      "value": 0,
-      "desc": "## Context\n\n`contract/Cargo.toml` is the workspace. The README and the deployment runbook name the contracts operators should deploy.\n\n## Problem\n\nA new contributor cannot tell which of `tycoon-token`, `tycoon-reward-system`, `tycoon-main-game`, `tycoon-collectibles`, `tycoon-boost-system`, `tycoon-"
-    },
-    {
       "source": "article",
       "title": "Come ho automatizzato i deploy con Python",
       "value": 0,
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-17T18:00:31.155617",
+  "last_run": "2026-11-18T17:42:06.138362",
   "history": []
 }
