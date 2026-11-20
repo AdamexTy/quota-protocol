@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "Partner sales kit: getting companies to post tasks",
-      "url": "https://github.com/ADT-community/adt-community.github.io/issues/12",
-      "value": 20,
-      "desc": "**Deliverable:** A one-pager, pricing and outreach list to sign the first paying company on ADT Work.\n**Size:** a whole piece of the product, about 8–12 hours · **Reward:** $20 + real-world project experience · **Level:** Beginner–intermediate\n\n### Why it matters\nProfit is goal number one. The first"
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5463",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-3607 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5373",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5462",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4531 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-4465 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5372",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5461",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5205 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-5181 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5371",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5460",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4969 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-4945 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5370",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5459",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5281 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-5306 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] fix(http2_hpack): Fix HTTP/2 frame payload ceiling and HPACK dynamic ta",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4379",
+      "value": 250,
+      "desc": "### 赏金平台 / Platform\nGitHub\n\n### 原始链接 / Source URL\nhttps://github.com/IES-BoilerRoom/grpc-http2-hpack-framing/issues/1\n\n### 漏洞描述 / Description\nfix(http2_hpack): Fix HTTP/2 frame payload ceiling and HPACK dynamic table shard eviction witness ($250 bounty) [unpack_hpack_header_frames]\n\n> **Automated CI"
     },
     {
       "source": "github_bounty",
@@ -65,13 +72,6 @@
     },
     {
       "source": "github_bounty",
-      "title": "🧟 Toyol Radar — calon ganjaran untuk disahkan",
-      "url": "https://github.com/ilhamraduanbis-source/toyol-digital/issues/1",
-      "value": 3,
-      "desc": "<!-- toyol-radar-v1 -->\n# 🧟 Toyol Radar — Medan Pembelajaran & Peluang\n\n**Penanda aras kematangan:** mampu melaksanakan kerja berkualiti pada tahap sekitar USD200 atau lebih. Ini BUKAN syarat minimum quest.\n\n**Status: CALON TUGASAN, BUKAN PENDAPATAN.**\n\nSumber: [Jobbi](https://jobbi.org/gigs), indek"
-    },
-    {
-      "source": "github_bounty",
       "title": "Docs: a walkthrough for writing your own cheat",
       "url": "https://github.com/abhishekcpp007/gauntlet/issues/3",
       "value": 0,
@@ -79,31 +79,31 @@
     },
     {
       "source": "github_bounty",
-      "title": "Internal: update the website's bounty section to the $20 model",
-      "url": "https://github.com/ADT-community/adt-community.github.io/issues/1",
-      "value": 20,
-      "desc": "**Time:** 2–3 hours · **Reward:** $20 + real-world project experience · **Level:** Beginner\n\n### Why it matters\nThe site should match how bounties actually work now: 2–5 hour tasks, $20 each, experience first.\n\n### What to do\n1. Update the bounty section of `index.html` and `CONTRIBUTING.md`: task s"
+      "title": "[good first issue, hacktoberfest] 🀄 Add new Japanese Proverb 1707 (good-first-is",
+      "url": "https://github.com/lingdojo/kana-dojo/issues/34304",
+      "value": 0,
+      "desc": "## 🟢 Good First Issue: Add Japanese Proverb #170 — Beginner-Friendly Open Source Contribution\n\n![Time: <1 minute](https://img.shields.io/badge/Time-<1_minute-brightgreen) ![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-blue) ![No Code Required](https://img.shields.io/badge/N"
     },
     {
       "source": "github_bounty",
-      "title": "Post a 'how to claim' comment when a bounty is approved",
-      "url": "https://github.com/ADT-community/ADT_agent/issues/5",
-      "value": 20,
-      "desc": "**Time:** 2–3 hours · **Reward:** $20 + real-world project experience · **Level:** Beginner–intermediate\n\n### Why it matters\nMakes every approved task immediately actionable.\n\n### What to do\n1. When a `bounty:$` label is added, comment with the claim rules (5-day window, payment after merge)\n2. Only"
+      "title": "[495] Contributor recognition automation",
+      "url": "https://github.com/Kyvera-Labs/verixa/issues/435",
+      "value": 0,
+      "desc": "## Summary\n\nAdd an all-contributors-style bot/workflow that updates a contributors table in the README on merged PRs, recognizing code, docs, review, and design contributions distinctly (not just commit count).\n\n## Context\n\nThis is **Phase 25 — Community, Governance & v1.0 Launch**, issue `495` of t"
     },
     {
       "source": "github_bounty",
-      "title": "Daily report: summary of open bounties across repos",
-      "url": "https://github.com/ADT-community/ADT_agent/issues/3",
-      "value": 20,
-      "desc": "**Time:** 3–4 hours · **Reward:** $20 + real-world project experience · **Level:** Intermediate\n\n### Why it matters\nMaintainers need one place to see the whole network.\n\n### What to do\n1. Add `agent/report.py` that builds a Markdown summary per repo: open bounties, claimed, in review, stalled, propo"
+      "title": "[BOUNTY: 1,500 EQX] Build Mobile QR Scanner & Audio Alert for Merchant POS Mode",
+      "url": "https://github.com/EquinoxCore-Foundation/equinox-core/issues/2",
+      "value": 0,
+      "desc": "### 🏪 Objective\nExpand the **Equinox Super-Wallet** (`Equinox-Super-Wallet/apps/desktop/src` & `apps/mobile_flutter`) with a full-featured **Zero-Fee Instant Merchant POS (Point-of-Sale) Mode** for real-world shopkeepers and freelancers.\n\n**💰 Bounty Reward:** `1,500 EQX` (Paid via Mainnet Genesis `B"
     },
     {
       "source": "github_bounty",
-      "title": "Detect stalled bounty tasks and comment on them",
-      "url": "https://github.com/ADT-community/ADT_agent/issues/2",
-      "value": 20,
-      "desc": "**Time:** 3–4 hours · **Reward:** $20 + real-world project experience · **Level:** Intermediate\n\n### Why it matters\nClaimed tasks that go quiet block other contributors. The 5-day rule needs enforcing automatically.\n\n### What to do\n1. Add `agent/stalled.py`: find open issues with a `bounty` label, a"
+      "title": "testing: no coverage for referral `set_pool`, `set_deposit_reward_bps`, `is_acti",
+      "url": "https://github.com/astera-hq/Astera/issues/1685",
+      "value": 0,
+      "desc": "`set_pool`, `set_deposit_reward_bps`, `is_activated` and `get_lifetime_reward_cap` are never called in `contracts/referral/tests`. Add tests for auth, bps upper bounds, and activation after the first deposit.\n"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-19T17:52:10.460298",
+  "last_run": "2026-11-20T17:26:41.354856",
   "history": []
 }
