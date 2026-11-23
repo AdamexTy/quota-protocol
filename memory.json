@@ -2,38 +2,45 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "Bounty (5): Organize the first three months of the upkeep rota",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/113",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5645",
       "value": 0,
-      "desc": "**Worth 5 points.** Type: upkeep.\n\nTo take it, comment \"I'll take this\". Nobody has to ask permission, and more than one person can work on the same bounty. When you are done, link your work here. A maintainer adds you to the Contributors Wall.\n\nHow points work: [BOUNTIES.md](https://github.com/Fish"
+      "desc": "<!-- misakanet-question-bounty:anchor-5302 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "Bounty (5): Help a second town plan its own Swapatron",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/112",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5644",
       "value": 0,
-      "desc": "**Worth 5 points.** Type: idea.\n\nTo take it, comment \"I'll take this\". Nobody has to ask permission, and more than one person can work on the same bounty. When you are done, link your work here. A maintainer adds you to the Contributors Wall.\n\nHow points work: [BOUNTIES.md](https://github.com/Fisher"
+      "desc": "<!-- misakanet-question-bounty:anchor-4964 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "Bounty (3): Line up food trucks for hatching day, with the lab's OK on space and",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/111",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5643",
       "value": 0,
-      "desc": "**Worth 3 points.** Type: upkeep.\n\nTo take it, comment \"I'll take this\". Nobody has to ask permission, and more than one person can work on the same bounty. When you are done, link your work here. A maintainer adds you to the Contributors Wall.\n\nHow points work: [BOUNTIES.md](https://github.com/Fish"
+      "desc": "<!-- misakanet-question-bounty:anchor-4853 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "Bounty (1): Suggest a better cute name for an IoT term in \\1",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/110",
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5642",
       "value": 0,
-      "desc": "**Worth 1 point.** Type: idea.\n\nTo take it, comment \"I'll take this\". Nobody has to ask permission, and more than one person can work on the same bounty. When you are done, link your work here. A maintainer adds you to the Contributors Wall.\n\nHow points work: [BOUNTIES.md](https://github.com/Fishers"
+      "desc": "<!-- misakanet-question-bounty:anchor-2167 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "Bounty (3): Write the youth protection rules, with someone who works with kids",
-      "url": "https://github.com/Fishers-Founders-United/Swapatron5000/issues/109",
+      "title": "[Bounty] Answer the 4 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5641",
       "value": 0,
-      "desc": "**Worth 3 points.** Type: docs.\n\nTo take it, comment \"I'll take this\". Nobody has to ask permission, and more than one person can work on the same bounty. When you are done, link your work here. A maintainer adds you to the Contributors Wall.\n\nHow points work: [BOUNTIES.md](https://github.com/Fisher"
+      "desc": "<!-- misakanet-question-bounty:anchor-5313 -->\n# [Bounty] Answer the 4 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Bounty Scout — 2026-11-23",
+      "url": "https://github.com/ariahendrawan-sudo/project-a/issues/30",
+      "value": 10,
+      "desc": "# Bounty Scout — week of 2026-11-23\n\nTarget: at least US$10/week. One merged bounty of US$50 covers ~5 weeks.\n\n| # | Score | Amount | Stars | Comments | Repository | Issue |\n|---|------:|-------:|------:|---------:|------------|-------|\n| – | – | – | – | – | – | No bounty passed the filters this wee"
     },
     {
       "source": "github_bounty",
@@ -65,45 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "posso fazer ?",
-      "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/5",
-      "value": 450,
-      "desc": "1. AVALIAÇÃO\n\nO pedido, na superfície: implementar uma função com o nome estranho \"recount_grimm_khm001_frog_king_and_iron_henry_c35\" num arquivo candidate_submission.py e ajustar duas constantes (STREAM_WATERMARK_MASK, de 48 bits, e EPOCH_STRIDE_MATRIX) até que um script verify_conformance.py mostr"
+      "title": "Demo pages: decorative icons are missing focusable=\"false\"",
+      "url": "https://github.com/odonckers/domestic-ui/issues/67",
+      "value": 0,
+      "desc": "## Problem\n\nOn the three vanilla demo pages, decorative SVG icons have `aria-hidden=\"true\"` but are missing `focusable=\"false\"`. The library's icon convention, as the Icon docs snippet shows, is that decorative icons next to a visible label carry both attributes. The docs pages already follow it; th"
     },
     {
       "source": "github_bounty",
-      "title": "Explore: download the bounty list as CSV",
-      "url": "https://github.com/Ololadestephen/Postmark/issues/2",
+      "title": "feat(docs): add heading anchors to the search index",
+      "url": "https://github.com/odonckers/domestic-ui/issues/52",
       "value": 0,
-      "desc": "The Explore page (`app/src/pages/Explore.tsx`) lists every bounty, with status tabs, search and sort, but there's no way to take the list out of the app.\n\n**Task:** add a \"Download CSV\" button to Explore.\n\n- It exports the rows currently shown, so it respects the active status tab, search and sort.\n"
+      "desc": "* **Problem:** `search-index.json` lists each page's h2/h3 headings as plain text only, so a search result can open a page but not the section that matched. It also picks up the \"On this page\" heading of the table of contents on most pages, which is noise in results.\n* **Scope in:** in `searchIndex("
     },
     {
       "source": "github_bounty",
-      "title": "Streak bonus: more Geo for 3 right answers in a row",
-      "url": "https://github.com/Mohammed-Hashim18/game-learning/issues/18",
+      "title": "[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC",
+      "url": "https://github.com/EliCunninghamDev/haiku-core/issues/1",
       "value": 0,
-      "desc": "**Why**\nA small, visible bonus makes streaks exciting.\n\n**Steps**\n1. In `RewardRules` (`packages/core/src/engine.ts`), add `streakBonusEvery` (default 3) and `streakMultiplier` (default 2).\n2. When the streak after this answer is a multiple of `streakBonusEvery`, multiply this answer's in-game rewar"
+      "desc": "## 🥩 Bounty HAIKU-000\n\n| | |\n|---|---|\n| **Program** | haiku-core |\n| **Reward** | **$0.00 USDC** |\n| **Payout rail** | USDC on Base (ERC-20) |\n| **Escrow** | Not funded. There is no escrow address. |\n| **Severity** | None |\n| **KYC** | Not applicable — there is nothing to pay out |\n| **Status** | O"
     },
     {
       "source": "github_bounty",
-      "title": "Docs: a walkthrough for writing your own cheat",
-      "url": "https://github.com/abhishekcpp007/gauntlet/issues/3",
+      "title": "feat(mock): add mock incident seed dataset generator for civic mobile app develo",
+      "url": "https://github.com/TheVicky1/Safai_OS/issues/35",
       "value": 0,
-      "desc": "The harness has a zoo of cheating policies (`cheater:monkeypatch`, `cheater:stealth`, `cheater:ghost` and more), but nothing in the docs shows how to add one. That's the most fun way into the project, so it deserves a page.\n\n**What to write**\n\nA short `docs/write-a-cheat.md` in [gauntlet-harness](ht"
+      "desc": "### Domain\nFrontend, Mobile & Civic App Integration\n\n### Target File\n`scripts/generate_mock_incidents.py`\n\n### Difficulty\nBeginner (Python Scripting • ~20-30 minutes)\n\n### Prerequisite Knowledge\nPython standard library `json`, `uuid`, `random`.\n\n### Description\nFrontend web developers and mobile Rea"
     },
     {
       "source": "github_bounty",
-      "title": "[good first issue, hacktoberfest] 🀄 Add new Japanese Proverb 1707 (good-first-is",
-      "url": "https://github.com/lingdojo/kana-dojo/issues/34304",
+      "title": "feat(rewards): implement civic tier and Safai Coins reward calculator (src/utils",
+      "url": "https://github.com/TheVicky1/Safai_OS/issues/31",
       "value": 0,
-      "desc": "## 🟢 Good First Issue: Add Japanese Proverb #170 — Beginner-Friendly Open Source Contribution\n\n![Time: <1 minute](https://img.shields.io/badge/Time-<1_minute-brightgreen) ![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-blue) ![No Code Required](https://img.shields.io/badge/N"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[495] Contributor recognition automation",
-      "url": "https://github.com/Kyvera-Labs/verixa/issues/435",
-      "value": 0,
-      "desc": "## Summary\n\nAdd an all-contributors-style bot/workflow that updates a contributors table in the README on merged PRs, recognizing code, docs, review, and design contributions distinctly (not just commit count).\n\n## Context\n\nThis is **Phase 25 — Community, Governance & v1.0 Launch**, issue `495` of t"
+      "desc": "### Domain\nCivic Tokenomics, Gamification & Ledger Logic\n\n### Target File\n`src/utils/rewards.py` & `tests/test_rewards.py`\n\n### Difficulty\nBeginner (Python Logic • ~20 minutes)\n\n### Prerequisite Knowledge\nBasic Python dictionaries and control flow.\n\n### Description\nSafaiOS rewards verified civic cle"
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-22T16:49:02.331244",
+  "last_run": "2026-11-23T20:45:45.163047",
   "history": []
 }
