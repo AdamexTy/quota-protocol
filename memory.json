@@ -2,38 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5645",
+      "title": "🪙 [Web3] Bounty (2): Research how other swap boxes handle l",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/104",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5302 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "🤖 **Bounty Encontrado en Web3**\n\n- **Título:** Bounty (2): Research how other swap boxes handle loss and junk, and write up what you find\n- **Monto:** Ver enlace\n- **Plataforma:** Web3\n- **Enlace:** [https://github.com/Fishers-Founders-United/Swapatron5000/issues/98](https://github.com/Fishers-Found"
+    },
+    {
+      "source": "github_bounty",
+      "title": "🪙 [Web3] [Bounty] Answer the 5 linked question(s)",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/103",
+      "value": 0,
+      "desc": "🤖 **Bounty Encontrado en Web3**\n\n- **Título:** [Bounty] Answer the 5 linked question(s)\n- **Monto:** $0\n- **Plataforma:** Web3\n- **Enlace:** [https://github.com/Ikalus1988/MisakaNet/issues/5735](https://github.com/Ikalus1988/MisakaNet/issues/5735)\n\n---\n\n### 💰 Payment Details\n- BTC: bc1qt3rukpe7qp737"
+    },
+    {
+      "source": "github_bounty",
+      "title": "🪙 [Web3] [Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/102",
+      "value": 0,
+      "desc": "🤖 **Bounty Encontrado en Web3**\n\n- **Título:** [Bounty] Answer the 3 linked question(s)\n- **Monto:** $0\n- **Plataforma:** Web3\n- **Enlace:** [https://github.com/Ikalus1988/MisakaNet/issues/5736](https://github.com/Ikalus1988/MisakaNet/issues/5736)\n\n---\n\n### 💰 Payment Details\n- BTC: bc1qt3rukpe7qp737"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Bounty program: community detection/DLP rules with corpus fixtures",
+      "url": "https://github.com/blitzcrieg1/agentmetry/issues/454",
+      "value": 0,
+      "desc": "# Detection rule bounty program\n\nAgentmetry's detection engine is only as good as its rules. This program turns the\nopen `detection-rule` / `dlp-rule` issues (tagged `bounty`) into a community\ncontribution track with a defined bar, so anyone can ship a rule and have it\ncounted in CI forever.\n\n## Wha"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5644",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5749",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4964 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5643",
-      "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4853 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5642",
-      "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-2167 -->\n# [Bounty] Answer the 3 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
-    },
-    {
-      "source": "github_bounty",
-      "title": "[Bounty] Answer the 4 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5641",
-      "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5313 -->\n# [Bounty] Answer the 4 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-5274 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
@@ -72,6 +72,13 @@
     },
     {
       "source": "github_bounty",
+      "title": "[Sponsor-Funded Bounty $5] feat(qa & api): automated pytest suite, batch predict",
+      "url": "https://github.com/viniciusscience/fishid-studio/issues/9",
+      "value": 5,
+      "desc": "### 💡 $5 Community-Sponsored Bounty (Transparent Terms)\n> **FishID Studio** is an open-source Master's research project (UNIVALI / LEMA — UN SDG 14).\n> **100% of our first $5 USD project sponsorship/donation** will be paid directly to the contributor whose PR completes the 5 items below and is merge"
+    },
+    {
+      "source": "github_bounty",
       "title": "Demo pages: decorative icons are missing focusable=\"false\"",
       "url": "https://github.com/odonckers/domestic-ui/issues/67",
       "value": 0,
@@ -99,13 +106,6 @@
       "desc": "### Domain\nFrontend, Mobile & Civic App Integration\n\n### Target File\n`scripts/generate_mock_incidents.py`\n\n### Difficulty\nBeginner (Python Scripting • ~20-30 minutes)\n\n### Prerequisite Knowledge\nPython standard library `json`, `uuid`, `random`.\n\n### Description\nFrontend web developers and mobile Rea"
     },
     {
-      "source": "github_bounty",
-      "title": "feat(rewards): implement civic tier and Safai Coins reward calculator (src/utils",
-      "url": "https://github.com/TheVicky1/Safai_OS/issues/31",
-      "value": 0,
-      "desc": "### Domain\nCivic Tokenomics, Gamification & Ledger Logic\n\n### Target File\n`src/utils/rewards.py` & `tests/test_rewards.py`\n\n### Difficulty\nBeginner (Python Logic • ~20 minutes)\n\n### Prerequisite Knowledge\nBasic Python dictionaries and control flow.\n\n### Description\nSafaiOS rewards verified civic cle"
-    },
-    {
       "source": "article",
       "title": "Come ho automatizzato i deploy con Python",
       "value": 0,
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-23T20:45:45.163047",
+  "last_run": "2026-11-24T19:49:54.100402",
   "history": []
 }
