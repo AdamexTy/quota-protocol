@@ -2,38 +2,38 @@
   "leads": [
     {
       "source": "github_bounty",
-      "title": "🪙 [Web3] Bounty (2): Research how other swap boxes handle l",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/104",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5813",
       "value": 0,
-      "desc": "🤖 **Bounty Encontrado en Web3**\n\n- **Título:** Bounty (2): Research how other swap boxes handle loss and junk, and write up what you find\n- **Monto:** Ver enlace\n- **Plataforma:** Web3\n- **Enlace:** [https://github.com/Fishers-Founders-United/Swapatron5000/issues/98](https://github.com/Fishers-Found"
-    },
-    {
-      "source": "github_bounty",
-      "title": "🪙 [Web3] [Bounty] Answer the 5 linked question(s)",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/103",
-      "value": 0,
-      "desc": "🤖 **Bounty Encontrado en Web3**\n\n- **Título:** [Bounty] Answer the 5 linked question(s)\n- **Monto:** $0\n- **Plataforma:** Web3\n- **Enlace:** [https://github.com/Ikalus1988/MisakaNet/issues/5735](https://github.com/Ikalus1988/MisakaNet/issues/5735)\n\n---\n\n### 💰 Payment Details\n- BTC: bc1qt3rukpe7qp737"
-    },
-    {
-      "source": "github_bounty",
-      "title": "🪙 [Web3] [Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/102",
-      "value": 0,
-      "desc": "🤖 **Bounty Encontrado en Web3**\n\n- **Título:** [Bounty] Answer the 3 linked question(s)\n- **Monto:** $0\n- **Plataforma:** Web3\n- **Enlace:** [https://github.com/Ikalus1988/MisakaNet/issues/5736](https://github.com/Ikalus1988/MisakaNet/issues/5736)\n\n---\n\n### 💰 Payment Details\n- BTC: bc1qt3rukpe7qp737"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Bounty program: community detection/DLP rules with corpus fixtures",
-      "url": "https://github.com/blitzcrieg1/agentmetry/issues/454",
-      "value": 0,
-      "desc": "# Detection rule bounty program\n\nAgentmetry's detection engine is only as good as its rules. This program turns the\nopen `detection-rule` / `dlp-rule` issues (tagged `bounty`) into a community\ncontribution track with a defined bar, so anyone can ship a rule and have it\ncounted in CI forever.\n\n## Wha"
+      "desc": "<!-- misakanet-question-bounty:anchor-5399 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5749",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5812",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5274 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-4938 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5811",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-5326 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5810",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-5591 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+    },
+    {
+      "source": "github_bounty",
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5809",
+      "value": 0,
+      "desc": "<!-- misakanet-question-bounty:anchor-5731 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
@@ -72,38 +72,38 @@
     },
     {
       "source": "github_bounty",
-      "title": "[Sponsor-Funded Bounty $5] feat(qa & api): automated pytest suite, batch predict",
-      "url": "https://github.com/viniciusscience/fishid-studio/issues/9",
-      "value": 5,
-      "desc": "### 💡 $5 Community-Sponsored Bounty (Transparent Terms)\n> **FishID Studio** is an open-source Master's research project (UNIVALI / LEMA — UN SDG 14).\n> **100% of our first $5 USD project sponsorship/donation** will be paid directly to the contributor whose PR completes the 5 items below and is merge"
+      "title": "Show the build revision and configured contract IDs in the app",
+      "url": "https://github.com/MoscowDev/liquivault-frontend/issues/5",
+      "value": 0,
+      "desc": "<!-- liquivault-backlog:build-provenance -->\n\n## Context\n\nThe hosted demo does not say which frontend commit or contract deployment it runs, so bug reports and evidence cannot be tied to a revision.\n\n## Scope\n\n`app/setup/page.tsx` or a footer component, `next.config.mjs`, `.env.example`\n\n## Suggeste"
     },
     {
       "source": "github_bounty",
-      "title": "Demo pages: decorative icons are missing focusable=\"false\"",
-      "url": "https://github.com/odonckers/domestic-ui/issues/67",
+      "title": "Run contract host tests on Windows and macOS in CI",
+      "url": "https://github.com/MoscowDev/liquivault-contracts/issues/6",
       "value": 0,
-      "desc": "## Problem\n\nOn the three vanilla demo pages, decorative SVG icons have `aria-hidden=\"true\"` but are missing `focusable=\"false\"`. The library's icon convention, as the Icon docs snippet shows, is that decorative icons next to a visible label carry both attributes. The docs pages already follow it; th"
+      "desc": "<!-- liquivault-backlog:cross-platform-ci -->\n\n## Context\n\nCI runs only on `ubuntu-latest`, while the CONTRIBUTING guide documents PowerShell setup. Windows and macOS contributor setups are untested.\n\n## Scope\n\n`.github/workflows/ci.yml`\n\n## Suggested complexity\n\nTrivial; final Wave complexity is se"
     },
     {
       "source": "github_bounty",
-      "title": "feat(docs): add heading anchors to the search index",
-      "url": "https://github.com/odonckers/domestic-ui/issues/52",
+      "title": "Assert specific error variants in escrow negative-path tests",
+      "url": "https://github.com/MoscowDev/liquivault-contracts/issues/5",
       "value": 0,
-      "desc": "* **Problem:** `search-index.json` lists each page's h2/h3 headings as plain text only, so a search result can open a page but not the section that matched. It also picks up the \"On this page\" heading of the table of contents on most pages, which is noise in results.\n* **Scope in:** in `searchIndex("
+      "desc": "<!-- liquivault-backlog:specific-error-assertions -->\n\n## Context\n\nEscrow negative tests in `contracts/factoring_escrow/src/test.rs` check only `.is_err()`, so a call failing for the wrong reason still passes. Double settlement, settling an unfactored invoice and defaulting an already-settled invoic"
     },
     {
       "source": "github_bounty",
-      "title": "[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC",
-      "url": "https://github.com/EliCunninghamDev/haiku-core/issues/1",
+      "title": "docs(a11y): verify seven-theme gallery at narrow viewport widths",
+      "url": "https://github.com/dporkka/syntyr-css/issues/409",
       "value": 0,
-      "desc": "## 🥩 Bounty HAIKU-000\n\n| | |\n|---|---|\n| **Program** | haiku-core |\n| **Reward** | **$0.00 USDC** |\n| **Payout rail** | USDC on Base (ERC-20) |\n| **Escrow** | Not funded. There is no escrow address. |\n| **Severity** | None |\n| **KYC** | Not applicable — there is nothing to pay out |\n| **Status** | O"
+      "desc": "A scoped manual review supporting #24 and #101, not a claim of WCAG compliance. Open examples/themes.html at 320 and 390 CSS pixels and at 200% browser zoom. Check all seven cards for readable labels, wrapping, visible focus and unintended horizontal scrolling. Document browser/version, commit, view"
     },
     {
       "source": "github_bounty",
-      "title": "feat(mock): add mock incident seed dataset generator for civic mobile app develo",
-      "url": "https://github.com/TheVicky1/Safai_OS/issues/35",
+      "title": "Test and document arrival order when density scores tie",
+      "url": "https://github.com/henrivalle/slice-admission-bench/issues/5",
       "value": 0,
-      "desc": "### Domain\nFrontend, Mobile & Civic App Integration\n\n### Target File\n`scripts/generate_mock_incidents.py`\n\n### Difficulty\nBeginner (Python Scripting • ~20-30 minutes)\n\n### Prerequisite Knowledge\nPython standard library `json`, `uuid`, `random`.\n\n### Description\nFrontend web developers and mobile Rea"
+      "desc": "When two requests have exactly the same normalized reward density, the density policy keeps their input order. This can change which request fits when the budget can admit only one. Make this behavior explicit for people reproducing classroom examples.\n\n## What to change\n\n- Add a regression test to "
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-24T19:49:54.100402",
+  "last_run": "2026-11-25T18:55:09.679510",
   "history": []
 }
