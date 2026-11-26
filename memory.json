@@ -3,37 +3,37 @@
     {
       "source": "github_bounty",
       "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5813",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5849",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5399 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "<!-- misakanet-question-bounty:anchor-5058 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5812",
+      "title": "Supply rule for MANTRA (MANTRA)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/112",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-4938 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "**Bounty: 2 RESET** (paid when merged, see CONTRIBUTING.md)\n\nMANTRA (MANTRA, site id `mantra`) trades on TraderMarketCap but has no sourced supply, so it has no rank or market cap.\n\n**Done when:** a rule for `mantra` publishes total supply read from the chain (its own chain) and circulating supply ="
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5811",
+      "title": "Supply rule for Monad (MON)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/109",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5326 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "**Bounty: 2 RESET** (paid when merged, see CONTRIBUTING.md)\n\nMonad (MON, site id `monad`) trades on TraderMarketCap but has no sourced supply, so it has no rank or market cap.\n\n**Done when:** a rule for `monad` publishes total supply read from the chain (its own chain) and circulating supply = total"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5810",
+      "title": "Supply rule for Official Trump (TRUMP)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/108",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5591 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "**Bounty: 2 RESET** (paid when merged, see CONTRIBUTING.md)\n\nOfficial Trump (TRUMP, site id `official-trump`) trades on TraderMarketCap but has no sourced supply, so it has no rank or market cap.\n\n**Done when:** a rule for `official-trump` publishes total supply read from the chain (Solana) and circ"
     },
     {
       "source": "github_bounty",
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5809",
+      "title": "Supply rule for LayerZero (ZRO)",
+      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/107",
       "value": 0,
-      "desc": "<!-- misakanet-question-bounty:anchor-5731 -->\n# [Bounty] Answer the 2 linked question(s)\n\n## Context\n\nThese intakes ask about something no lesson covers. Measured through the production retrieval path (BM25 plus the IDF-weighted relevance floor), every one of them returns `no_match` — so there is n"
+      "desc": "**Bounty: 2 RESET** (paid when merged, see CONTRIBUTING.md)\n\nLayerZero (ZRO, site id `layerzero`) trades on TraderMarketCap but has no sourced supply, so it has no rank or market cap.\n\n**Done when:** a rule for `layerzero` publishes total supply read from the chain (its token contracts) and circulat"
     },
     {
       "source": "github_bounty",
@@ -72,6 +72,27 @@
     },
     {
       "source": "github_bounty",
+      "title": "Docs: worked example scanning a TRL GRPO reward function",
+      "url": "https://github.com/ranjeetds/hackfloor/issues/18",
+      "value": 0,
+      "desc": "### Context\nThe quickstart scans bundled fixtures. A short end-to-end walkthrough for a realistic TRL GRPO reward function would show new users how to point hackfloor at their own code and read the result.\n\n### Proposal\nA docs page `docs/examples/trl-grpo.md` that:\n1. shows a small GRPO-style reward"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Adapter: OpenRLHF reward functions",
+      "url": "https://github.com/ranjeetds/hackfloor/issues/14",
+      "value": 0,
+      "desc": "### Context\nhackfloor already detects the plain, verl and TRL reward-function signatures. OpenRLHF's custom reward functions use a different signature, so they cannot be scanned yet.\n\n### Proposal\nAdd an `openrlhf` flavor to `RewardFunctionSubject`. Look up the current signature in OpenRLHF's docume"
+    },
+    {
+      "source": "github_bounty",
+      "title": "Probe: HF-ASSERT, confident correctness claims with no answer",
+      "url": "https://github.com/ranjeetds/hackfloor/issues/9",
+      "value": 0,
+      "desc": "### Context\nSome graders, especially LLM judges and lenient rubric scorers, reward a completion that *claims* to be correct. hackfloor's `HF-JUDGE` covers explicit instructions to a judge. A separate, plainer variant is missing: confident assertions with no attempt at the task, such as \"I have verif"
+    },
+    {
+      "source": "github_bounty",
       "title": "Show the build revision and configured contract IDs in the app",
       "url": "https://github.com/MoscowDev/liquivault-frontend/issues/5",
       "value": 0,
@@ -83,27 +104,6 @@
       "url": "https://github.com/MoscowDev/liquivault-contracts/issues/6",
       "value": 0,
       "desc": "<!-- liquivault-backlog:cross-platform-ci -->\n\n## Context\n\nCI runs only on `ubuntu-latest`, while the CONTRIBUTING guide documents PowerShell setup. Windows and macOS contributor setups are untested.\n\n## Scope\n\n`.github/workflows/ci.yml`\n\n## Suggested complexity\n\nTrivial; final Wave complexity is se"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Assert specific error variants in escrow negative-path tests",
-      "url": "https://github.com/MoscowDev/liquivault-contracts/issues/5",
-      "value": 0,
-      "desc": "<!-- liquivault-backlog:specific-error-assertions -->\n\n## Context\n\nEscrow negative tests in `contracts/factoring_escrow/src/test.rs` check only `.is_err()`, so a call failing for the wrong reason still passes. Double settlement, settling an unfactored invoice and defaulting an already-settled invoic"
-    },
-    {
-      "source": "github_bounty",
-      "title": "docs(a11y): verify seven-theme gallery at narrow viewport widths",
-      "url": "https://github.com/dporkka/syntyr-css/issues/409",
-      "value": 0,
-      "desc": "A scoped manual review supporting #24 and #101, not a claim of WCAG compliance. Open examples/themes.html at 320 and 390 CSS pixels and at 200% browser zoom. Check all seven cards for readable labels, wrapping, visible focus and unintended horizontal scrolling. Document browser/version, commit, view"
-    },
-    {
-      "source": "github_bounty",
-      "title": "Test and document arrival order when density scores tie",
-      "url": "https://github.com/henrivalle/slice-admission-bench/issues/5",
-      "value": 0,
-      "desc": "When two requests have exactly the same normalized reward density, the density policy keeps their input order. This can change which request fits when the budget can admit only one. Make this behavior explicit for people reproducing classroom examples.\n\n## What to change\n\n- Add a regression test to "
     },
     {
       "source": "article",
@@ -120,6 +120,6 @@
       "desc": "Lista tool"
     }
   ],
-  "last_run": "2026-11-25T18:55:09.679510",
+  "last_run": "2026-11-26T18:44:56.159821",
   "history": []
 }
